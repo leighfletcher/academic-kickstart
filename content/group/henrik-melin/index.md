@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = [Postdocs]
 
 # Project summary to display on homepage.
 summary = ""
@@ -44,4 +44,8 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = ""
 +++
 
-Henrik Melin
+Henrik is an STFC-supported postdoc in Leicester's planetary atmospheres team.
+
+Expertise:
+
+Selected Papers: 
