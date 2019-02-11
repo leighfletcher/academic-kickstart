@@ -6,7 +6,7 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -14,6 +14,10 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I supervise graduate (PhD) students, Masters research projects (4th year undergraduates) and advanced reading projects, and 3rd-year BA projects.
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+In addition, I manage the Summer Undergraduate Research Experience (SURE) on behalf of the Physics and Astronomy Department.
+
+I have previously served as a tutor for Atmospheric and Climate Physics, Astrophysics, Fluid Flows and Complexity, Exoplanet Atmospheres.  
+
+

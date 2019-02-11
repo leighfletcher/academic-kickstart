@@ -19,27 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Royal Society Research Fellow (URF)"
+  company = "Atmospheric, Oceanic and Planetary Physics, University of Oxford"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  location = "Oxford"
+  date_start = "2010-01-01"
+  date_end = "2015-08-01"
+  description = "Research fellowships funded by the Royal Society and a Glasstone Science Fellowship"
+ # Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+ # * Analysing
+ # * Modelling
+ # * Deploying
+ # """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "NASA Postdoctoral Fellow"
+  company = "Caltech/NASA Jet Propulsion Laboratory"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2008-01-01"
+  date_end = "2010-01-01"
+  description = "Giant planet observations from Earth-based telescopes."
 
 +++
