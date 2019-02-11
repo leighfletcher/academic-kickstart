@@ -10,10 +10,10 @@ role = "Associate Professor in Planetary Sciences"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Leicester", url = "" } ]
+organizations = [ { name = "University of Leicester", url = "https://le.ac.uk/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research uses a synthesis of data from robotic spacecraft and ground-based observatories to explore the atmospheres of the planets in our solar system."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
