@@ -1,11 +1,11 @@
 +++
-title = "Example Doc"
+title = "Dr. Example"
 date = 2019-02-12T20:02:31Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Postdocs"]
 
 # Project summary to display on homepage.
 summary = ""
@@ -31,7 +31,10 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+url_custom = [{icon_pack = "fab", icon="twitter", url = "https://twitter.com/@leighfletcher"},
+	{icon_pack = "ai", icon="google-scholar", url = "https://scholar.google.co.uk/citations?user=R2EC87cAAAAJ"},
+	{icon_pack = "fab", icon="github", url = "https://github.com/leighfletcher"},
+	{icon_pack = "fas", icon="envelope", url = "mailto:leigh.fletcher@le.ac.uk"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -44,18 +47,20 @@ url_poster = ""
   focal_point = ""
 +++
 
-# List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Planetary Physics"
-  institution = "University of Oxford"
-  year = 2007
+## Research Interests
+* Planetary atmospheres
+* Spectral Inversion and Radiative Transfer
+* Earth-based observations
 
-[[education.courses]]
-  course = "MSci in Natural Sciences"
-  institution = "University of Cambridge"
-  year = 2004
+## Biography
+Dr. Example is a post-doctoral research fellow at the University of Leicester, specialising in...
 
-[[education.courses]]
-  course = "BA in Natural Sciences"
-  institution = "University of Cambridge"
-  year = 2003
+## Experience
+* Post-doctoral Research Fellow at the University of Leicester, 2010-2019.
+
+## Qualifications
+* PhD in Planetary Physics, University of Leicester (2010).
+* MSci in Physics, University of Leicester (2007).
+
+## Selected Publications
+Example et al., (2018), Awesome New Planetary Science, Nature, accepted.
