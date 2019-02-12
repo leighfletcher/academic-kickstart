@@ -1,11 +1,11 @@
 +++
-title = "Dr Henrik Melin"
-date = 2016-04-01T00:00:00Z
+title = "Example Doc"
+date = 2019-02-12T20:02:31Z
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Postdocs"]
+tags = []
 
 # Project summary to display on homepage.
 summary = ""
@@ -13,7 +13,7 @@ summary = ""
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -31,14 +31,10 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", url = "https://twitter.com/@hmelin_"},
-#	{icon_pack = "ai", icon="google-scholar", url = "https://scholar.google.co.uk/citations?user=R2EC87cAAAAJ"},
-#	{icon_pack = "fab", icon="github", url = "https://github.com/henrikmelin"},
-#	{icon_pack = "fas", icon="envelope", url = "mailto:hpm5@le.ac.uk"}]
-
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -46,10 +42,20 @@ url_poster = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-  
- 
 +++
 
-Henrik is an STFC-supported postdoc in Leicester's planetary atmospheres team.
+# List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "PhD in Planetary Physics"
+  institution = "University of Oxford"
+  year = 2007
 
+[[education.courses]]
+  course = "MSci in Natural Sciences"
+  institution = "University of Cambridge"
+  year = 2004
 
+[[education.courses]]
+  course = "BA in Natural Sciences"
+  institution = "University of Cambridge"
+  year = 2003
