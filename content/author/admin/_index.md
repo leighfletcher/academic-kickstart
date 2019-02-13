@@ -65,8 +65,17 @@ interests = [
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/leighfletcher"
-  
-  
+
+[[social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-5834-9588"  
+
+[[social]]
+        icon = "researchgate"
+        icon_pack = "ai"
+        link = "https://www.researchgate.net/profile/Leigh_Fletcher"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -78,13 +87,13 @@ interests = [
 +++
 
 Dr. Leigh Fletcher is a Planetary Scientist specialising in the exploration of our Solar System's giant planets via
-robotic spacecraft missions and ground-based astronomical facilities.  He is a Royal Society University 
+robotic spacecraft missions and ground-based astronomical facilities.  He is a Royal Society University
 Research Fellow (URF) and Associate Professor in Planetary Sciences at the University of Leicester.    
 
-He earned a Natural Science degree from Cambridge, a PhD in Planetary Physics from Oxford, and has since worked as a NASA 
-fellow at the Jet Propulsion Laboratory and as a Research Fellow at Oxford.  He was the recipient of the 2016 Harold C. 
-Urey prize for outstanding achievements in planetary science by an early-career scientist, awarded by the Division for 
-Planetary Sciences (DPS) of the American Astronomical Society.  He is a co-investigator on the Cassini mission to Saturn, 
-the JUICE mission to Jupiter, and a passionate advocate for future exploration of the distance Ice Giants.  He currently leads 
-a planetary atmospheres team at the University of Leicester, funded by the Royal Society, STFC, and the European Research 
+He earned a Natural Science degree from Cambridge, a PhD in Planetary Physics from Oxford, and has since worked as a NASA
+fellow at the Jet Propulsion Laboratory and as a Research Fellow at Oxford.  He was the recipient of the 2016 Harold C.
+Urey prize for outstanding achievements in planetary science by an early-career scientist, awarded by the Division for
+Planetary Sciences (DPS) of the American Astronomical Society.  He is a co-investigator on the Cassini mission to Saturn,
+the JUICE mission to Jupiter, and a passionate advocate for future exploration of the distance Ice Giants.  He currently leads
+a planetary atmospheres team at the University of Leicester, funded by the Royal Society, STFC, and the European Research
 Council.
