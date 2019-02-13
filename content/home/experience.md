@@ -18,6 +18,22 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Assistant Professor in Planetary Sciences"
+  company = "Department of Physics and Astronomy, University of Leicester"
+  company_url = ""
+  location = "Leicester"
+  date_start = "2015-08-01"
+  date_end = ""
+  description = "Research funded by the Royal Society, European Research Council, and Science and Technology Facilities Council (STFC)."
+ # Responsibilities include:
+
+ # * Analysing
+ # * Modelling
+ # * Deploying
+ # """
+
 [[experience]]
   title = "Royal Society Research Fellow (URF)"
   company = "Atmospheric, Oceanic and Planetary Physics, University of Oxford"
@@ -27,7 +43,7 @@ date_format = "January 2006"
   date_end = "2015-08-01"
   description = "Research fellowships funded by the Royal Society and a Glasstone Science Fellowship"
  # Responsibilities include:
-  
+
  # * Analysing
  # * Modelling
  # * Deploying
@@ -40,6 +56,6 @@ date_format = "January 2006"
   location = "California"
   date_start = "2008-01-01"
   date_end = "2010-01-01"
-  description = "Giant planet observations from Earth-based telescopes."
+  description = "Giant planet observations from Earth-based telescopes working with Dr. Glenn Orton."
 
 +++
