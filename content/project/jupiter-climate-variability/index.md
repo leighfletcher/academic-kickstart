@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Exploring Saturn's seasons from Cassini and ground-based telescopes."
+summary = "Jupiter's long-term atmospheric cycles from ground-based telescopes."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

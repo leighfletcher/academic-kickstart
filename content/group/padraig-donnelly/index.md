@@ -43,3 +43,36 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+## Research Interests
+* Planetary atmospheres
+* Spectral Inversion and Radiative Transfer
+* Gas giants
+* Earth-based observations
+
+## Biography
+Padraig Donnelly is a postgraduate researcher at the University of Leicester, specialising in the atmosphere of Jupiter. He uses a ground-based dataset from the Very Large Telescope in Chile to characterise the temporal variability in the Jovian troposphere and stratosphere as part of a ground wider support campaign for NASA’s Juno spacecraft providing the much-needed simultaneous mid-infrared measurements for each approach as well as putting these into the context the entire Jovian year leading up to and including the Juno epoch. He is a keen supporter of the collaborative professional-amateur astronomy community and participates in scientific and University of Leicester Physics outreach events.
+
+## Contact
+<i class="fab fa-twitter"></i> [@PTDonnelly](https://twitter.com/PTDonnelly)
+
+<i class="fab fa-github"></i> [PTDonnelly](https://github.com/PTDonnelly)
+
+<i class="fas fa-envelope"></i>[Email Me](mailto:ptd10@le.ac.uk)
+
+<i class="ai ai-google-scholar-square ai-1x"></i> [Google Scholar](https://scholar.google.co.uk/citations?user=MvRpWT8AAAAJ&hl=en)
+
+<i class="ai ai-orcid-square ai-1x"></i> [ORCID](https://orcid.org/0000-0002-4241-0302)
+
+<i class="ai ai-researchgate-square ai-1x"></i> [ResearchGate](https://www.researchgate.net/profile/Padraig_Donnelly)
+
+<i class="ai ai-researcherid-square ai-1x"></i> [Researcher ID](http://www.researcherid.com/rid/C-9912-2019)
+
+<i class="ai ai-LinkedIn-square ai-1x"></i> [Researcher ID](https://www.linkedin.com/in/padraigdonnelly)
+
+## Experience
+* PhD student at the University of Leicester, 2016-present.
+
+## Qualifications
+* MSc in Space Exploration and Development Systems, University of Leicester (2016)
+* BSc in Physics with Astrophysics, University of Leicester (2015). 
