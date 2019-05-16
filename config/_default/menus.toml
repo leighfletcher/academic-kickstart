@@ -23,6 +23,10 @@
   url = "#projects"
   weight = 5
 
+[[main]]
+    name = "Engagement"
+    url = "#engagement"
+    weight = 6
 #[[main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
@@ -31,7 +35,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 [[main]]
   name = "Group"

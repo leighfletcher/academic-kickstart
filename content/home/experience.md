@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Assistant Professor in Planetary Sciences"
+  title = "Associate Professor in Planetary Sciences"
   company = "Department of Physics and Astronomy, University of Leicester"
   company_url = ""
   location = "Leicester"

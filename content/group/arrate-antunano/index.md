@@ -1,5 +1,5 @@
 +++
-title = "Dr Arrate Antunano"
+title = "Dr Arrate Antuñano"
 date = 2019-02-11T21:31:23Z
 draft = false
 
@@ -41,7 +41,7 @@ url_poster = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "TopRight"
 +++
 
 ## Research Interests
@@ -52,7 +52,7 @@ url_poster = ""
 * Earth-based observations
 
 ## Biography
-Dr. Arrate Antu\{~n}ano is a post-doctoral research fellow at the University of Leicester, specialising in the long-term variability of Jupiter’s atmosphere. She uses ground-based infrared data from several previous and present instruments mounted on the NASA’s 3-meter Infrared Telescope Facility on Maunakea, Hawai’i, and on the Very Large Telescope in Chile to characterise the temporal variability of Jupiter’s troposphere and stratosphere, by analysing changes in the clouds, aerosols and temperatures. She also collaborates in a wide range of international projects studying the gas giants’ atmospheres and attends diverse outreach events.
+Dr. Arrate Antuñano is a post-doctoral research fellow at the University of Leicester, specialising in the long-term variability of Jupiter’s atmosphere. She uses ground-based infrared data from several previous and present instruments mounted on the NASA’s 3-meter Infrared Telescope Facility on Maunakea, Hawai’i, and on the Very Large Telescope in Chile to characterise the temporal variability of Jupiter’s troposphere and stratosphere, by analysing changes in the clouds, aerosols and temperatures. She also collaborates in a wide range of international projects studying the gas giants’ atmospheres and attends diverse outreach events.
 
 ## Contact
 <i class="fab fa-twitter"></i> [@arrate_wp01](https://twitter.com/arrate_wp01)
