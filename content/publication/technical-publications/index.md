@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = ""
 +++
 
-This page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
+TThis page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
 
 1. James M. Bauer,  Stefanie Milam, Gordon Bjoraker, Sean Carey, Doris Daou, Leigh Fletcher, Walt Harris, Paul Hartogh, Christine Hartzell, Amanda Hendrix, Carrie Nugent, Andy Rivkin, Timothy Swindle, Cristina Thomas, Matthew S. Tiscareno, Geronimo Villanueva, Scott Wolk (2019),  Planetary Science with Astrophysical Assets:  Defining the Core Capabilities of Platforms, submitted to the US Astrophysics Decadal Survey
 
@@ -67,7 +67,8 @@ This page lists my contributions to White Papers, Technical Reports, and Mission
 1. Fletcher, L.N., Irwin, P.G.J., Swinyard, B., Melin, H., Badman, S., O'Donoghue, J., Casewell, S., Bowles, N., Weidman, D., Rengel, M. et al., Exploring Planetary Origins and Environments in the Infrared:  A Planetary Science Infrared Observatory, White Paper for ESA L2/L3 Science Themes, (2013).
 
 1. Mousis, O., Fletcher, L.N., et al., In Situ Exploration of the Giant Planets and a Saturn Entry Probe Concept, White Paper for ESA L2/L3 Science Themes, (2013).
-Arridge, C. et al., The Science Case for an Orbital Mission to Uranus, White Paper for ESA L2/L3 Science Themes, (2013).
+
+1. Arridge, C. et al., The Science Case for an Orbital Mission to Uranus, White Paper for ESA L2/L3 Science Themes, (2013).
 
 1. Adam Masters, Stefano Campagnola, Andrew Coates, Javier Ruiz, Sébastien Charnoz, Leigh Fletcher, Francesco Marzari, Bruno Christophe, Craig Agnor, Nadine Nettelmann, Nicholas Achilleos et al., Neptune and Triton:  Essential Pieces of the Solar System Puzzle, White Paper for ESA L2/L3 Science Themes, (2013).
 
@@ -88,6 +89,8 @@ Arridge, C. et al., The Science Case for an Orbital Mission to Uranus, White Pap
 1. Christopher S. Arridge, Craig B. Agnor, Nicolas André, Kevin H. Baines, Leigh N. Fletcher, Daniel Gautier, Mark Hofstadter, Geraint H. Jones, Laurent Lamy, Yves Langevin, Olivier Mousis, Nadine Nettelmann, Christopher T. Russell, Tom Stallard, Gabriel Tobie and Matthew S. Tiscareno on behalf of the Uranus Pathfinder consortium, (2010), Uranus Pathfinder: Exploring the Origins and Evolution of Ice Giant Planets, ESA M3 Mission Proposal
 
 1. F. Marchis, R. Hueso, O. Mousis, G. Orton, L.N. Fletcher, S. Perez-Hoyos, IAU Circ 9060, Jupiter, 3, Jul. 2009
+
+1. Wong, M.H., M. Ádámkovics, S.K. Atreya, D. Banfield, J. Bell, S. Benecchi, G. Bjoraker, J.R. Casani, J.T. Clarke, I. de Pater, S.G. Edgington, L.N. Fletcher, R.G. French, W. Grundy, A.R. Hendrix, E. Karkoschka, J.-Y. Li, F. Marchis, M.A. McGrath, W.J. Merline, J.I. Moses, K. Noll, G.S. Orton, K.A. Rages, K. Retherford, K. Sayanagi, N. Schneider, E.H. Smith, L. A. Sromovsky, N. J. Strange, A. Verbiscer, P.A. Yanamandra-Fisher (2009) A dedicated space observatory for time-domain solar system science. White Paper submitted to the 2009-2011 Planetary Science Decadal Survey.
 
 1. Glenn S. Orton, L. N. Fletcher, T. Stallard, K. Baines, K. M. Sayanagi, Y. Yung, S. Edgington, S. Gulkis, J. Moses, F. J. Martin-Torres, U. Dyudina, B. Marty, N. Teanby, P.G.J. Irwin, T. Cavalié, D.H. Atkinson, O. Mousis, A.J. Friedson, T.R. Spilker, M. Hofstadter, R. Morales-Juberias, A.P. Showman, X. Liu, P. Hartogh, M. Wong, T.R. Spilker, M.B. Lystrup, A. Coustenis, T. Greathouse, R. K. Achterberg, G.L. Bjoraker, S.S. Limaye, P. Read, D. Gautier, D.S. Choi, T. Kostiuk, D. Huestis, A.F. Nagy, M. Choukroun, I. Muller-Wodarg, P. Yanamandra-Fisher (2009), Saturn Atmospheric Science in the Next Decade, Planetary Science Decadal Survey 2013-2023 White Paper.
 
