@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 155 articles in peer-reviewed journals & books, 31 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, etc.)
+* 156 articles in peer-reviewed journals & books, 31 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,21 +54,19 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/2793878/leigh-n-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
 
+1. Edward M. Molter, Imke de Pater, Michael T. Roman, Leigh N. Fletcher (2019), *Thermal Emission from the Uranian Ring System*, Astronomical Journal, in press (https://arxiv.org/abs/1905.12566)
+
 1. Patrick G.J. Irwin, Daniel Toledo, Ashwin S. Braude, Roland Bacon, Peter M. Weilbacher, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton (2019), *Latitudinal variation in the abundance of methane (CH4) above the clouds in Neptune’s atmosphere from VLT/MUSE Narrow Field Mode Observations*, Icarus, in press (https://doi.org/10.1016/j.icarus.2019.05.011) (https://arxiv.org/abs/1905.03516)
 
 1. J. A. Sinclair, G. S. Orton, J. Fernandes, Y. Kasaba, T. M. Sato, T. Fujiyoshi, C. Tao, M. F. Vogt, D. Grodent, B. Bonfond, J. I. Moses, T. K. Greathouse, W. Dunn, R. S. Giles, F. Tabataba-Vakili, L. N. Fletcher & P. G. J. Irwin (2019), *A brightening of Jupiter’s auroral 7.8-μm CH4 emission during a solar-wind compression*, Nature Astronomy (https://doi.org/10.1038/s41550-019-0743-x)
 
 1. J.A. Sinclair, J.I. Moses, V. Hue, T.K. Greathouse, G.S. Orton, L.N. Fletcher, P.G.J. Irwin (2019), *Jupiter's auroral-related stratospheric heating and chemistry III: Abundances of C2H4, CH3C2H, C4H2 and C6H6 from Voyager-IRIS and Cassini-CIRS*, Icarus, 328, pp176-193 (https://doi.org/10.1016/j.icarus.2019.03.012)
 
-
 1. Arrate Antuñano, Teresa del Río-Gaztelurruti, Agustín Sánchez-Lavega, Peter L. Read, Leigh N. Fletcher (2019), *Potential Vorticity of Saturn's Polar Regions:  Seasonality and Instabilities*, Journal of Geophysical Research, 124, (https://doi.org/10.1029/2018JE005764) (https://arxiv.org/abs/1902.01173)
-
 
 1. Huazhi Ge, Xi Zhang, Leigh N. Fletcher, Glenn S. Orton, James Sinclair, Josh Fernandes, Tom Momary, Yasumasa Kasaba, Takao M. Sato, Takuya Fujiyoshi (2019), *Rotational Light Curves of Jupiter from UV to Mid-Infrared and Implications for Brown Dwarfs and Exoplanets*, Astronomical Journal, 157, p89+ (https://doi.org/10.3847/1538-3881/aafba7) (https://arxiv.org/abs/1901.01323)
 
-
 1. **Fletcher, L.N., Greathouse, T., Guerlet, S., Moses, J., & West, R. (2018). *Saturn’s Seasonally Changing Atmosphere: Thermal Structure, Composition and Aerosols*. In K. Baines, F. Flasar, N. Krupp, & T. Stallard (Eds.), Saturn in the 21st Century (Cambridge Planetary Science, pp. 251-294). Cambridge: Cambridge University Press. (http://dx.doi.org/10.1017/9781316227220.010) (http://arxiv.org/abs/1510.05690)**
-
 
 1. Sayanagi, K., Baines, K., Dyudina, U., Fletcher, L.N., Sánchez-Lavega, A., & West, R. (2018). Saturn’s Polar Atmosphere. In K. Baines, F. Flasar, N. Krupp, & T. Stallard (Eds.), Saturn in the 21st Century (Cambridge Planetary Science, pp. 337-376). Cambridge: Cambridge University Press (http://dx.doi.org/10.1017/9781316227220.012) (https://arxiv.org/abs/1609.09626)
 
