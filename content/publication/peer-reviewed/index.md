@@ -46,13 +46,17 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 156 articles in peer-reviewed journals & books, 31 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, etc.)
+* 158 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
-Additional information (and metrics) available via [PubLons](https://publons.com/researcher/2793878/leigh-n-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
+Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
+
+1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2019), How well do we understand the belt/zone circulation of Giant Planet atmospheres?  Space Science Reviews, submitted (https://arxiv.org/abs/1907.01822).**
+
+1. Arrate Antuñano, Leigh N. Fletcher, Glenn S. Orton, Henrik Melin, Steve Milan, John Rogers, Thomas Greathouse, Joseph Harrington, Padraig T. Donnelly, Rohini Giles (2019), Jupiter's Atmospheric Variability from Long-Term Ground-based Observations at 5 microns, Astronomical Journal, in press (https://arxiv.org/abs/1906.11088).
 
 1. Edward M. Molter, Imke de Pater, Michael T. Roman, Leigh N. Fletcher (2019), *Thermal Emission from the Uranian Ring System*, Astronomical Journal, in press (https://arxiv.org/abs/1905.12566)
 

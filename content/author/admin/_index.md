@@ -72,9 +72,9 @@ interests = [
     link = "https://orcid.org/0000-0001-5834-9588"  
 
 [[social]]
-        icon = "researchgate"
+        icon = "publons"
         icon_pack = "ai"
-        link = "https://www.researchgate.net/profile/Leigh_Fletcher"
+        link = "https://publons.com/researcher/1747661/leigh-fletcher/"
 
 
 # Link to a PDF of your resume/CV from the About widget.
