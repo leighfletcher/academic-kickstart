@@ -1,0 +1,73 @@
++++
+title = "Reviewing"
+date = 2019-07-11T09:14:18+01:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = []
+
+# Project summary to display on homepage.
+summary = "Reviewing & Panel Membership activities."
+
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = []
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++
+I have served as a reviewer for a wide range of peer-reviewed publications, proposals, and other committee activities.
+
+# Recognition
+* 2017 Editor’s Citation for Excellence in Refereeing - Geophysical Research Letters.
+* 2014 Certificate of Reviewing Excellence from the Editors of Icarus.
+
+# Journal Reviews
+* Icarus
+* Geophysical Research Letters
+* JGR-Planets
+* Nature Geoscience
+* Science
+* Astronomy and Astrophysics
+* Acta Astronautica
+* Monthly Notices of the Royal Astronomical Society
+* Planetary and Space Sciences
+* Astrophysical Journal Letters
+
+# Panel Member
+* STFC Balance of Programmes Committee (2019)
+* ESO Telescope Allocation Committee (2017, 2018)
+* DPS Prize Committee (2019)
+* Royal Astronomical Society Research Fellowships (2014).
+* ESA JUICE Preliminary Requirements Review (2014).
+
+
+# Proposal Reviews
+* Future Leaders Fellowships Scheme (2018)
+* STFC Ernest Rutherford Fellowships (External, 2014+).
+* STFC Consolidated Grants (2010+).
+* Chilean National Science and Technology Commission.
+* Leverhulme Trust Research Grants.
+* DIRAC High-Performance Computing.
+* COST Research Grants - Swiss State Secretariat for Education, Research and Innovation (SERI)
+* Cassini Data Analysis and Participating Scientist (CDAPS)
+* NASA’s Outer Planets Research Program (2011-2012).
+* Netherlands Organisation for Scientific Research Proposals.
+* NASA PDART (Planetary Data Archiving, Restoration, and Tools)

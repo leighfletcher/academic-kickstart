@@ -3,7 +3,7 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Publications and Talks"
+title = "Publications, Reviews, and Presentations"
 subtitle = ""
 
 # Order that this section will appear in.
