@@ -46,13 +46,19 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 158 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
+* 161 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
+
+1. Henrik Melin , L. N. Fletcher , T. S. Stallard , S. Miller , L. M. Trafton , L. Moore, J. O'Donoghue , R. J. Vervack , N. Dello Russo , L. Lamy , C. Tao  and M. N. Chowdhury (2019), The H3+ ionosphere of Uranus: decades-long cooling and local-time morphology, Philosophical Transactions of the Royal Society A, Volume 377,  (https://doi.org/10.1098/rsta.2018.0408)
+
+1. Imke de Pater, R. J. Sault, Chris Moeckel, Arielle Moullet, Michael H. Wong, Charles Goullaud, David DeBoer, Bryan Butler, Gordon Bjoraker, Mate Adamkovics, Richard Cosentino, Padraig T. Donnelly, Leigh N. Fletcher, Yasumasa Kasaba, Glenn Orton, John Rogers, James Sinclair, Eric Villard (2019), First ALMA Millimeter Wavelength Maps of Jupiter, with a Multi-Wavelength Study of Convection, AJ, in press (https://arxiv.org/abs/1907.11820)
+
+1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2019), Ice Giant Circulation Patterns: Implications for Atmospheric Probes, Space Science Reviews, submitted (https://arxiv.org/abs/1907.02901).**
 
 1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2019), How well do we understand the belt/zone circulation of Giant Planet atmospheres?  Space Science Reviews, submitted (https://arxiv.org/abs/1907.01822).**
 
