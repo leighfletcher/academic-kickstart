@@ -44,4 +44,20 @@ url_poster = ""
   focal_point = ""
 +++
 
-1. International Year of the Periodic Table (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.
+## Science Blogs
+
+I regularly provide scientific content for online websites, including the following:
+
+* [Planetary Wanderings](https://planetaryweather.blogspot.com) - personal blog maintained since 2007.
+* [Leicester to Jupiter](https://staffblogs.le.ac.uk/leicester-to-jupiter/) - creator of a blog at the University of Leicester to celebrate UK involvement in the Juno mission.
+* [The Conversation](https://theconversation.com/profiles/leigh-fletcher-154294) - including several articles on the Juno mission to Jupiter and the future exploration of Europa.
+* [Planetary Society](http://www.planetary.org/connect/our-experts/profiles/leigh-fletcher.html) - including Saturn's hexagon, Jupiter's meteorology, and Europa's plumes.
+* [Royal Society Inside Science](https://blogs.royalsociety.org/inside-science/2017/04/06/scientific-engagement-in-the-age-of-social-media/) - blog on scientific engagement in the age of social media.
+* [JPL Blog Posts](https://www.jpl.nasa.gov/blog/author/leigh-fletcher/) during the 2009 Impact on Jupiter.
+
+## Magazine Articles
+
+* [International Year of the Periodic Table](https://www.lpi.usra.edu/education/IYPT/) (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.
+* ROOM.EU Space Journal (September 2017):  An article on the end of the Cassini mission in the room.eu journal, available to subscribers via [this link](https://room.eu.com/article/cassini-observations-open-up-saturns-atmosphere).
+* Planetary Report (September 2017 Issue):  An article on "Saturn:  The Seasonal Giant" in the Equinox issue of the Planetary Report, available for [download here](http://www.planetary.org/explore/the-planetary-report/tpr-2017-3.html).
+* Astronomy Magazine (August 2017):  Ask an Astronomer column on how clouds form on the giant planets.
