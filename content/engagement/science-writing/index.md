@@ -58,6 +58,10 @@ I regularly provide scientific content for online websites, including the follow
 ## Magazine Articles
 
 * [International Year of the Periodic Table](https://www.lpi.usra.edu/education/IYPT/) (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.
+* [Society for Popular Astronomy Magazine](https://www.popastro.com/main_spa1/january-february-2019/) (2019), Pro-Am Collaborations and NASA’s Juno Mission.  
+* Astronomy and Geophysics (2018), Pro–am collaborations improve views of Jupiter, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)
 * ROOM.EU Space Journal (September 2017):  An article on the end of the Cassini mission in the room.eu journal, available to subscribers via [this link](https://room.eu.com/article/cassini-observations-open-up-saturns-atmosphere).
 * Planetary Report (September 2017 Issue):  An article on "Saturn:  The Seasonal Giant" in the Equinox issue of the Planetary Report, available for [download here](http://www.planetary.org/explore/the-planetary-report/tpr-2017-3.html).
+* Astronomy and Geophysics (2017), "Saturn's Seasonal Atmosphere", Volume 58, p4.26-4.30 (http://dx.doi.org/10.1093/astrogeo/atx138)
 * Astronomy Magazine (August 2017):  Ask an Astronomer column on how clouds form on the giant planets.
+* Astronomy and Geophysics (2013):  Future Exploration of the Outer Solar System, Volume 54, p2.14-2.20, http://dx.doi.org/10.1093/astrogeo/att032.  Featured as one of the Editors Choice Articles.
