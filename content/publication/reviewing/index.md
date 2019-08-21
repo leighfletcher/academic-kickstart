@@ -43,7 +43,7 @@ I have served as a reviewer for a wide range of peer-reviewed publications, prop
 * Icarus
 * Geophysical Research Letters
 * JGR-Planets
-* Nature Geoscience
+* Nature Geoscience and Nature Astronomy
 * Science
 * Astronomy and Astrophysics
 * Acta Astronautica
@@ -52,12 +52,12 @@ I have served as a reviewer for a wide range of peer-reviewed publications, prop
 * Astrophysical Journal Letters
 
 # Panel Member
+* Cambridge University Press Planetary Science Series - Editorial Board.
 * STFC Balance of Programmes Committee (2019)
 * ESO Telescope Allocation Committee (2017, 2018)
 * DPS Prize Committee (2019)
 * Royal Astronomical Society Research Fellowships (2014).
 * ESA JUICE Preliminary Requirements Review (2014).
-
 
 # Proposal Reviews
 * Future Leaders Fellowships Scheme (2018)
