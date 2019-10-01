@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 162 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
+* 163 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,9 +54,11 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
 
+1. R. Hueso, A. Sánchez-Lavega, J.F. Rojas, A.A. Simon, T. Barry, T. del Río-Gaztelurrutia, A. Antuñano, K.M. Sayanagi, M. Delcroix, L.N. Fletcher, E. García-Melendo, S. Pérez-Hoyos, J. Blalock, F. Colas, J. M. Gómez-Forrellad, J.L. Gunnarson, D. Peach, M.H. Wong (2019), *Saturn atmospheric dynamics one year after Cassini: Long-lived features and time variations in the drift of the Hexagon*, Icarus, in press (https://arxiv.org/abs/1909.13849) (https://doi.org/10.1016/j.icarus.2019.113429)
+
 1. T. Cavalie, V. Hue, P. Hartogh, R. Moreno, E. Lellouch, H. Feuchtgruber, C. Jarchow, T. Cassidy, L.N. Fletcher, F. Billebaud, M. Dobrijevic, L. Rezac, G.S. Orton, M. Rengel, T. Fouchet, and S. Guerlet (2019), *Herschel map of Saturn's stratospheric water, delivered by the plumes of Enceladus*, Astronomy & Astrophysics, accepted (http://arxiv.org/abs/1908.07399)
 
-1. Henrik Melin , L. N. Fletcher , T. S. Stallard , S. Miller , L. M. Trafton , L. Moore, J. O'Donoghue , R. J. Vervack , N. Dello Russo , L. Lamy , C. Tao  and M. N. Chowdhury (2019), *The H3+ ionosphere of Uranus: decades-long cooling and local-time morphology*, Philosophical Transactions of the Royal Society A, Volume 377,  (https://doi.org/10.1098/rsta.2018.0408)
+1. Henrik Melin, L. N. Fletcher, T. S. Stallard, S. Miller, L. M. Trafton, L. Moore, J. O'Donoghue, R. J. Vervack, N. Dello Russo, L. Lamy, C. Tao  and M. N. Chowdhury (2019), *The H3+ ionosphere of Uranus: decades-long cooling and local-time morphology*, Philosophical Transactions of the Royal Society A, Volume 377,  (https://doi.org/10.1098/rsta.2018.0408)
 
 1. Imke de Pater, R. J. Sault, Chris Moeckel, Arielle Moullet, Michael H. Wong, Charles Goullaud, David DeBoer, Bryan Butler, Gordon Bjoraker, Mate Adamkovics, Richard Cosentino, Padraig T. Donnelly, Leigh N. Fletcher, Yasumasa Kasaba, Glenn Orton, John Rogers, James Sinclair, Eric Villard (2019), *First ALMA Millimeter Wavelength Maps of Jupiter, with a Multi-Wavelength Study of Convection*, AJ, in press (https://arxiv.org/abs/1907.11820)
 

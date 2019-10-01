@@ -57,7 +57,7 @@ I regularly provide scientific content for online websites, including the follow
 
 ## Magazine Articles
 
-* [International Year of the Periodic Table](https://www.lpi.usra.edu/education/IYPT/) (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.
+* [International Year of the Periodic Table](https://www.lpi.usra.edu/education/IYPT/) (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.  Fletcher L., Shaner A., Webb S., and Portillo K. (2019) Top 5 Elements in the Atmosphere of Uranus. LPI Contribution No. 2205, Lunar and Planetary Institute, Houston.
 * [Society for Popular Astronomy Magazine](https://www.popastro.com/main_spa1/january-february-2019/) (2019), Pro-Am Collaborations and NASA’s Juno Mission.  
 * Astronomy and Geophysics (2018), Pro–am collaborations improve views of Jupiter, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)
 * ROOM.EU Space Journal (September 2017):  An article on the end of the Cassini mission in the room.eu journal, available to subscribers via [this link](https://room.eu.com/article/cassini-observations-open-up-saturns-atmosphere).
