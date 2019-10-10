@@ -13,7 +13,7 @@ summary = ""
 # Slides (optional).
 #   Associate this page with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -34,7 +34,7 @@ url_poster = ""
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -43,3 +43,9 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+## Podcasts
+
+* ITN Podcast on Exoplanets (commissioned by audible.com) - recorded in Leicester on October 10th 2019.
+
+* Space Boffins:  recorded a discussion of future missions to the Ice Giants at the UK Space Conference, September 25th 2019.
