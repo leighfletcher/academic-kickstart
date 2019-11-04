@@ -1,5 +1,5 @@
 +++
-title = "Professional Talks"
+title = "Talks"
 date = 2019-05-16T21:19:57+01:00
 draft = false
 
@@ -45,6 +45,39 @@ url_poster = ""
 +++
 
 This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.
+
+1.  **ESA's Voyage 2050 Workshop, Madrid, October 29th 2019:  Invited presentation of our white paper on *Ice Giant Systems:  Scientific Potential of Missions to Uranus and Neptune.***  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big Beasts -first up is <a href="https://twitter.com/LeighFletcher?ref_src=twsrc%5Etfw">@LeighFletcher</a> <a href="https://twitter.com/uniofleicester?ref_src=twsrc%5Etfw">@uniofleicester</a> with a mission to explore the Ice Giants Uranus and Neptune <a href="https://twitter.com/hashtag/voyage2050?src=hash&amp;ref_src=twsrc%5Etfw">#voyage2050</a> -“exoplanets in our backyard” <a href="https://t.co/RpTLOS0Usk">pic.twitter.com/RpTLOS0Usk</a></p>&mdash; chris lee (@cpl43uk) <a href="https://twitter.com/cpl43uk/status/1189204586848047104?ref_src=twsrc%5Etfw">October 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+1. European Planetary Science Congress (EPSC), Geneva, Switzerland, September 19th 2019: *Jupiter's Ammonia-Rich Equatorial Plumes.*
+
+1. **Invited Seminar Presentation at Queens University Belfast (QUB), March 27th 2019, *Exploring the Atmospheres of Uranus and Neptune***.
+
+1. Ice Giant Probe Workshop, Marseille, February 25th 2019:  Invited Talk on *Ice Giant Circulation Patterns inferred from Remote Sensing*
+
+1. **UK China Space Science Workshop, Ningbo, China, December 12th, 2018, *Giant Planet Exploration in the 2020s*, Invited Talk**
+
+1. **Invited Lecture at the International Space Science Institute (ISSI) in Bern, Switzerland, November 15th 2018:  *Jupiter Science in the Next Decade: From Juno to JUICE* (Invited)**
+
+1. Division of Planetary Science Meeting, October 26th 2018, Knoxville, Tennessee, *Contrasting Temperature Conditions at the Poles of Jupiter and Saturn.*
+
+1. International Outer Planets Watch (IOPW) Workshop, Knoxville, Tennessee, October 24th 2018, *Thermal-IR Observations of Saturn, Uranus, and Neptune*
+
+1. DPS Juno Workshop, Knoxville Tennessee, October 21st 2018, *Mid-Infrared Support for Juno's Perijoves, 2016-2018*
+
+1. 40th COSPAR Meeting, Pasadena, California, July 18th 2018, *VLT/VISIR Spectroscopy of Ice Giant Stratospheres in Preparation for JWST/MIRI*
+
+1. NEMESIS Users Meeting, Oxford, June 2018, *Thermal Emission from Giant Planets with NEMESIS.*
+
+1.  Royal Astronomical Society Juno Workshop, May 10th-11th 2018, *Jupiter in the Mid-Infrared and Future Support.*
+
+1. European Week of Astronomy and Space Science (EWASS), April 3rd-6th 2018, Liverpool, *Exploring Giant Planets with JWST*
+
+1. **Cassini Project Science Group Meeting (Remote Presentation), March 7th 2018, *Status of Saturn's North Polar Stratosphere at Northern Summer Solstice*, Invited Presentation.**
+
+1. ESTEC, March 1st 2018, *Earth-Based Support for Juno, JWST and JUICE,* presentation to JUICE Science Working Team Meeting.
+
+1. **Royal Astronomical Society, January 12th 2018, Extremely Large Telescope Workshop, *ELT Exploration of Giant Planet Systems*, Invited Talk**
 
 1. **ESTEC, December 2017: *Giant Planet Exploration with JWST*, Invited talk to the JWST Solar System Proposal Workshop.**
 

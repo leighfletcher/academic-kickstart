@@ -36,6 +36,7 @@ categories = []
 I have served as a reviewer for a wide range of peer-reviewed publications, proposals, and other committee activities.
 
 # Recognition
+* Associate Editor of Journal of Geophysical Research: Planets (2019-Present)
 * 2017 Editor’s Citation for Excellence in Refereeing - Geophysical Research Letters.
 * 2014 Certificate of Reviewing Excellence from the Editors of Icarus.
 

@@ -3,16 +3,16 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Publications"
+title = "Community"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 40
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "publication"
+folder = "community"
 
 # View.
 #   1 = List

@@ -1,5 +1,5 @@
 +++
-title = "Technical Publications"
+title = "Technical Papers"
 date = 2019-02-11T21:04:51Z
 draft = false
 
@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = ""
 +++
 
-TThis page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
+This page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
 
 1. Olivier Mousis, David H. Atkinson, Richard Ambrosi, Sushil Atreya, Don Banfield, Stas Barabash, Michel Blanc, Thibault Cavalié, Athena Coustenis, Magali Deleuil, Georges Durry, Francesca Ferri, Leigh Fletcher, Thierry Fouchet, Tristan Guillot, Paul Hartogh, Ricardo Hueso, Mark Hofstadter, Jean-Pierre Lebreton, Kathleen E. Mandt, Heike Rauer, Pascal Rannou, Jean-Baptiste Renard, Agustin Sanchez-Lávega, Kunio Sayanagi, Amy Simon, Thomas Spilker, Ethiraj Venkatapathy, J. Hunter Waite, Peter Wurz (2019), In situ Exploration of the Giant Planets, ESA Voyage 2050 White Paper (https://arxiv.org/abs/1908.00917)
 

@@ -1,5 +1,5 @@
 +++
-title = "Peer-Reviewed Articles"
+title = "Journal Articles"
 date = 2019-02-11T21:04:51Z
 draft = false
 

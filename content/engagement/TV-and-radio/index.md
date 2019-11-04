@@ -44,6 +44,11 @@ url_poster = ""
   focal_point = ""
 +++
 
+## Television
+
+### Sky at Night
+* May 2018:  Interviewed at the Royal Astronomical Society, providing an update on the latest discoveries from NASA's Juno mission.
+
 ## Podcasts
 
 * ITN Podcast on Exoplanets (commissioned by audible.com) - recorded in Leicester on October 10th 2019.
