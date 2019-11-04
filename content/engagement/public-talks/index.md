@@ -49,7 +49,7 @@ url_poster = ""
 * Pint of Science, Leicester, May 20th 2019: *Onwards to the Ice Giants* presentation at Manhattan 34.
 
 ## Astronomy Societies
-* Nene Valley Astromical Society, September 17th 2018, *Exploring the Weather of the Giant Planets*.
+* Nene Valley Astronomical Society (Northamptonshire), September 17th 2018, *Exploring the Weather of the Giant Planets*.
 * British Astronomical Association Weekend, July 7th 2018, University of Warwick, *Exploring the Weather of the Giant Planets via Professional-Amateur Collaboration*
 * Heart of England Astronomical Society, April 26th 2018, *New Views of the Jupiter System*.
 * Milton Keynes Astronomical Society, March 16th 2018, *Alien Snowstorms:  Climate and Weather on Other Worlds.*
