@@ -49,3 +49,5 @@ url_poster = ""
 *  Royal Society Book Prize (2018):  I served as one of five judges for the Royal Society's Science Book prize of 2018, reviewing a large number of books from April to September 2018, and attending both the Hay Festival (July) and the Winners Announcement in London (October) as a member of the judging panel.  Full details of the book prize can be [found here](https://royalsociety.org/grants-schemes-awards/book-prizes/science-book-prize/2018/).
 
 * Royal Society Summer Exhibition (July 2018):  Worked on the James Webb Space Telescope stand at the Royal Society, speaking with hundreds of members of the general public over the course of two days.  Full details about our display can be [found here](https://royalsociety.org/science-events-and-lectures/2018/summer-science-exhibition/exhibits/exploring-the-universe/).
+
+* Science Museum Lates (August 2017):  Presenting Cassini and Juno imaging on a big screen to hundreds of 'SML' guests.
