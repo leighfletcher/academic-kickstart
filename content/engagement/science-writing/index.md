@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Blogs and popular science writing."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

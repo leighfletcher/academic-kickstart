@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Press releases and coverage of our work."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -64,3 +64,8 @@ url_poster = ""
 * Mental Floss (July 12th 2017):  Interview with David Brown about the new images of Jupiter's Great Red Spot:  ["Here's the Closest View of Jupiter's Great Red Spot That Humans Have Ever Seen"](https://www.mentalfloss.com/article/502739/heres-closest-view-jupiters-great-red-spot-humans-have-ever-seen).
 * New Scientist (May 3rd 2017):  Interviewed by New Scientist on the first Juno observations, as presented at the EGU in Vienna.
 * Sutton Trust and the Sun (February 12th 2017):  Interviewed by the Sun newspaper about the 20th anniversary of the Sutton Trust scheme.
+* National Space Centre [article](https://spacecentre.co.uk/blog-post/space-crew-space-industry/), *From Space Crew to Space Industry*
+* Barwell Meteorite:  Interviewed by a BBC researcher for personal reflections on the Barwell meteorite (the UK's largest meteorite fall, 1965). Published in the [BBC magazine](http://www.bbc.co.uk/news/magazine-35053786).
+* Astronomy Now Magazine (November 2015):  Interviewed for a piece by Paul Sutherland on "Winter Wonderlands", looking at how the planets in our solar system change as a function of season
+* BBC Future Magazine:  A telephone interview for an online article about [missions to Uranus](http://www.bbc.com/future/story/20140822-the-mission-to-an-un-loved-planet).
+* National Geographic Interview:  New Results on Jupiter, August 2009.

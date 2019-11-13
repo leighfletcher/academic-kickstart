@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Participation in large events and exhibitions."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -51,3 +51,13 @@ url_poster = ""
 * Royal Society Summer Exhibition (July 2018):  Worked on the James Webb Space Telescope stand at the Royal Society, speaking with hundreds of members of the general public over the course of two days.  Full details about our display can be [found here](https://royalsociety.org/science-events-and-lectures/2018/summer-science-exhibition/exhibits/exploring-the-universe/).
 
 * Science Museum Lates (August 2017):  Presenting Cassini and Juno imaging on a big screen to hundreds of 'SML' guests.
+
+* Stargazing: Oxford!  A full-day event at Oxford’s department of physics to accompany the BBC Stargazing Live events.  I organised the planetary science contributions and provided ‘Flash Talks’.  Read my blog entry here [January 2012](https://planetaryweather.blogspot.com/2012/01/stargazing-oxford.html).
+
+* Philip Wetton Telescope Evening (January 10th 2012):  Exploring the solar system presentation, making a comet, and observing Jupiter’s dark belts, barges and icy moons from the Oxford Astrophysics telescope.  The audience was a group of 20 Year 9 students from Wallingford.  More details about the telescope can be found [here.](http://www.wettontelescope.org/)
+
+* [SET for Britain 2011:](http://www.setforbritain.org.uk/)  Selected as one of thirty early-career scientists to present my research in the Terrace Marquee of the House of Commons, March 14th 2011.  I displayed a poster on “Unravelling the Mysteries of the Giant Planets”, discussing my work on gas giant dynamics and planetary impacts with peers and MPs.
+
+* Family Science Saturday at the Sheffield Winter Garden - March 11th 2006:  The Centre For Science Education based at Sheffield Hallam University organised this special event as part of Science Week 2006 as an opportunity for the public to meet young scientists and engineers and find out about the exciting work they do.
+
+* Lab in a Lorry - Oxford August 2005:  Roving laboratories from the Institute of Physics.  I volunteered for two days as the lab parked up in Broad Street, Oxford.
