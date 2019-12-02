@@ -56,6 +56,7 @@ url_poster = ""
 
 
 ## Press Interviews
+* New Scientist interview on the evolution of the [Great Red Spot](https://www.newscientist.com/article/2224682-jupiters-great-red-spot-is-healthy-despite-looking-like-its-dying/) (November 2019).
 * Venus-Jupiter Conjunction (Jan 2019):  Telephone interview with Jack Guy of CNN regarding the Venus-Jupiter conjunction in January 2019, reported [here.](https://edition.cnn.com/2019/01/30/health/venus-jupiter-photos-gbr-scli-intl/index.html)
 * Mercury Magazine (October 2018):  Interviewed for a piece in the Canadian Mercury Magazine all about our latest research on Saturn's hexagon.
 * Gizmodo Interview on Uranus science (July 3rd 2018):  Asked to comment on new research about the cataclysm that pushed Uranus over onto its side, with the full article [available here](https://gizmodo.com/did-something-massive-smash-into-uranus-1827315511).

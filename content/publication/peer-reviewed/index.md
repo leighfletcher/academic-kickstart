@@ -46,13 +46,17 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 163 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
+* 165 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
+
+1. M.T. Roman, L.N. Fletcher, G.S. Orton, N. Rowe-Gurney, P.G.J. Irwin (2019), *Uranus in Northern Mid-Spring: Persistent Atmospheric Temperatures and Circulations Inferred from Thermal Imaging*, Astronomical Journal, in press (https://arxiv.org/abs/1911.12830)
+
+1. A.S. Braude, P.G.J. Irwin, G.S. Orton, L.N. Fletcher (2019, *Colour and Tropospheric Cloud Structure of Jupiter from MUSE/VLT: Retrieving a Universal Chromophore*, Icarus, in press.
 
 1. R. Hueso, A. Sánchez-Lavega, J.F. Rojas, A.A. Simon, T. Barry, T. del Río-Gaztelurrutia, A. Antuñano, K.M. Sayanagi, M. Delcroix, L.N. Fletcher, E. García-Melendo, S. Pérez-Hoyos, J. Blalock, F. Colas, J. M. Gómez-Forrellad, J.L. Gunnarson, D. Peach, M.H. Wong (2019), *Saturn atmospheric dynamics one year after Cassini: Long-lived features and time variations in the drift of the Hexagon*, Icarus, in press (https://arxiv.org/abs/1909.13849) (https://doi.org/10.1016/j.icarus.2019.113429)
 
