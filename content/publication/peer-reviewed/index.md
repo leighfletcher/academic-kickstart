@@ -56,7 +56,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. M.T. Roman, L.N. Fletcher, G.S. Orton, N. Rowe-Gurney, P.G.J. Irwin (2019), *Uranus in Northern Mid-Spring: Persistent Atmospheric Temperatures and Circulations Inferred from Thermal Imaging*, Astronomical Journal, in press (https://arxiv.org/abs/1911.12830)
 
-1. A.S. Braude, P.G.J. Irwin, G.S. Orton, L.N. Fletcher (2019, *Colour and Tropospheric Cloud Structure of Jupiter from MUSE/VLT: Retrieving a Universal Chromophore*, Icarus, in press.
+1. A.S. Braude, P.G.J. Irwin, G.S. Orton, L.N. Fletcher (2019), *Colour and Tropospheric Cloud Structure of Jupiter from MUSE/VLT: Retrieving a Universal Chromophore*, Icarus, in press (https://arxiv.org/abs/1912.00918).
 
 1. R. Hueso, A. Sánchez-Lavega, J.F. Rojas, A.A. Simon, T. Barry, T. del Río-Gaztelurrutia, A. Antuñano, K.M. Sayanagi, M. Delcroix, L.N. Fletcher, E. García-Melendo, S. Pérez-Hoyos, J. Blalock, F. Colas, J. M. Gómez-Forrellad, J.L. Gunnarson, D. Peach, M.H. Wong (2019), *Saturn atmospheric dynamics one year after Cassini: Long-lived features and time variations in the drift of the Hexagon*, Icarus, in press (https://arxiv.org/abs/1909.13849) (https://doi.org/10.1016/j.icarus.2019.113429)
 
