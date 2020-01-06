@@ -68,7 +68,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2019), *Ice Giant Circulation Patterns: Implications for Atmospheric Probes*, Space Science Reviews, submitted (https://arxiv.org/abs/1907.02901).**
 
-1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2019), *How well do we understand the belt/zone circulation of Giant Planet atmospheres?*  Space Science Reviews, submitted (https://arxiv.org/abs/1907.01822).**
+1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2019), *How well do we understand the belt/zone circulation of Giant Planet atmospheres?*  Space Science Reviews, in press (https://doi.org/10.1007/s11214-019-0631-9) (https://arxiv.org/abs/1907.01822).**
 
 1. Arrate Antuñano, Leigh N. Fletcher, Glenn S. Orton, Henrik Melin, Steve Milan, John Rogers, Thomas Greathouse, Joseph Harrington, Padraig T. Donnelly, Rohini Giles (2019), *Jupiter's Atmospheric Variability from Long-Term Ground-based Observations at 5 microns*, Astronomical Journal, in press (https://arxiv.org/abs/1906.11088).
 
