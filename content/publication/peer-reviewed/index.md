@@ -54,7 +54,7 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
 
-1. M.T. Roman, L.N. Fletcher, G.S. Orton, N. Rowe-Gurney, P.G.J. Irwin (2020), *Uranus in Northern Mid-Spring: Persistent Atmospheric Temperatures and Circulations Inferred from Thermal Imaging*, Astronomical Journal, in press (https://arxiv.org/abs/1911.12830)
+1. M.T. Roman, L.N. Fletcher, G.S. Orton, N. Rowe-Gurney, P.G.J. Irwin (2020), *Uranus in Northern Mid-Spring: Persistent Atmospheric Temperatures and Circulations Inferred from Thermal Imaging*, Astronomical Journal,  Volume 159, Number 2 (https://doi.org/10.3847/1538-3881/ab5dc7) (https://arxiv.org/abs/1911.12830)
 
 1. A.S. Braude, P.G.J. Irwin, G.S. Orton, L.N. Fletcher (2020), *Colour and Tropospheric Cloud Structure of Jupiter from MUSE/VLT: Retrieving a Universal Chromophore*, Icarus, Volume 338, 113589 (https://arxiv.org/abs/1912.00918) (https://doi.org/10.1016/j.icarus.2019.113589).
 
