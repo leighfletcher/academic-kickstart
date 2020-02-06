@@ -54,29 +54,30 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
 
+1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2020), *Ice Giant Circulation Patterns: Implications for Atmospheric Probes*, Space Science Reviews, submitted (https://arxiv.org/abs/1907.02901).**
+
+1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2020), *How well do we understand the belt/zone circulation of Giant Planet atmospheres?*  Space Science Reviews, in press (https://doi.org/10.1007/s11214-019-0631-9) (https://arxiv.org/abs/1907.01822).**
+
 1. A.A. Simon, L.N. Fletcher, C. Arridge, D. Atkinson, A. Coustenis, F. Ferri, M. Hofstadter, A. Masters, O. Mousis, K. Reh, D. Turrini & O. Witasse (2020), *A Review of the in Situ Probe Designs from Recent Ice Giant Mission Concept Studies,* Space Science Reviews 216, 17. (https://doi.org/10.1007/s11214-020-0639-1)
 
 1. M.T. Roman, L.N. Fletcher, G.S. Orton, N. Rowe-Gurney, P.G.J. Irwin (2020), *Uranus in Northern Mid-Spring: Persistent Atmospheric Temperatures and Circulations Inferred from Thermal Imaging*, Astronomical Journal,  Volume 159, Number 2 (https://doi.org/10.3847/1538-3881/ab5dc7) (https://arxiv.org/abs/1911.12830)
 
 1. A.S. Braude, P.G.J. Irwin, G.S. Orton, L.N. Fletcher (2020), *Colour and Tropospheric Cloud Structure of Jupiter from MUSE/VLT: Retrieving a Universal Chromophore*, Icarus, Volume 338, 113589 (https://arxiv.org/abs/1912.00918) (https://doi.org/10.1016/j.icarus.2019.113589).
 
-1. R. Hueso, A. Sánchez-Lavega, J.F. Rojas, A.A. Simon, T. Barry, T. del Río-Gaztelurrutia, A. Antuñano, K.M. Sayanagi, M. Delcroix, L.N. Fletcher, E. García-Melendo, S. Pérez-Hoyos, J. Blalock, F. Colas, J. M. Gómez-Forrellad, J.L. Gunnarson, D. Peach, M.H. Wong (2019), *Saturn atmospheric dynamics one year after Cassini: Long-lived features and time variations in the drift of the Hexagon*, Icarus, in press (https://arxiv.org/abs/1909.13849) (https://doi.org/10.1016/j.icarus.2019.113429)
+1. R. Hueso, A. Sánchez-Lavega, J.F. Rojas, A.A. Simon, T. Barry, T. del Río-Gaztelurrutia, A. Antuñano, K.M. Sayanagi, M. Delcroix, L.N. Fletcher, E. García-Melendo, S. Pérez-Hoyos, J. Blalock, F. Colas, J. M. Gómez-Forrellad, J.L. Gunnarson, D. Peach, M.H. Wong (2019), *Saturn atmospheric dynamics one year after Cassini: Long-lived features and time variations in the drift of the Hexagon*, Icarus, Volume 336, 113429 (https://arxiv.org/abs/1909.13849) (https://doi.org/10.1016/j.icarus.2019.113429)
 
-1. T. Cavalie, V. Hue, P. Hartogh, R. Moreno, E. Lellouch, H. Feuchtgruber, C. Jarchow, T. Cassidy, L.N. Fletcher, F. Billebaud, M. Dobrijevic, L. Rezac, G.S. Orton, M. Rengel, T. Fouchet, and S. Guerlet (2019), *Herschel map of Saturn's stratospheric water, delivered by the plumes of Enceladus*, Astronomy & Astrophysics, accepted (http://arxiv.org/abs/1908.07399)
+1. T. Cavalie, V. Hue, P. Hartogh, R. Moreno, E. Lellouch, H. Feuchtgruber, C. Jarchow, T. Cassidy, L.N. Fletcher, F. Billebaud, M. Dobrijevic, L. Rezac, G.S. Orton, M. Rengel, T. Fouchet, and S. Guerlet (2019), *Herschel map of Saturn's stratospheric water, delivered by the plumes of Enceladus*, Astronomy & Astrophysics, Volume 630, A87 (https://doi.org/10.1051/0004-6361/201935954) (http://arxiv.org/abs/1908.07399)
 
 1. Henrik Melin, L. N. Fletcher, T. S. Stallard, S. Miller, L. M. Trafton, L. Moore, J. O'Donoghue, R. J. Vervack, N. Dello Russo, L. Lamy, C. Tao  and M. N. Chowdhury (2019), *The H3+ ionosphere of Uranus: decades-long cooling and local-time morphology*, Philosophical Transactions of the Royal Society A, Volume 377,  (https://doi.org/10.1098/rsta.2018.0408)
 
-1. Imke de Pater, R. J. Sault, Chris Moeckel, Arielle Moullet, Michael H. Wong, Charles Goullaud, David DeBoer, Bryan Butler, Gordon Bjoraker, Mate Adamkovics, Richard Cosentino, Padraig T. Donnelly, Leigh N. Fletcher, Yasumasa Kasaba, Glenn Orton, John Rogers, James Sinclair, Eric Villard (2019), *First ALMA Millimeter Wavelength Maps of Jupiter, with a Multi-Wavelength Study of Convection*, AJ, in press (https://arxiv.org/abs/1907.11820)
+1. Imke de Pater, R. J. Sault, Chris Moeckel, Arielle Moullet, Michael H. Wong, Charles Goullaud, David DeBoer, Bryan Butler, Gordon Bjoraker, Mate Adamkovics, Richard Cosentino, Padraig T. Donnelly, Leigh N. Fletcher, Yasumasa Kasaba, Glenn Orton, John Rogers, James Sinclair, Eric Villard (2019), *First ALMA Millimeter Wavelength Maps of Jupiter, with a Multi-Wavelength Study of Convection*, Astronomical Journal, Volume 158, 139 (https://doi.org/10.3847/1538-3881/ab3643) (https://arxiv.org/abs/1907.11820)
 
-1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2019), *Ice Giant Circulation Patterns: Implications for Atmospheric Probes*, Space Science Reviews, submitted (https://arxiv.org/abs/1907.02901).**
+1. Arrate Antuñano, Leigh N. Fletcher, Glenn S. Orton, Henrik Melin, Steve Milan, John Rogers, Thomas Greathouse, Joseph Harrington, Padraig T. Donnelly, Rohini Giles (2019), *Jupiter's Atmospheric Variability from Long-Term Ground-based Observations at 5 microns*, Astronomical Journal, Volume 158, 130 (https://doi.org/10.3847/1538-3881/ab2cd6) (https://arxiv.org/abs/1906.11088).
 
-1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2019), *How well do we understand the belt/zone circulation of Giant Planet atmospheres?*  Space Science Reviews, in press (https://doi.org/10.1007/s11214-019-0631-9) (https://arxiv.org/abs/1907.01822).**
+1. Edward M. Molter, Imke de Pater, Michael T. Roman, Leigh N. Fletcher (2019), *Thermal Emission from the Uranian Ring System*, Astronomical Journal, Volume 158, 47 (https://doi.org/10.3847/1538-3881/ab258c) (https://arxiv.org/abs/1905.12566)
 
-1. Arrate Antuñano, Leigh N. Fletcher, Glenn S. Orton, Henrik Melin, Steve Milan, John Rogers, Thomas Greathouse, Joseph Harrington, Padraig T. Donnelly, Rohini Giles (2019), *Jupiter's Atmospheric Variability from Long-Term Ground-based Observations at 5 microns*, Astronomical Journal, in press (https://arxiv.org/abs/1906.11088).
-
-1. Edward M. Molter, Imke de Pater, Michael T. Roman, Leigh N. Fletcher (2019), *Thermal Emission from the Uranian Ring System*, Astronomical Journal, in press (https://arxiv.org/abs/1905.12566)
-
-1. Patrick G.J. Irwin, Daniel Toledo, Ashwin S. Braude, Roland Bacon, Peter M. Weilbacher, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton (2019), *Latitudinal variation in the abundance of methane (CH4) above the clouds in Neptune’s atmosphere from VLT/MUSE Narrow Field Mode Observations*, Icarus, in press (https://doi.org/10.1016/j.icarus.2019.05.011) (https://arxiv.org/abs/1905.03516)
+1. Patrick G.J. Irwin, Daniel Toledo, Ashwin S. Braude, Roland Bacon, Peter M. Weilbacher, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton (2019), *Latitudinal variation in the abundance of methane (CH4) above the clouds in Neptune’s atmosphere from VLT/MUSE Narrow Field Mode Observations*, Icarus, Volume 331, Pages 69-82
+ (https://doi.org/10.1016/j.icarus.2019.05.011) (https://arxiv.org/abs/1905.03516)
 
 1. J. A. Sinclair, G. S. Orton, J. Fernandes, Y. Kasaba, T. M. Sato, T. Fujiyoshi, C. Tao, M. F. Vogt, D. Grodent, B. Bonfond, J. I. Moses, T. K. Greathouse, W. Dunn, R. S. Giles, F. Tabataba-Vakili, L. N. Fletcher & P. G. J. Irwin (2019), *A brightening of Jupiter’s auroral 7.8-μm CH4 emission during a solar-wind compression*, Nature Astronomy (https://doi.org/10.1038/s41550-019-0743-x)
 
@@ -92,17 +93,15 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. A. Sanchez-Lavega, G. Fischer, L.N. Fletcher, E. Garcia-Melendo, B. Hesman, S. Perez-Hoyos, K. Sayanagi, L. Sromovsky (2018). The Great Saturn Storm of 2010–2011. In K. Baines, F. Flasar, N. Krupp, & T. Stallard (Eds.), Saturn in the 21st Century (Cambridge Planetary Science, pp. 377-416). Cambridge: Cambridge University Press. (http://dx.doi.org/10.1017/9781316227220.013) (https://arxiv.org/abs/1611.07669)
 
-1. Patrick G. J. Irwin, Daniel Toledo, Ryan Garland, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Bruno Bezard (2018), Probable detection of hydrogen sulphide (H2S) in Neptune's atmosphere, Icarus, in press. (https://arxiv.org/abs/1812.05382) (https://doi.org/10.1016/j.icarus.2018.12.014)
+1. Patrick G. J. Irwin, Daniel Toledo, Ryan Garland, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Bruno Bezard (2018), *Probable detection of hydrogen sulphide (H2S) in Neptune's atmosphere*, Icarus, Volume 321, Pages 550-563. (https://arxiv.org/abs/1812.05382) (https://doi.org/10.1016/j.icarus.2018.12.014)
 
 
 1. Imke de Pater, R.J. Sault, Michael H. Wong, Leigh N. Fletcher, David DeBoer, Bryan Butler, (2018), Jupiter’s Ammonia Distribution Derived from VLA Maps at 3–37 GHz, Icarus 322 (2019) 168–191 (https://doi.org/10.1016/j.icarus.2018.11.024) (https://arxiv.org/abs/1902.07294)
 
 
-1. Arrate Antuñano, Leigh N. Fletcher, Glenn S. Orton, Henrik Melin, John H. Rogers, Joseph Harrington, Padraig T. Donnelly, Naomi Rowe-Gurney and James S. D. Blake (2018), Infrared Characterisation of Jupiter's Equatorial Disturbance Cycle, Geophysical Research Letters, in press (https://doi.org/10.1029/2018GL080382)
-
+1. Arrate Antuñano, Leigh N. Fletcher, Glenn S. Orton, Henrik Melin, John H. Rogers, Joseph Harrington, Padraig T. Donnelly, Naomi Rowe-Gurney and James S. D. Blake (2018), *Infrared Characterisation of Jupiter's Equatorial Disturbance Cycle,* Geophysical Research Letters, Volume 45, Pages 10,987-10,995 (https://doi.org/10.1029/2018GL080382) (https://hdl.handle.net/2381/43207)
 
 1. A. Adriani, M.L. Moriconi, F. Altieri, G. Sindoni, A.P. Ingersoll, D. Grassi, A. Mura, S. K. Atreya, G. Orton, J.I. Lunine, L.N. Fletcher, A.A. Simon, H. Melin, F. Tosi, A. Cicchetti, R. Noschese, R. Sordini, S. Levin, J. Bolton, C. Plainaki, A. Olivieri (2018), Characterization of mesoscale waves in the Jupiter NEB by Jupiter InfraRed Auroral Mapper on board Juno, AJ, 156 246 (https://doi.org/10.3847/1538-3881/aae525).
-
 
 1. Liming Li, X. Jiang, R. A. West, P. J. Gierasch, S. Perez-Hoyos, A. Sanchez-Lavega, L. N. Fletcher, J. J. Fortney, B. Knowles, C. C. Porco, K. H. Baines, P. M. Fry, A. Mallama, R. K. Achterberg, A. A. Simon, C. A. Nixon, G. S. Orton, U. A. Dyudina, S. P. Ewald & R. W. Schmude Jr. (2018), Less absorbed solar energy and more internal heat for Jupiter, Nature Communications, Volume 9, Article number: 3709 (https://doi.org/10.1038/s41467-018-06107-2)
 
@@ -142,7 +141,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. R. S. Giles, L. N. Fletcher, P. G. J. Irwin, G. S. Orton and J. A. Sinclair (2017), Ammonia in Jupiter’s troposphere from high-resolution 5-μm spectroscopy, Geophys. Res. Letters, Volume 44, Issue 21, p10838-10844 (https://arxiv.org/abs/1710.03336) (http://dx/doi.org/10.1002/2017GL075221)
 
-1. O. Mousis, D. H. Atkinson, T. Cavalie, L. N. Fletcher, M. J. Amato, S. Aslam, F. Ferri, J.-B. Renard, T. Spilker, E. Venkatapathy, P. Wurz, K. Aplin, A. Coustenis, M. Deleuil, M. Dobrijevic, T. Fouchet, T. Guillot, P. Hartogh, T. Hewagama, M. D. Hofstadter, V. Hue, R. Hueso, J.-P. Lebreton, E. Lellouch, J. Moses, G. S. Orton, J. C. Pearl, A. Sanchez-Lavega, A. Simon, O. Venot, J. H. Waite, R. K. Achterberg, S. Atreya, F. Billebaud, M. Blanc, F. Borget, B. Brugger, S. Charnoz, T. Chiavassa, V. Cottini, L. d’Hendecourt, G. Danger, T. Encrenaz, N. J. P. Gorius, L. Jorda, B. Marty, R. Moreno, A. Morse, C. Nixon, K. Reh, T. Ronnet, F.-X. Schmider, S. Sheridan, C. Sotin, P. Vernazza, G. L. Villanueva (2017), Scientific rationale for Uranus and Neptune in situ explorations, Planetary and Space Science, in press. (http://dx.doi.org/10.1016/j.pss.2017.10.005) (https://arxiv.org/abs/1708.00235)
+1. O. Mousis, D. H. Atkinson, T. Cavalie, L. N. Fletcher, M. J. Amato, S. Aslam, F. Ferri, J.-B. Renard, T. Spilker, E. Venkatapathy, P. Wurz, K. Aplin, A. Coustenis, M. Deleuil, M. Dobrijevic, T. Fouchet, T. Guillot, P. Hartogh, T. Hewagama, M. D. Hofstadter, V. Hue, R. Hueso, J.-P. Lebreton, E. Lellouch, J. Moses, G. S. Orton, J. C. Pearl, A. Sanchez-Lavega, A. Simon, O. Venot, J. H. Waite, R. K. Achterberg, S. Atreya, F. Billebaud, M. Blanc, F. Borget, B. Brugger, S. Charnoz, T. Chiavassa, V. Cottini, L. d’Hendecourt, G. Danger, T. Encrenaz, N. J. P. Gorius, L. Jorda, B. Marty, R. Moreno, A. Morse, C. Nixon, K. Reh, T. Ronnet, F.-X. Schmider, S. Sheridan, C. Sotin, P. Vernazza, G. L. Villanueva (2017), Scientific rationale for Uranus and Neptune in situ explorations, Planetary and Space Science, Volume 155, Pages 12-40. (http://dx.doi.org/10.1016/j.pss.2017.10.005) (https://arxiv.org/abs/1708.00235)
 
 1. J. D. R. Pierel, C. A. Nixon, E. Lellouch, L. N. Fletcher, G. L. Bjoraker, R. K. Achterberg, B. Bézard, B. E. Hesman, P. G. J. Irwin, and F. M. Flasar (2017), D/H Ratios on Saturn and Jupiter from Cassini CIRS, The Astronomical Journal, 154:178 (12pp), (https://doi.org/10.3847/1538-3881/aa899d)
 
