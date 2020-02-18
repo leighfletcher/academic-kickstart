@@ -58,7 +58,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Wong, M.H., A.A. Simon, J.W. Tollefson, I. de Pater, M. Barnett, A.I. Hsu, A.W. Stephens, G.S. Orton, S.W. Fleming, C. Goullaud, W. Januszewski, A. Roman, G.L. Bjoraker, S.K. Atreya, A. Adriani, L.N. Fletcher (2020), *High-resolution UV/optical/IR imaging of Jupiter in 2016-2019,* The Astrophysical Journal Supplement Series, in press.
 
-1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2020), *Ice Giant Circulation Patterns: Implications for Atmospheric Probes*, Space Science Reviews, in press (https://arxiv.org/abs/1907.02901).**
+1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2020), *Ice Giant Circulation Patterns: Implications for Atmospheric Probes*, Space Science Reviews, in press (https://arxiv.org/abs/1907.02901) (https://dx.doi.org/10.1007/s11214-020-00646-1).**
 
 1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2020), *How well do we understand the belt/zone circulation of Giant Planet atmospheres?*  Space Science Reviews, in press (https://doi.org/10.1007/s11214-019-0631-9) (https://arxiv.org/abs/1907.01822).**
 
