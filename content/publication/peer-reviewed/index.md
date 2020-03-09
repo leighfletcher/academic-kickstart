@@ -46,13 +46,20 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 168 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
+* 170 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
+
+1. J. A. Sinclair, G. S. Orton, L. N. Fletcher, M. Roman, I. de Pater, T.
+Encrenaz, H. B. Hammel, R. S. Giles, T. Velusamy, J. I. Moses, P. G.
+J. Irwin, T. W. Momary, N. Rowe-Gurney, F. Tabataba-Vakili (2020), *Spatial structure in Neptune's 7.90-µm stratospheric CH4 emission, as measured by VLT-VISIR*, Icarus, accepted.
+
+1. Glenn S. Orton, Fachreddin Tabataba-Vakili, Gerald Eichstädt, John Rogers,
+Candice J. Hansen, Thomas W. Momary, Andrew P. Ingersoll, Shawn Brueshaber, Michael H. Wong, Amy A. Simon, Leigh N. Fletcher, Michael Ravine, Michael Caplinger, Dakota Smith, Scott J. Bolton, Stephen M. Levin, James A. Sinclair, Chloe Thepenier, Hamish Nicholson, Abigail Anthony (2020), *A Survey of Small-Scale Waves and Wave-Like Phenomena in Jupiter's Atmosphere Detected by JunoCam*, Journal of Geophysical Research - Planets, in press
 
 1. D. Grassi, A. Adriani, A. Mura, S.K. Atreya, L. N. Fletcher, J.I. Lunine, G.S. Orton5, S. Bolton, C. Plainaki, G. Sindoni, F. Altieri, A. Cicchetti, B.M. Dinelli, G. Filacchione, A. Migliorini, M.L. Moriconi, R. Noschese, A. Olivieri, G. Piccioni, R. Sordini, S. Stefani, F. Tosi, D. Turrini (2020), *On the spatial distribution of minor species in Jupiter's troposphere as inferred from Juno JIRAM data,* JGR-Planets, accepted (https://dx.doi.org/10.1029/2019JE006206)
 
