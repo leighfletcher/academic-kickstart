@@ -58,6 +58,12 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * SOFIA - FORCAST, EXES
 
+
+
+
+
+
+
 ## 2020
 
 * ESO VLT/VISIR [0105.C-0725](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0725) (PI: Roman) - *Revealing the Structure of Uranus' Emerging North Pole and Atmospheric Circulation*, 15.6hrs, Apr-Sep 2020.
@@ -86,6 +92,8 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/TEXES [GN-2019B-Q-129](https://archive.gemini.edu/programinfo/GN-2019B-Q-129) (PI: Sinclair) - *High spatial and spectral TEXES mapping of Jupiter's auroral regions*
 * Gemini/TEXES [GN-2019B-Q-102](https://archive.gemini.edu/programinfo/GN-2019B-Q-102) (PI: Antuñano)	- *Characterising Jupiter’s Equatorial Zone Disturbance and the Deep Atmosphere via Gemini-Juno Comparisons*
 * Gemini/TEXES [GN-2019B-Q-206](https://archive.gemini.edu/programinfo/GN-2019B-Q-206) (PI: Blake) - *Saturn after the Summer Solstice: Evolution in the northern hemisphere*
+* Grantecan/CanariCam GTC112-19B (PI: Sanchez-Lavega) - *A Neptunian Summer: Seasonal Change on the Distant Ice Giant*, awarded 5.5 hours, never observed.
+* Grantecan/CanariCam GTC111-19B (PI: Sanchez-Lavega) - *Uranus from Equinox to Mid-Spring: Temperature Structure, Seasonal Changes, and Emerging Rings*, 9 hours, observed in December 2019.
 
 ## 2018
 
@@ -134,12 +142,16 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/VISIR [095.C-0142](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=095.C-0142) (PI: Fletcher) -	*Formation Timescale for a Warm Polar Vortex in Saturn's Spring Stratosphere*, 6.6hrs, Apr-Sep 2015.
 * ESO VLT/MUSE [095.C-0149](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=095.C-0149) (PI: Irwin) -	*Exploring the Colours and Variability of Jupiter's Cloud Decks with MUSE*, 1.5hrs, Apr 2016.
 * Subaru/COMICS (S15B-049) (PI: Kasaba) - *MIR spectroscopic study of Jupiter's polar regions with JAXA/Hisaki*, 2 nights.
+* Grantecan/CanariCam GTC21-15A (PI: Sanchez-Lavega) - *Saturn's hexagon and the emergence of the warm seasonal polar vortex*, awarded 8 hours, never observed.
 
 ## 2014
 
 * ESO VLT/SPHERE [60.A-9372](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9372) (PI: Fletcher) -	*Revealing the Thermochemical Properties of Jupiter's Satellites*, 1.5 hrs Science Verification, Dec 2014 - Feb 2015.
 * ESO VLT/SINFONI [294.C-5004](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=294.C-5004) (PI: Irwin) -	*Probing Storm Clouds in Uranus' atmosphere*, 3.0hrs Director's Discretionary Time, October 2014.
 * Gemini/GMOS [GN-2014A-Q-30](https://archive.gemini.edu/programinfo/GN-2014A-Q-30)	(PI: Gibson) - *Probing the atmospheres of a hot Neptune and a hot Saturn using GMOS differential spectro-photometry*
+* Grantecan/CanariCam GTC8-14B (PI: Sanchez-Lavega) - *Jupiter: Mapping the Unique Environment of Jupiter's Polar Vortices*, 8 hours awarded, never observed.
+* Grantecan/CanariCam GTC9-14B (PI: Sanchez-Lavega) - *Uranus: Seasonal Evolution of Temperatures and Vertical Motions of the Atmosphere of Uranus*, awarded 12 hours, never observed.
+* Grantecan/CanariCam GTC10-14B (PI: Sanchez-Lavega) - *Seasonal Evolution and Stratospheric Dynamics on the most distant Ice Giant: Neptune beyond Summer Solstice*, awarded 5 hours, never observed.
 
 ## 2013
 
@@ -182,6 +194,8 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/NIRI [GN-2010A-DD-4](https://archive.gemini.edu/programinfo/GN-2010A-DD-4) (PI: Orton)	- *Tracking the Aftermath of a Fireball in Jupiter's Atmosphere: 2010 June 3*
 * Gemini/NIFS [GN-2010B-Q-95](https://archive.gemini.edu/programinfo/GN-2010B-Q-95) (PI: Irwin) - 	*Uranus Cloud Structure after 2007 equinox*
 * Gemini/MICHELLE [GN-2010B-DD-3](https://archive.gemini.edu/programinfo/GN-2010B-DD-3) (PI: Orton) - *A Major Outbreak in Jupiter's Southern Hemisphere, Reimergence of the South Equatorial Belt?*
+* Grantecan/CanariCam GTC72-10B (PI: Sanchez-Lavega) - *High-Resolution Characterization of Neptune's Wandering Hot Pole*, awarded 1 hour, never observed.
+* Grantecan/CanariCam GTC70-10B (PI: Sanchez-Lavega) - *SSpatially Resolved Thermal Structure of Neptune*, awarded 2 hours, never observed.
 
 ## 2009
 
