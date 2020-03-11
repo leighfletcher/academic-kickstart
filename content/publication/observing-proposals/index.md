@@ -45,19 +45,25 @@ url_poster = ""
 +++
 
 The following list attempts to keep track of awarded observing time each year, both as PI and as a Co-I.  Links are provided to archive locations for the raw data.  In the list below, you'll find awarded time from the following facilities (just search for any of the key acronyms):
+
 * ESO - VLT (VISIR, MUSE, SINFONI, MUSE, CRIRES, NEAR, ISAAC) and ALMA.
+
 * Subaru - COMICS
+
 * IRTF - MIRSI, TEXES, NSFCAM2, SpeX
+
 * Gemini - TRECS, MICHELLE, TEXES, NIRI, NIFS
+
 * GranTeCan - CanariCam
-* SOFIA - FORCAST, EXES.
+
+* SOFIA - FORCAST, EXES
 
 ## 2020
 
 * ESO VLT/VISIR [0105.C-0725](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0725) (PI: Roman) - *Revealing the Structure of Uranus' Emerging North Pole and Atmospheric Circulation*, 15.6hrs, Apr-Sep 2020.
 * ESO VLT/SPHERE [0105.C-0145](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0145) (PI: King) - *Global mapping of Europa and Ganymede with SPHERE: pushing beyond the capabilities of Galileo/NIMS*, 3.9hrs, Apr-Sep 2020.
 * ESO VLT/VISIR [0105.C-0395](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0395) (PI: Fletcher) - *Exploring Unusual Variability in Jupiter's Equatorial Circulation and Great Red Spot*, 10.9hrs, Apr-Sep 2020.
-* ESO VLT/VISIR [0105.C-0712](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0712 (PI: Blake) - *The seasonal evolution of Saturn's northern hemisphere*, 2.2hrs, Apr-Sep 2020.
+* ESO VLT/VISIR [0105.C-0712](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0712) (PI: Blake) - *The seasonal evolution of Saturn's northern hemisphere*, 2.2hrs, Apr-Sep 2020.
 * ESO VLT/VISIR [0104.C-0216](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0216) (PI: Blake) - *Saturn after Summer Solstice: Seasonal progression of the northern hemisphere*, 2.2hrs, Jan-Mar 2020.
 * ESO VLT/VISIR [0104.C-0944](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0944) (PI: Donnelly) - *VISIR Observations of Jupiter's Circulation and Wave Phenomena during a Rare Equatorial Disturbance*, 6.3hrs, Jan-Mar 2020.
 * ESO VLT/MUSE [0104.C-0187](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0187) (PI: Irwin) - *Determining the structure and monitoring the evolution of a newly-discovered large dark spot on Neptune*, 2.4hrs.
