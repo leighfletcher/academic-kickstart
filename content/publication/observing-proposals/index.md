@@ -68,7 +68,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/VISIR [0104.C-0944](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0944) (PI: Donnelly) - *VISIR Observations of Jupiter's Circulation and Wave Phenomena during a Rare Equatorial Disturbance*, 6.3hrs, Jan-Mar 2020.
 * ESO VLT/MUSE [0104.C-0187](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0187) (PI: Irwin) - *Determining the structure and monitoring the evolution of a newly-discovered large dark spot on Neptune*, 2.4hrs.
 * ESO VLT/MUSE [0104.C-0136](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0136) (PI: Irwin) - *MUSE Observations of Jupiter's 3-Dimensional Cloud Structure during NASA's Juno Mission*, 2.7hrs.
-* Subaru/COMICS [S20A-035] (PI: Kasaba) - *Spatial and time variations of Jupiter: Last Subaru MIR observation with Juno*, 2 nights.
+* Subaru/COMICS (S20A-035) (PI: Kasaba) - *Spatial and time variations of Jupiter: Last Subaru MIR observation with Juno*, 2 nights.
 * Subaru/COMICS (Keck Exchange 2020A) (PI: Orton) -	*A Mid-Infrared Study of Major Disturbances and Auroral-Related Heating Directly Supporting Juno-Mission Observations*
 * Gemini/NIRI [GN-2020A-Q-113](https://archive.gemini.edu/programinfo/GN-2020A-Q-113) (PI: Orton) - 	*High-resolution 3-dimensional near-infrared mapping of Jupiter's evolving aerosol structure during the Juno mission PJ26-PJ28*
 
@@ -96,7 +96,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/SINFONI [0101.C-0081](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0101.C-0081) (PI: Irwin) - *Does methane enter Neptune's stratosphere through storm clouds or via the polar regions?*, 6.8hrs.
 * ESO VLT/MUSE [0101.C-0097](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0101.C-0097) (PI: Braude) -	*MUSE Observations of Jupiter's 3-Dimensional Cloud Structure During NASA's Juno Mission*, 2.8hrs.
 * ESO VLT/VISIR [0101.C-0458](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0101.C-0458) (PI: de Kleer) - *Io's Magma Composition*, 3.5hrs.
-* Subaru/COMICS [S18A-096] (PI: Kasaba) - *MIR observation of Jupiter for supporting NASA's Juno mission*, 2 nights.
+* Subaru/COMICS (S18A-096) (PI: Kasaba) - *MIR observation of Jupiter for supporting NASA's Juno mission*, 2 nights.
 * Subaru/COMICS (Keck Exchange 2018B) (PI: Sinclair) -	*Mid-infrared imaging of Jupiter and Saturn*
 * Subaru/COMICS (Keck Exchange 2018A) (PI: Orton) -	*A Mid-Infrared Study of Jupiter's Atmosphere Directly Supporting the Juno Mission*
 * Gemini/NIRI [GN-2018A-Q-108](https://archive.gemini.edu/programinfo/GN-2018A-Q-108) (PI: Orton) - *High-Resolution Mapping of Jupiter's Clouds in the Near Infrared: Support for the Juno Mission PJ11-PJ14*
@@ -107,7 +107,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/VISIR [099.C-0614](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=099.C-0614) (PI: Fletcher) - *Saturn at Summer Solstice: Seasonal Change and the End of Cassini's Mission*, 6.6hrs, Apr-Sep 2017.
 * ESO VLT/VISIR [099.C-0612](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=099.C-0612) (PI: Fletcher) - *Jupiter's Deep-Seated Meteorology and Auroral Variability during the Juno Mission*, 15hrs, Apr-Sep 2017.
 * ESO VLT/MUSE [099.C-0192](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=099.C-0192) (PI: Irwin) -	*MUSE Observations of Jupiter's 3-Dimensional Cloud Structure During NASA's Juno Mission*, 4.4hrs, May 2017.
-* Subaru/COMICS [S17A-028] (PI: Kasaba) - *MIR studies of Jupiter simultaneous with key observations by the Juno orbiter*, 1 night.
+* Subaru/COMICS (S17A-028) (PI: Kasaba) - *MIR studies of Jupiter simultaneous with key observations by the Juno orbiter*, 1 night.
 * Subaru/COMICS (Keck Exchange 2017B) (PI: Sinclair) -	*Characterising Saturn's northern hemisphere during Cassini's Grand Finale using Subaru-COMICS*
 * Subaru/COMICS (Keck Exchange 2017A) (PI: Orton) -	*A Mid-Infrared Study of Jupiter's Atmospheric Variability Directly Supporting the Juno Mission*
 * Gemini/TEXES [GN-2017A-Q-49](https://archive.gemini.edu/programinfo/GN-2017A-Q-49) (PI: Greathouse) -	*Characterizing Wave Phenomena in Jupiter's Stratosphere using High Spectral Resolution Thermal IR Observations*
@@ -125,7 +125,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/VISIR [096.C-0091](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=096.C-0091) (PI: Fletcher) -	*Jupiter's Tropical and Polar Circulation from Thermal-IR Imaging: A Pre-Juno Characterisation*, 10.0hrs, Feb-Apr 2016.
 * ESO VLT/VISIR [60.A-9620](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9620) (PI: Fletcher) - *Deep Sounding of Jupiter and Saturn via `Lucky Imaging' at 5 µm*, Science Verification, 1 hr, Feb 2016.
 * ESO VLT/MUSE [096.C-0173](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=096.C-0173) (PI: Irwin) -	*Exploring the Colours and Variability of Jupiter's Cloud Decks with MUSE*, 1.5hrs, Mar 2016.
-* Subaru/COMICS [S16B-025] (PI: Kasaba) - *MIR studies of Jupiter simultaneous with key observations by the Juno orbiter*, 1 night.
+* Subaru/COMICS (S16B-025) (PI: Kasaba) - *MIR studies of Jupiter simultaneous with key observations by the Juno orbiter*, 1 night.
 * Subaru/COMICS (Keck Exchange 2016B) (PI: Orton) -	*A Mid-Infrared Study of Jupiter's Atmosphere Directly Supporting the Juno Mission*
 * Gemini/NIRI [GN-2016B-Q-52](https://archive.gemini.edu/programinfo/GN-2016B-Q-52) (PI: Orton) - *High-Resolution Mapping of Jupiter's Clouds in the Near-Infrared: Support for the Juno Mission*
 
@@ -133,7 +133,7 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * ESO VLT/VISIR [095.C-0142](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=095.C-0142) (PI: Fletcher) -	*Formation Timescale for a Warm Polar Vortex in Saturn's Spring Stratosphere*, 6.6hrs, Apr-Sep 2015.
 * ESO VLT/MUSE [095.C-0149](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=095.C-0149) (PI: Irwin) -	*Exploring the Colours and Variability of Jupiter's Cloud Decks with MUSE*, 1.5hrs, Apr 2016.
-* Subaru/COMICS [S15B-049] (PI: Kasaba) - *MIR spectroscopic study of Jupiter's polar regions with JAXA/Hisaki*, 2 nights.
+* Subaru/COMICS (S15B-049) (PI: Kasaba) - *MIR spectroscopic study of Jupiter's polar regions with JAXA/Hisaki*, 2 nights.
 
 ## 2014
 
@@ -144,15 +144,15 @@ The following list attempts to keep track of awarded observing time each year, b
 ## 2013
 
 * ESO VLT/SINFONI [092.C-0187](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=092.C-0187) (PI: Irwin) -	*Understanding the 4-Dimensional Variability of Neptune's Dynamic Clouds*, 1.2 nights, October 2013.
-* Subaru/COMICS [S13A-026] (PI: Orton) - *Jovian Atmospheric Anomalies as Diagnostics of the Deep Atmosphere*, 0.5 nights.
-* Subaru/COMICS [S13A-111] (PI: Yanamandra-Fisher) - *Saturn's Atmospheric Response to Episodic Events and Changing Seasons*, 1 night.
+* Subaru/COMICS (S13A-026) (PI: Orton) - *Jovian Atmospheric Anomalies as Diagnostics of the Deep Atmosphere*, 0.5 nights.
+* Subaru/COMICS (S13A-111) (PI: Yanamandra-Fisher) - *Saturn's Atmospheric Response to Episodic Events and Changing Seasons*, 1 night.
 
 ## 2012
 
 * ESO VLT/CRIRES [090.C-0053](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=090.C-0053) (PI: Fletcher) -	*Jupiter's Cloud-Forming Region: CRIRES Observations of the 5-µm Spectral Window*, 3.6hrs, Oct 2012-Mar 2013.
 * ESO VLT/VISIR [090.C-0052](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=090.C-0052) (PI: Fletcher) -	*Spring on Saturn: Storms and the Development of the Polar Vortices*, 3.3hrs, cancelled due to unavailability of VISIR.
 * ESO VLT/VISIR [089.C-0218](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=089.C-0218) (PI: Fletcher) -	*Jupiter's Evolving Atmosphere: Identifying the Sources of Variability*, 3.6hrs, Apr-Sep 2012.
-* Subaru/COMICS [S12B-004] (PI: Orton) - *Jupiter's Altered State: Atmospheric Anomalies as Diagnostics*, 1.0 night.
+* Subaru/COMICS (S12B-004) (PI: Orton) - *Jupiter's Altered State: Atmospheric Anomalies as Diagnostics*, 1.0 night.
 * Gemini/GMOS [GN-2012B-Q-16](https://archive.gemini.edu/programinfo/GN-2012B-Q-16) (PI: Gibson) -	*Probing the atmospheres of transiting exoplanets with differential transmission spectroscopy*
 
 ## 2011
@@ -163,7 +163,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/HAWK-I [086.C-0445](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=086.C-0445) (PI: Gibson) - *Multi-wavelength eclipse photometry of the hot Jupiter WASP-4b*, 11hrs.
 * ESO VLT/VISIR [286.C-5009](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=286.C-5009) (PI: Orton) -	*Testing the Diminished Vortex Strength of Jupiter's Little Red Spot*, 0.8hrs of Director's
 * ESO VLT/ISAAC [086.C-0467](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=086.C-0467) (PI: Waldmann) -	*Characterisation of the atmosphere and non-LTE emissions of the very hot-Jupiter WASP-18b*, 3.0 nights.
-* Subaru/COMICS [S11B-024] (PI: Orton) - *Identifying the Source of Large-Scale Atmospheric Variability in Jupiter*, 0.5 night.
+* Subaru/COMICS (S11B-024) (PI: Orton) - *Identifying the Source of Large-Scale Atmospheric Variability in Jupiter*, 0.5 night.
 * Gemini/NIFS [GN-2011B-Q-94](https://archive.gemini.edu/programinfo/GN-2011B-Q-94)	(PI: Irwin) -	*Dynamics of Neptune's atmosphere*
 * Gemini/NIFS [GN-2011B-Q-59](https://archive.gemini.edu/programinfo/GN-2011B-Q-59) (PI: Irwin) - *Seasonal changes in Uranus' atmosphere*
 * Gemini/TRECS [GS-2011A-Q-11](https://archive.gemini.edu/programinfo/GS-2011A-Q-11)	(PI: Orton) -	*The Spectacular Revival of Jupiter's South Equatorial Belt: Temperature and Haze Characteristics*
@@ -210,9 +210,9 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/VISIR [081.C-0141](http://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=081.C-0141) (PI: Mousis) - *Interaction of Two Giant Anticyclonic Vortices in Jupiter*, 12hrs, Apr-Sep 2008.
 * ESO VLT/VISIR [081.C-0137](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=081.C-0137) (PI: Orton) - *Dynamics and Chemistry of Jupiter During Continuing Planetary-Scale Evolution*, 15hrs, Apr-Sep 2008.
 * ESO VLT/VISIR [381.C-0134](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=381.C-0134) (PI: Orton) - *Dynamics and Chemistry of Jupiter During Rapid Planetary-Scale Evolution*, 5.0hrs, Apr-Sep 2008.
-* Subaru/COMICS [S08B-023] (PI: Yanamandra-Fisher) - *Saturn's Change of Seasons as it Approaches Ring Plane Crossing*, 2.0 nights.
-* Subaru/COMICS [S08B-031] (PI: Orton) - *Interaction of Two Giant Anticyclonic Vortices in Jupiter*, 1.0 nights.
-* Subaru/COMICS [S08B-032] (PI: Orton) - *Spatially Resolved Thermal Structure of Neptune*, 1.0 nights.
+* Subaru/COMICS (S08B-023) (PI: Yanamandra-Fisher) - *Saturn's Change of Seasons as it Approaches Ring Plane Crossing*, 2.0 nights.
+* Subaru/COMICS (S08B-031) (PI: Orton) - *Interaction of Two Giant Anticyclonic Vortices in Jupiter*, 1.0 nights.
+* Subaru/COMICS (S08B-032) (PI: Orton) - *Spatially Resolved Thermal Structure of Neptune*, 1.0 nights.
 
 ## 2007
 
