@@ -181,6 +181,8 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/TRECS [GS-2011A-Q-11](https://archive.gemini.edu/programinfo/GS-2011A-Q-11)	(PI: Orton) -	*The Spectacular Revival of Jupiter's South Equatorial Belt: Temperature and Haze Characteristics*
 * Gemini/TRECS [GS-2011B-Q-11](https://archive.gemini.edu/programinfo/GS-2011B-Q-11) (PI: Fletcher) - *Jupiter's Global Dynamics a Decade after Cassini: Spectroscopic Mapping*
 * Gemini/GMOS [GS-2011B-Q-13](https://archive.gemini.edu/programinfo/GS-2011B-Q-13)	(PI: Gibson) -	*Probing the atmosphere of a hot-Saturn exoplanet with differential transmission spectroscopy*
+* Grantecan/CanariCam GTC48-11A (PI: Sanchez-Lavega) - *The Variable Jupiter's South Equatorial Belt*, awarded 3 hours, never observed.
+
 
 ## 2010
 
@@ -195,7 +197,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/NIFS [GN-2010B-Q-95](https://archive.gemini.edu/programinfo/GN-2010B-Q-95) (PI: Irwin) - 	*Uranus Cloud Structure after 2007 equinox*
 * Gemini/MICHELLE [GN-2010B-DD-3](https://archive.gemini.edu/programinfo/GN-2010B-DD-3) (PI: Orton) - *A Major Outbreak in Jupiter's Southern Hemisphere, Reimergence of the South Equatorial Belt?*
 * Grantecan/CanariCam GTC72-10B (PI: Sanchez-Lavega) - *High-Resolution Characterization of Neptune's Wandering Hot Pole*, awarded 1 hour, never observed.
-* Grantecan/CanariCam GTC70-10B (PI: Sanchez-Lavega) - *SSpatially Resolved Thermal Structure of Neptune*, awarded 2 hours, never observed.
+* Grantecan/CanariCam GTC70-10B (PI: Sanchez-Lavega) - *Spatially Resolved Thermal Structure of Neptune*, awarded 2 hours, never observed.
 
 ## 2009
 
