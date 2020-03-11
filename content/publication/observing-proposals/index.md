@@ -46,7 +46,7 @@ url_poster = ""
 
 The following list attempts to keep track of awarded observing time each year, both as PI and as a Co-I.  Links are provided to archive locations for the raw data.  In the list below, you'll find awarded time from the following facilities (just search for any of the key acronyms):
 
-* ESO - VLT (VISIR, MUSE, SINFONI, MUSE, CRIRES, NEAR, ISAAC) and ALMA.
+* ESO - VLT (VISIR, MUSE, SINFONI, SPHERE, MUSE, CRIRES, NEAR, ISAAC) and ALMA.
 
 * Subaru - COMICS
 
