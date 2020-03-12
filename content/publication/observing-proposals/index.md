@@ -58,10 +58,7 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * SOFIA - FORCAST, EXES
 
-
-
-
-
+* Kepler/K2 and Herschel/HIFI
 
 
 ## 2020
@@ -94,6 +91,8 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/TEXES [GN-2019B-Q-206](https://archive.gemini.edu/programinfo/GN-2019B-Q-206) (PI: Blake) - *Saturn after the Summer Solstice: Evolution in the northern hemisphere*
 * Grantecan/CanariCam GTC112-19B (PI: Sanchez-Lavega) - *A Neptunian Summer: Seasonal Change on the Distant Ice Giant*, awarded 5.5 hours, never observed.
 * Grantecan/CanariCam GTC111-19B (PI: Sanchez-Lavega) - *Uranus from Equinox to Mid-Spring: Temperature Structure, Seasonal Changes, and Emerging Rings*, 9 hours, observed in December 2019.
+* ALMA Cycle 7 [2019.1.00128.S](http://almascience.org/aq/?project_code=2019.1.00128.S)	(PI: de Pater) - *ALMA Maps of Jupiter During the JUNO Era*.
+* SOFIA/EXES Cycle 8 [08_0219](https://www.sofia.usra.edu/science/proposing-and-observing/proposal-calls/cycle-8/selected-proposals/abstracts#219) (PI: Sinclair) - *Evolution of auroral heating and chemistry at Jupiter's high latitudes*
 
 ## 2018
 
@@ -108,6 +107,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * Subaru/COMICS (Keck Exchange 2018B) (PI: Sinclair) -	*Mid-infrared imaging of Jupiter and Saturn*
 * Subaru/COMICS (Keck Exchange 2018A) (PI: Orton) -	*A Mid-Infrared Study of Jupiter's Atmosphere Directly Supporting the Juno Mission*
 * Gemini/NIRI [GN-2018A-Q-108](https://archive.gemini.edu/programinfo/GN-2018A-Q-108) (PI: Orton) - *High-Resolution Mapping of Jupiter's Clouds in the Near Infrared: Support for the Juno Mission PJ11-PJ14*
+* SOFIA/EXES Cycle 7 [07_0222](https://www.sofia.usra.edu/science/proposing-and-observing/proposal-calls/cycle-7/selected-proposals/abstracts#222) (PI: Sinclair) - *Auroral-related heating and chemistry at Jupiter's high latitudes*
 
 ## 2017
 
@@ -123,6 +123,9 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/TEXES [GN-2017A-Q-33](https://archive.gemini.edu/programinfo/GN-2017A-Q-33) (PI: Sinclair) - *High resolution mapping of Jupiter's stratospheric-auroral interactions during the Juno mission*
 * Gemini/TEXES [GN-2017A-Q-19](https://archive.gemini.edu/programinfo/GN-2017A-Q-19) (PI: Fletcher) -	*Wave Phenomena and Deep Plumes in Jupiter's Tropical Atmosphere*
 * Gemini/TEXES [GN-2017A-Q-9](https://archive.gemini.edu/programinfo/GN-2017A-Q-9) (PI: Orton) -	*Testing the Onset of a Polar Vortex at Saturn's Northern Summer Solstice by Mapping Stratospheric Temperature and Hydrocarbons*
+* ALMA Cycle 5 [2017.1.00111.S](http://almascience.org/aq/?project_code=2017.1.00111.S) (PI: Cavalie) - *Are the Enceladus geysers the source of Saturn's water?*
+* ALMA Cycle 5 [2017.1.00279.S](http://almascience.org/aq/?project_code=2017.1.00279.S)	(PI: de Pater) - *ALMA Maps of Jupiter During the JUNO Era*.
+* SOFIA/FORCAST Cycle 6 [06_0009](https://www.sofia.usra.edu/science/proposing-and-observing/proposal-calls/cycle-6/selected-proposals/abstracts#9) (PI: de Pater) - *Jupiter's Tropospheric Dynamics from SOFIA Mapping of Temperature; Para-Hydrogen; and Aerosols*, 1.77 hours awarded.
 
 ## 2016
 
@@ -136,6 +139,9 @@ The following list attempts to keep track of awarded observing time each year, b
 * Subaru/COMICS (S16B-025) (PI: Kasaba) - *MIR studies of Jupiter simultaneous with key observations by the Juno orbiter*, 1 night.
 * Subaru/COMICS (Keck Exchange 2016B) (PI: Orton) -	*A Mid-Infrared Study of Jupiter's Atmosphere Directly Supporting the Juno Mission*
 * Gemini/NIRI [GN-2016B-Q-52](https://archive.gemini.edu/programinfo/GN-2016B-Q-52) (PI: Orton) - *High-Resolution Mapping of Jupiter's Clouds in the Near-Infrared: Support for the Juno Mission*
+* ALMA Cycle 4 [2016.1.00701.S](http://almascience.org/aq/?project_code=2016.1.00701.S) (PI: de Pater) - *ALMA Maps of Jupiter During the JUNO Era*.
+* SOFIA/FORCAST Cycle 5 [05_0128](https://www.sofia.usra.edu/science/proposing-and-observing/sofia-cycle-5-results/sofia-cycle-5-approved-programs#128) (PI: de Pater) - *Jupiter's Tropospheric Dynamics from SOFIA Mapping of Temperature, Para-Hydrogen, and Aerosols*, 2.0 hours awarded.
+* Kepler/K2 Campaign 8 [GO8034](https://keplerscience.arc.nasa.gov/data/k2-programs/GO8034.txt) (PI: Rowe) - *Observing Uranus With Kepler*, Uranus observed for roughly a month in short cadence and the remaining time in long cadence, in addition four of its moons make the long cadence target list.
 
 ## 2015
 
@@ -143,6 +149,9 @@ The following list attempts to keep track of awarded observing time each year, b
 * ESO VLT/MUSE [095.C-0149](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=095.C-0149) (PI: Irwin) -	*Exploring the Colours and Variability of Jupiter's Cloud Decks with MUSE*, 1.5hrs, Apr 2016.
 * Subaru/COMICS (S15B-049) (PI: Kasaba) - *MIR spectroscopic study of Jupiter's polar regions with JAXA/Hisaki*, 2 nights.
 * Grantecan/CanariCam GTC21-15A (PI: Sanchez-Lavega) - *Saturn's hexagon and the emergence of the warm seasonal polar vortex*, awarded 8 hours, never observed.
+* SOFIA/FORCAST Cycle 4 [04_0004](https://www.sofia.usra.edu/science/proposing-and-observing/proposal-calls/cycle-4/sofia-cycle-4-results/sofia-cycle-4-approved#a4) (PI: Orton) - *17- to 37-micron Photometry and Spectroscopy of Uranus and Neptune*, 3 hours awarded.
+* SOFIA/EXES Cycle 4 [04_0005](https://www.sofia.usra.edu/science/proposing-and-observing/proposal-calls/cycle-4/sofia-cycle-4-results/sofia-cycle-4-approved#a5) (PI: Orton) - *Jupiter's Stratospheric HCN, Hydrocarbon and Temperature Fields*, 4.5 hours awarded.
+
 
 ## 2014
 
@@ -152,12 +161,14 @@ The following list attempts to keep track of awarded observing time each year, b
 * Grantecan/CanariCam GTC8-14B (PI: Sanchez-Lavega) - *Jupiter: Mapping the Unique Environment of Jupiter's Polar Vortices*, 8 hours awarded, never observed.
 * Grantecan/CanariCam GTC9-14B (PI: Sanchez-Lavega) - *Uranus: Seasonal Evolution of Temperatures and Vertical Motions of the Atmosphere of Uranus*, awarded 12 hours, never observed.
 * Grantecan/CanariCam GTC10-14B (PI: Sanchez-Lavega) - *Seasonal Evolution and Stratospheric Dynamics on the most distant Ice Giant: Neptune beyond Summer Solstice*, awarded 5 hours, never observed.
+* SOFIA/FORCAST Cycle 3 [03_0030](https://www.sofia.usra.edu/science/proposing-and-observing/past-proposal-calls/cycle-3/sofia-cycle-3-results/sofia-cycle-3#a30) (PI: Orton) - *17- to 37-micron Photometry and Spectroscopy of Uranus and Neptune*, 2.5 hours awarded.
 
 ## 2013
 
 * ESO VLT/SINFONI [092.C-0187](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=092.C-0187) (PI: Irwin) -	*Understanding the 4-Dimensional Variability of Neptune's Dynamic Clouds*, 1.2 nights, October 2013.
 * Subaru/COMICS (S13A-026) (PI: Orton) - *Jovian Atmospheric Anomalies as Diagnostics of the Deep Atmosphere*, 0.5 nights.
 * Subaru/COMICS (S13A-111) (PI: Yanamandra-Fisher) - *Saturn's Atmospheric Response to Episodic Events and Changing Seasons*, 1 night.
+* SOFIA/FORCAST Cycle 2 [02_0037](https://www.sofia.usra.edu/science/proposing-and-observing/past-proposal-calls/cycle-2/sofia-cycle-2-results/sofia-cycle-2#a37) (PI: Orton) - *17- to 37-micron Photometry and Spectroscopy of Uranus and Neptune*, 2.5 hours awarded.
 
 ## 2012
 
@@ -182,7 +193,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/TRECS [GS-2011B-Q-11](https://archive.gemini.edu/programinfo/GS-2011B-Q-11) (PI: Fletcher) - *Jupiter's Global Dynamics a Decade after Cassini: Spectroscopic Mapping*
 * Gemini/GMOS [GS-2011B-Q-13](https://archive.gemini.edu/programinfo/GS-2011B-Q-13)	(PI: Gibson) -	*Probing the atmosphere of a hot-Saturn exoplanet with differential transmission spectroscopy*
 * Grantecan/CanariCam GTC48-11A (PI: Sanchez-Lavega) - *The Variable Jupiter's South Equatorial Belt*, awarded 3 hours, never observed.
-
+* Herschel/HIFI AO2 [OT2_tcavalie_6](http://herschel.esac.esa.int/Docs/AO2/OT2_accepted.html#OT2_tcavalie_6) (PI: Cavalie) - *The origin of CO in Uranus*, 8.0 hours awarded.
 
 ## 2010
 
@@ -198,6 +209,9 @@ The following list attempts to keep track of awarded observing time each year, b
 * Gemini/MICHELLE [GN-2010B-DD-3](https://archive.gemini.edu/programinfo/GN-2010B-DD-3) (PI: Orton) - *A Major Outbreak in Jupiter's Southern Hemisphere, Reimergence of the South Equatorial Belt?*
 * Grantecan/CanariCam GTC72-10B (PI: Sanchez-Lavega) - *High-Resolution Characterization of Neptune's Wandering Hot Pole*, awarded 1 hour, never observed.
 * Grantecan/CanariCam GTC70-10B (PI: Sanchez-Lavega) - *Spatially Resolved Thermal Structure of Neptune*, awarded 2 hours, never observed.
+* Herschel/HIFI AO1 [OT1_lfletche_1](http://herschel.esac.esa.int/Docs/AO1/OT1_accepted.html#OT1_lfletche_1) (PI: Fletcher) - *Nitrogen, Phosphorus and Sulphur Chemistry in Saturn's Atmosphere: Internal and External Origins for HCN, HCP and CS*, 8 hours awarded.
+* Herschel/HIFI AO1 [OT1_nteanby_2](http://herschel.esac.esa.int/Docs/AO1/OT1_accepted.html#OT1_nteanby_2) (PI: Teanby) - *The chlorine cycle on Jupiter and Saturn*, 6.4 hours awarded.
+* Herschel/HIFI AO1 [OT1_gorton01_1](http://herschel.esac.esa.int/Docs/AO1/OT1_accepted.html#OT1_gorton01_1) (PI: Orton) - *Variability in Ice Giant Stratospheres: Implications for Radiative, Chemical and Dynamical Processes*, 17.1 hours awarded.
 
 ## 2009
 
