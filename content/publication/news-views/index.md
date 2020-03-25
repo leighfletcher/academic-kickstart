@@ -46,6 +46,8 @@ url_poster = ""
 
 This page lists my contributions to News & Views, Book Reviews, and Popular Science Articles, both in print and online.
 
+1. Guillot, T., Fletcher, L.N. (2020), *Comment:  Revealing giant planet interiors beneath the cloudy veil*, Nature Communications, 11, 1555. (https://doi.org/10.1038/s41467-020-15431-5) (https://rdcu.be/b3eeN)
+
 1. J.H. Rogers, L.N. Fletcher (2019), Notes and News:'New Views of Jupiter': Pro-Am collaborations during and beyond the NASA Juno mission, Journal of the British Astronomical Association 128, 321-323.
 
 1. Fletcher, L.N. & Rogers, J.H., (2018), Pro–am collaborations improve views of Jupiter,  Astronomy & Geophysics, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)

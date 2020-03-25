@@ -67,7 +67,7 @@ Candice J. Hansen, Thomas W. Momary, Andrew P. Ingersoll, Shawn Brueshaber, Mich
 
 1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2020), *Ice Giant Circulation Patterns: Implications for Atmospheric Probes*, Space Science Reviews, in press (https://arxiv.org/abs/1907.02901) (https://dx.doi.org/10.1007/s11214-020-00646-1).**
 
-1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2020), *How well do we understand the belt/zone circulation of Giant Planet atmospheres?*  Space Science Reviews, in press (https://doi.org/10.1007/s11214-019-0631-9) (https://arxiv.org/abs/1907.01822).**
+1. **Leigh N. Fletcher,  Yohai Kaspi, Tristan Guillot, Adam P. Showman (2020), *How well do we understand the belt/zone circulation of Giant Planet atmospheres?*  Space Science Reviews 216, 30 (https://doi.org/10.1007/s11214-019-0631-9) (https://arxiv.org/abs/1907.01822).**
 
 1. A.A. Simon, L.N. Fletcher, C. Arridge, D. Atkinson, A. Coustenis, F. Ferri, M. Hofstadter, A. Masters, O. Mousis, K. Reh, D. Turrini & O. Witasse (2020), *A Review of the in Situ Probe Designs from Recent Ice Giant Mission Concept Studies,* Space Science Reviews 216, 17. (https://doi.org/10.1007/s11214-020-0639-1)
 
