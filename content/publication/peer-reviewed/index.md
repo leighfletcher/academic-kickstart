@@ -54,6 +54,8 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
 
+1. L.N. Fletcher, G.S. Orton, T.K. Greathouse, J.H. Rogers, Z. Zhang, F.A. Oyafuso, G. Eichstadt, H. Melin, C. Li, S.M. Levin, S. Bolton, M. Janssen, H-J. Mettig, D. Grassi, A. Mura, A. Adriani (2020), *Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR*, JGR-Planets, accepted.
+
 1. J. A. Sinclair, G. S. Orton, L. N. Fletcher, M. Roman, I. de Pater, T.
 Encrenaz, H. B. Hammel, R. S. Giles, T. Velusamy, J. I. Moses, P. G.
 J. Irwin, T. W. Momary, N. Rowe-Gurney, F. Tabataba-Vakili (2020), *Spatial structure in Neptune's 7.90-µm stratospheric CH4 emission, as measured by VLT-VISIR*, Icarus, accepted.
