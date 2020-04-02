@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 170 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, etc.)
+* 171 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,7 +54,7 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
 
-1. L.N. Fletcher, G.S. Orton, T.K. Greathouse, J.H. Rogers, Z. Zhang, F.A. Oyafuso, G. Eichstadt, H. Melin, C. Li, S.M. Levin, S. Bolton, M. Janssen, H-J. Mettig, D. Grassi, A. Mura, A. Adriani (2020), *Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR*, JGR-Planets, accepted.
+1. **L.N. Fletcher, G.S. Orton, T.K. Greathouse, J.H. Rogers, Z. Zhang, F.A. Oyafuso, G. Eichstadt, H. Melin, C. Li, S.M. Levin, S. Bolton, M. Janssen, H-J. Mettig, D. Grassi, A. Mura, A. Adriani (2020), *Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR*, JGR-Planets, accepted (https://arxiv.org/abs/2004.00072).**
 
 1. J. A. Sinclair, G. S. Orton, L. N. Fletcher, M. Roman, I. de Pater, T.
 Encrenaz, H. B. Hammel, R. S. Giles, T. Velusamy, J. I. Moses, P. G.
@@ -65,7 +65,7 @@ Candice J. Hansen, Thomas W. Momary, Andrew P. Ingersoll, Shawn Brueshaber, Mich
 
 1. D. Grassi, A. Adriani, A. Mura, S.K. Atreya, L. N. Fletcher, J.I. Lunine, G.S. Orton, S. Bolton, C. Plainaki, G. Sindoni, F. Altieri, A. Cicchetti, B.M. Dinelli, G. Filacchione, A. Migliorini, M.L. Moriconi, R. Noschese, A. Olivieri, G. Piccioni, R. Sordini, S. Stefani, F. Tosi, D. Turrini (2020), *On the spatial distribution of minor species in Jupiter's troposphere as inferred from Juno JIRAM data,* JGR-Planets, accepted (https://dx.doi.org/10.1029/2019JE006206)
 
-1. Wong, M.H., A.A. Simon, J.W. Tollefson, I. de Pater, M. Barnett, A.I. Hsu, A.W. Stephens, G.S. Orton, S.W. Fleming, C. Goullaud, W. Januszewski, A. Roman, G.L. Bjoraker, S.K. Atreya, A. Adriani, L.N. Fletcher (2020), *High-resolution UV/optical/IR imaging of Jupiter in 2016-2019,* The Astrophysical Journal Supplement Series, in press.
+1. Wong, M.H., A.A. Simon, J.W. Tollefson, I. de Pater, M. Barnett, A.I. Hsu, A.W. Stephens, G.S. Orton, S.W. Fleming, C. Goullaud, W. Januszewski, A. Roman, G.L. Bjoraker, S.K. Atreya, A. Adriani, L.N. Fletcher (2020), *High-resolution UV/optical/IR imaging of Jupiter in 2016-2019,* The Astrophysical Journal Supplement Series, Series, 247, 58 (25 pp.) (http://dx.doi.org/10.3847/1538-4365/ab775f)
 
 1. **Leigh N. Fletcher, Imke de Pater, Glenn S. Orton, Mark D. Hofstadter, Patrick G. J. Irwin, Michael Roman, Daniel Toledo (2020), *Ice Giant Circulation Patterns: Implications for Atmospheric Probes*, Space Science Reviews, in press (https://arxiv.org/abs/1907.02901) (https://dx.doi.org/10.1007/s11214-020-00646-1).**
 
