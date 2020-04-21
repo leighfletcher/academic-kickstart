@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 171 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., etc.)
+* 173 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,14 +54,19 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588) and [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher).
 
-1. **L.N. Fletcher, G.S. Orton, T.K. Greathouse, J.H. Rogers, Z. Zhang, F.A. Oyafuso, G. Eichstadt, H. Melin, C. Li, S.M. Levin, S. Bolton, M. Janssen, H-J. Mettig, D. Grassi, A. Mura, A. Adriani (2020), *Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR*, JGR-Planets, accepted (https://arxiv.org/abs/2004.00072).**
+1. Thibault Cavalie, Olivia Venot, Yamila Miguel, Leigh N. Fletcher, Peter Wurz, Olivier Mousis, Roda Bounaceur, Vincent Hue, Jeremy Leconte, Michel Dobrijevic (2020), *The deep composition of Uranus and Neptune from in situ
+exploration and thermochemical modeling*, Space Science Reviews, accepted.
+
+1. Daniel Toledo, Patrick G. J. Irwin, Pascal Rannou, Leigh N. Fletcher, Nicholas A. Teanby, Michael H. Wong, and Glenn S. Orton (2020), *Constraints on Neptune's haze structure and formation from VLT observations in the H-band*, Icarus, accepted.
+
+1. **L.N. Fletcher, G.S. Orton, T.K. Greathouse, J.H. Rogers, Z. Zhang, F.A. Oyafuso, G. Eichstadt, H. Melin, C. Li, S.M. Levin, S. Bolton, M. Janssen, H-J. Mettig, D. Grassi, A. Mura, A. Adriani (2020), *Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR*, JGR-Planets, accepted (https://arxiv.org/abs/2004.00072) (http://dx.doi.org/10.1029/2020JE006399).**
 
 1. J. A. Sinclair, G. S. Orton, L. N. Fletcher, M. Roman, I. de Pater, T.
 Encrenaz, H. B. Hammel, R. S. Giles, T. Velusamy, J. I. Moses, P. G.
-J. Irwin, T. W. Momary, N. Rowe-Gurney, F. Tabataba-Vakili (2020), *Spatial structure in Neptune's 7.90-µm stratospheric CH4 emission, as measured by VLT-VISIR*, Icarus, accepted.
+J. Irwin, T. W. Momary, N. Rowe-Gurney, F. Tabataba-Vakili (2020), *Spatial structure in Neptune's 7.90-µm stratospheric CH4 emission, as measured by VLT-VISIR*, Icarus, Volume 345, 113748 (https://doi.org/10.1016/j.icarus.2020.113748).
 
 1. Glenn S. Orton, Fachreddin Tabataba-Vakili, Gerald Eichstädt, John Rogers,
-Candice J. Hansen, Thomas W. Momary, Andrew P. Ingersoll, Shawn Brueshaber, Michael H. Wong, Amy A. Simon, Leigh N. Fletcher, Michael Ravine, Michael Caplinger, Dakota Smith, Scott J. Bolton, Stephen M. Levin, James A. Sinclair, Chloe Thepenier, Hamish Nicholson, Abigail Anthony (2020), *A Survey of Small-Scale Waves and Wave-Like Phenomena in Jupiter's Atmosphere Detected by JunoCam*, Journal of Geophysical Research - Planets, accepted.
+Candice J. Hansen, Thomas W. Momary, Andrew P. Ingersoll, Shawn Brueshaber, Michael H. Wong, Amy A. Simon, Leigh N. Fletcher, Michael Ravine, Michael Caplinger, Dakota Smith, Scott J. Bolton, Stephen M. Levin, James A. Sinclair, Chloe Thepenier, Hamish Nicholson, Abigail Anthony (2020), *A Survey of Small-Scale Waves and Wave-Like Phenomena in Jupiter's Atmosphere Detected by JunoCam*, Journal of Geophysical Research - Planets, accepted (https://doi.org/10.1029/2019JE006369).
 
 1. D. Grassi, A. Adriani, A. Mura, S.K. Atreya, L. N. Fletcher, J.I. Lunine, G.S. Orton, S. Bolton, C. Plainaki, G. Sindoni, F. Altieri, A. Cicchetti, B.M. Dinelli, G. Filacchione, A. Migliorini, M.L. Moriconi, R. Noschese, A. Olivieri, G. Piccioni, R. Sordini, S. Stefani, F. Tosi, D. Turrini (2020), *On the spatial distribution of minor species in Jupiter's troposphere as inferred from Juno JIRAM data,* JGR-Planets, accepted (https://dx.doi.org/10.1029/2019JE006206)
 
