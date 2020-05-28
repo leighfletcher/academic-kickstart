@@ -36,8 +36,10 @@ categories = []
 
 ## Conference and Workshop Organisation
 
-* Co-Convener, AGU Meeting 2020, Juno and Jupiter session.
-* Lead Convener, COSPAR 2020 B5.4 Ice Giant Systems.
+* EPSC 2020:  Virtual Organising Committee (VOC) and co-convener of Ice Giants session.
+* DPS 2020:  Science Organising Committee (SOC).
+* AGU 2020 (San Francisco): Co-Convener, Juno and Jupiter session.
+* COSPAR 2021:  Lead Convener, B5.4 Ice Giant Systems.
 * Lead Organiser, UK Solar System Planetary Atmospheres Meeting, February 14th 2020, Royal Astronomical Society.
 * Lead Organiser, Royal Society Discussion Meeting: Ice Giant Systems 2020, January 20th-22nd 2020.
 * Co-Organiser (with John Rogers), Royal Astronomical Society Juno Workshop, May 10th-11th 2018.  Received funding from Europlanet.

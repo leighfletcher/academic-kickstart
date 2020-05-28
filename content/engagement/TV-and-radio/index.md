@@ -62,7 +62,7 @@ url_poster = ""
 
 ### Sky at Night
 
-* September 2019:  Invited to particpate in the first ever Sky at Night "Question Time", held at the Warwick Arts Centre.  Hosted by Dallas Campbell, with myself, Chris Lintott, Pete Lawrence, Maggie Aderin-Pocock and Farzana Meru answering questions from a live audience.
+* September 2019:  Invited to participate in the first ever Sky at Night "Question Time", held at the Warwick Arts Centre.  Hosted by Dallas Campbell, with myself, Chris Lintott, Pete Lawrence, Maggie Aderin-Pocock and Farzana Meru answering questions from a live audience.
 
 * <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p07qpg5c/player"></iframe>
 
@@ -95,6 +95,7 @@ url_poster = ""
 
 ## Podcasts
 
+* Pythagoras' Trousers (May 1st 2020):  Podcast for [Pythagoras Trousers](https://blogs.cardiff.ac.uk/physicsoutreach/2020/05/01/pythagorean-astronomy-hubble-at-30/) on the legacy of the Hubble Space Telescope.
 * ITN Podcast on Exoplanets (commissioned by audible.com) - recorded in Leicester on October 10th 2019.
 * Space Boffins:  recorded a discussion of future missions to the Ice Giants at the UK Space Conference, September 25th 2019.
 * Space is the Place  (November 2017):  Visited HM Prison Leicester to record four radio shows about space, to be broadcast across National Prison Radio.  Four programmes were recorded back to back with Q&A from an audience of the prison residents, covering topics such as Observing the Universe, Life in Space, The Earth from Space, and the UK Space Agency.  An article from Prison Radio can be [found here](https://prison.radio/space-is-the-place/).  This was funded by a £9000 UKSA grant to HMP Leicester Library, working with the National Space Centre and National Prison Radio, to make at least four radio programmes (15-min each) on inspirational subjects related to space, including the UK in Space. Made with prisoners and experts, together with Robin Ince, host of Radio4’s Infinite Monkey Cage, and broadcast over NPR’s 24/7 network, they will reach thousands of prisoners of all ages and gender in UK prisons and YOIs.
@@ -105,6 +106,10 @@ url_poster = ""
 * Pythagoras Trousers Radio Show for Radio Cardiff:  A ten-minute interview on planetary exploration with Dr. Chris North.  May 1st 2012
 
 ## Miscellany
+
+* National Space Centre Gas Giants week during the 2020 COVID-19 lockdown, recording videos on Leicester's exploration of Jupiter and Saturn:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2B4zPGIrjyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yo6Etip1DPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Movie Making for University College Oxford (April 2012):  A morning of filming to advertise my research and Oxford physics themes.  To watch the finished product, see below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Db2-d_EhBlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

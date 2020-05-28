@@ -56,7 +56,7 @@ I have served as a reviewer for a wide range of peer-reviewed publications, prop
 * Cambridge University Press Planetary Science Series - Editorial Board.
 * STFC Balance of Programmes Committee (2019)
 * ESO Telescope Allocation Committee (2017, 2018)
-* DPS Prize Committee (2019)
+* DPS Prize Committee (2019-2020)
 * Royal Astronomical Society Research Fellowships (2014).
 * ESA JUICE Preliminary Requirements Review (2014).
 
