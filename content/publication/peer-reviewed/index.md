@@ -46,13 +46,15 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 174 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., etc.)
+* 175 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+1. **Leigh N. Fletcher, Ravit Helled, Elias Roussos, Geraint Jones, Sébastien Charnoz, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ricardo Hueso, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Oliver Mousis, Nadine Nettleman, Christina Plainaki, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini (2020), *Ice Giant Systems: The Scientific Potential of Orbital Missions to Uranus and Neptune*, Planetary and Space Science, accepted (https://arxiv.org/abs/1907.02963)**
 
 1. Henrik Melin, Leigh N. Fletcher, Pat G. J. Irwin, Scott G Edgington (2020), *Jupiter in the ultraviolet: acetylene and ethane abundances in the stratosphere of Jupiter from Cassini observations between 0.15 and 0.19 μm*, Astronomical Journal, accepted (https://arxiv.org/abs/2005.09895)
 
