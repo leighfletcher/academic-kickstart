@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 175 articles in peer-reviewed journals & books, 32 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., etc.)
+* 177 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., Planetary and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,9 +54,14 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
 
-1. **Leigh N. Fletcher, Ravit Helled, Elias Roussos, Geraint Jones, Sébastien Charnoz, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ricardo Hueso, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Oliver Mousis, Nadine Nettleman, Christina Plainaki, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini (2020), *Ice Giant Systems: The Scientific Potential of Orbital Missions to Uranus and Neptune*, Planetary and Space Science, accepted (https://arxiv.org/abs/1907.02963)**
+1. M.D. Hofstadter, L.N. Fletcher, A.A. Simon, A. Masters, D. Turrini, C.S. Arridge (2020), *Future Missions to the Giant Planets that Can Advance
+Atmospheric Science Objectives*, Space Science Reviews, 216, Article number: 91 (https://rdcu.be/b5v6q) (https://doi.org/10.1007/s11214-020-00710-w)
 
-1. Henrik Melin, Leigh N. Fletcher, Pat G. J. Irwin, Scott G Edgington (2020), *Jupiter in the ultraviolet: acetylene and ethane abundances in the stratosphere of Jupiter from Cassini observations between 0.15 and 0.19 μm*, Astronomical Journal, accepted (https://arxiv.org/abs/2005.09895)
+1. J.I. Moses, T. Cavalie, L.N. Fletcher, M.T. Roman (2020), *Atmospheric chemistry on Uranus and Neptune*, Philos. Trans. R. Soc. A, accepted (https://arxiv.org/abs/2006.11367)
+
+1. **Leigh N. Fletcher, Ravit Helled, Elias Roussos, Geraint Jones, Sébastien Charnoz, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ricardo Hueso, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Oliver Mousis, Nadine Nettleman, Christina Plainaki, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini (2020), *Ice Giant Systems: The Scientific Potential of Orbital Missions to Uranus and Neptune*, Planetary and Space Science, accepted (https://doi.org/10.1016/j.pss.2020.105030) (https://arxiv.org/abs/1907.02963)**
+
+1. Henrik Melin, Leigh N. Fletcher, Pat G. J. Irwin, Scott G Edgington (2020), *Jupiter in the ultraviolet: acetylene and ethane abundances in the stratosphere of Jupiter from Cassini observations between 0.15 and 0.19 μm*, Astronomical Journal, 159, 291 (https://doi.org/10.3847/1538-3881/ab91a6) (https://arxiv.org/abs/2005.09895)
 
 1. Thibault Cavalie, Olivia Venot, Yamila Miguel, Leigh N. Fletcher, Peter Wurz, Olivier Mousis, Roda Bounaceur, Vincent Hue, Jeremy Leconte, Michel Dobrijevic (2020), *The deep composition of Uranus and Neptune from in situ
 exploration and thermochemical modeling*, Space Science Reviews, 216, Article number: 58 (http://arxiv.org/abs/2004.13987) (https://doi.org/10.1007/s11214-020-00677-8)

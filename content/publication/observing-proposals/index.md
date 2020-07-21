@@ -63,6 +63,7 @@ The following list attempts to keep track of awarded observing time each year, b
 
 ## 2020
 
+* Gemini NIRI [GN-2020B-Q-120]() (PI: Orton) - *Near-Infrared Imaging of Jupiter's Cloud and Haze Variations Simultaneous with the Juno Mission*, 4.8hrs.
 * ESO VLT/VISIR [0105.C-0725](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0725) (PI: Roman) - *Revealing the Structure of Uranus' Emerging North Pole and Atmospheric Circulation*, 15.6hrs, Apr-Sep 2020.
 * ESO VLT/SPHERE [0105.C-0145](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0145) (PI: King) - *Global mapping of Europa and Ganymede with SPHERE: pushing beyond the capabilities of Galileo/NIMS*, 3.9hrs, Apr-Sep 2020.
 * ESO VLT/VISIR [0105.C-0395](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0395) (PI: Fletcher) - *Exploring Unusual Variability in Jupiter's Equatorial Circulation and Great Red Spot*, 10.9hrs, Apr-Sep 2020.
