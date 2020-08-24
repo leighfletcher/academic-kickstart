@@ -36,6 +36,14 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+    title = "Sir Arthur Clarke Award for Space Achievement in Academic Research: UK Cassini-Huygens Team"
+    organization = "British Interplanetary Society"
+    certificate_url = ""
+    date_start = "2018-11-15"
+    date_end = ""
+    description = ""
+
+[[item]]
     title = "NASA Group Achievement Award:  Cassini/CIRS"
     organization = "NASA"
     certificate_url = ""

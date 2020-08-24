@@ -46,13 +46,19 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 177 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., Planetary and Space Science, etc.)
+* 180 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+1. Arrate Antunano, Richard G. Cosentino, Leigh N. Fletcher, Amy Simon, Thomas Greathouse, Glenn Orton (2020), *Fluctuations in Jupiter's Equatorial Stratospheric Oscillation*, Nature Astronomy, (https://doi.org/10.1038/s41550-020-1165-5) [Blog Post](https://astronomycommunity.nature.com/posts/monitoring-jupiter-s-atmospheric-heartbeat-over-three-decades)
+
+1. Zhimeng Zhang, Virgil Adumitroaie, Michael Allison, John Arballo, Sushil Atreya, Gordon Bjoraker, Scott Bolton, Shannon Brown, Leigh N. Fletcher, Tristan Guillot, Samuel Gulkis, Amoree Hodges, Andrew Ingersoll, Michael Janssen, Steven Levin, Cheng Li, Liming Li, Jonathan Lunine, Sidharth Misra, Glenn Orton, Fabiano Oyafuso, Paul Steffes, Michael H. Wong (2020), *Residual Study: Testing Jupiter Atmosphere Models Against Juno MWR Observations*, Earth and Space Science, accepted (https://doi.org/10.1029/2020EA001229).
+
+1. Arrate Antunano, Leigh N. Fletcher, Glenn S. Orton, Daniel Toledo, Henrik Melin, Michael T. Roman, James A. Sinclair, Padraig T. Donnelly, Eleanor K. Morton, Peter Selves (2020), *Characterizing Temperature and Aerosol Variability during Jupiter’s 2006-07 Equatorial Zone Disturbance*, JGR Planets, accepted (http://doi.org/10.1029/2020JE006413)
 
 1. M.D. Hofstadter, L.N. Fletcher, A.A. Simon, A. Masters, D. Turrini, C.S. Arridge (2020), *Future Missions to the Giant Planets that Can Advance
 Atmospheric Science Objectives*, Space Science Reviews, 216, Article number: 91 (https://rdcu.be/b5v6q) (https://doi.org/10.1007/s11214-020-00710-w)
