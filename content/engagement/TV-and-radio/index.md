@@ -89,6 +89,7 @@ url_poster = ""
 * September 2010:  [Events on Jupiter.](http://www.bbc.co.uk/programmes/b00tnwks)  My first appearance on the BBC show alongside John Rogers, and my first opportunity to meet Sir Patrick Moore.
 
 ## Radio
+* BBC Radio Cardiff Science Cafe (September 3rd 2020):  Recorded a short interview on planetary weather and Jupiter for BBC Radio Wales.
 * Juno's GRS Encounter (July 11th 2017):  Radio Interviews with BBC Radio Kent (Drivetime, 17:30) and BBC Radio Scotland (Good Morning Scotland, 06:05).
 * [Austria's Radio 4](http://fm4.orf.at/):  Reality Check:  A 10-minute radio interview about why we should be returning to the ice giants, to be aired in September 2014.  The interview can be found [here.](http://fm4.orf.at/stories/1746343)
 * Radio Interviews Associated with the selection of JUICE for Jupiter:  BBC Radio Oxford Drive Time, Jack FM (May 2nd 2012).

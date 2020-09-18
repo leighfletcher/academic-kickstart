@@ -46,11 +46,15 @@ url_poster = ""
 
 This page lists my contributions to News & Views, Book Reviews, and Popular Science Articles, both in print and online.
 
+1. Fletcher, L.N. (2020), *Onwards to the ice giants*, Astronomy & Geophysics, Volume 61, Issue 5, 1 October 2020, Pages 5.22–5.27 (https://doi.org/10.1093/astrogeo/ataa071) [Full Text](https://academic.oup.com/astrogeo/article/61/5/5.22/5906537?guestAccessKey=69511b5c-5e6e-4836-8744-6d7838d5ffac)
+
+1. Fletcher, L.N. (2020), *Meeting Report: There's Something in the Air,* Astronomy & Geophysics, Volume 61, Issue 3, June 2020, Pages 3.20–3.25, (https://doi.org/10.1093/astrogeo/ataa040)
+
 1. Guillot, T., Fletcher, L.N. (2020), *Comment:  Revealing giant planet interiors beneath the cloudy veil*, Nature Communications, 11, 1555. (https://doi.org/10.1038/s41467-020-15431-5) (https://rdcu.be/b3eeN)
 
-1. J.H. Rogers, L.N. Fletcher (2019), Notes and News:'New Views of Jupiter': Pro-Am collaborations during and beyond the NASA Juno mission, Journal of the British Astronomical Association 128, 321-323.
+1. J.H. Rogers, L.N. Fletcher (2019), *Notes and News:'New Views of Jupiter': Pro-Am collaborations during and beyond the NASA Juno mission,* Journal of the British Astronomical Association 128, 321-323.
 
-1. Fletcher, L.N. & Rogers, J.H., (2018), Pro–am collaborations improve views of Jupiter,  Astronomy & Geophysics, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)
+1. Fletcher, L.N. & Rogers, J.H., (2018), *Pro–am collaborations improve views of Jupiter,*  Astronomy & Geophysics, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)
 
 1. Fletcher, L.N., (2017), "Saturn's Big Storm", Nature Astronomy News and Views, Nature Astronomy 1, 583, (http://dx.doi.org/10.1038/s41550-017-0246-6)
 

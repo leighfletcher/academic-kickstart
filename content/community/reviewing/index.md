@@ -36,6 +36,7 @@ categories = []
 I have served as a reviewer for a wide range of peer-reviewed publications, proposals, and other committee activities.
 
 # Recognition
+* Lead editor on Ice Giants Special Issue in Philosophical Transactions of the Royal Society A (2020).
 * Associate Editor of Journal of Geophysical Research: Planets (2019-Present)
 * 2017 Editor’s Citation for Excellence in Refereeing - Geophysical Research Letters.
 * 2014 Certificate of Reviewing Excellence from the Editors of Icarus.
@@ -61,6 +62,7 @@ I have served as a reviewer for a wide range of peer-reviewed publications, prop
 * ESA JUICE Preliminary Requirements Review (2014).
 
 # Proposal Reviews
+* Minerva Foundation (Max Planck Society) 2020.
 * Isaac Newton Telescope (INT) telescope allocation committee (external).
 * Future Leaders Fellowships Scheme (2018)
 * STFC Ernest Rutherford Fellowships (External, 2014+).

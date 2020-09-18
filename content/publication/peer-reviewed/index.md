@@ -46,13 +46,15 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 180 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 181 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+1. **L.N. Fletcher, A.A. Simon, M.D. Hofstadter, C.S. Arridge, I. Cohen, A. Masters, K. Mandt, A. Coustenis (2020), *Ice Giant System Exploration in the 2020s: An Introduction*, Phil. Trans. R. Soc. A, accepted (https://arxiv.org/abs/2008.12125)**
 
 1. Arrate Antunano, Richard G. Cosentino, Leigh N. Fletcher, Amy Simon, Thomas Greathouse, Glenn Orton (2020), *Fluctuations in Jupiter's Equatorial Stratospheric Oscillation*, Nature Astronomy, (https://doi.org/10.1038/s41550-020-1165-5) [Blog Post](https://astronomycommunity.nature.com/posts/monitoring-jupiter-s-atmospheric-heartbeat-over-three-decades)
 
@@ -63,7 +65,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 1. M.D. Hofstadter, L.N. Fletcher, A.A. Simon, A. Masters, D. Turrini, C.S. Arridge (2020), *Future Missions to the Giant Planets that Can Advance
 Atmospheric Science Objectives*, Space Science Reviews, 216, Article number: 91 (https://rdcu.be/b5v6q) (https://doi.org/10.1007/s11214-020-00710-w)
 
-1. J.I. Moses, T. Cavalie, L.N. Fletcher, M.T. Roman (2020), *Atmospheric chemistry on Uranus and Neptune*, Philos. Trans. R. Soc. A, accepted (https://arxiv.org/abs/2006.11367)
+1. J.I. Moses, T. Cavalie, L.N. Fletcher, M.T. Roman (2020), *Atmospheric chemistry on Uranus and Neptune*, Phil. Trans. R. Soc. A, accepted (https://arxiv.org/abs/2006.11367)
 
 1. **Leigh N. Fletcher, Ravit Helled, Elias Roussos, Geraint Jones, Sébastien Charnoz, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ricardo Hueso, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Oliver Mousis, Nadine Nettleman, Christina Plainaki, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini (2020), *Ice Giant Systems: The Scientific Potential of Orbital Missions to Uranus and Neptune*, Planetary and Space Science, accepted (https://doi.org/10.1016/j.pss.2020.105030) (https://arxiv.org/abs/1907.02963)**
 
