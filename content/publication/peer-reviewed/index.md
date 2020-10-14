@@ -46,13 +46,17 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 181 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 183 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+1. David E. Trilling, Carey Lisse, Dale P. Cruikshank, Joshua P. Emery, Yanga Fernández, Leigh N. Fletcher, Douglas P. Hamilton, Heidi B. Hammel, Alan W. Harris, Michael Mueller, Glenn S. Orton, Yvonne J. Pendleton, William T. Reach, Naomi Rowe-Gurney, Michael Skrutskie & Anne Verbiscer (2020), *Spitzer’s Solar System studies of asteroids, planets and the zodiacal cloud,* Nature Astronomy 4, 940–946 (2020). (https://doi.org/10.1038/s41550-020-01221-y)
+
+1. R.G. Cosentino, T. Greathouse, A. Simon, R. Giles, R. Morales-Juberias, L.N. Fletcher, G. Orton (2020), *The Effects of Waves on the Meridional Thermal Structure of Jupiter's Stratosphere*, Planetary Science Journal, accepted.
 
 1. **L.N. Fletcher, A.A. Simon, M.D. Hofstadter, C.S. Arridge, I. Cohen, A. Masters, K. Mandt, A. Coustenis (2020), *Ice Giant System Exploration in the 2020s: An Introduction*, Phil. Trans. R. Soc. A, accepted (https://arxiv.org/abs/2008.12125)**
 
@@ -76,7 +80,7 @@ exploration and thermochemical modeling*, Space Science Reviews, 216, Article nu
 
 1. Daniel Toledo, Patrick G. J. Irwin, Pascal Rannou, Leigh N. Fletcher, Nicholas A. Teanby, Michael H. Wong, and Glenn S. Orton (2020), *Constraints on Neptune's haze structure and formation from VLT observations in the H-band*, Icarus, in press (https://doi.org/10.1016/j.icarus.2020.113808)
 
-1. **L.N. Fletcher, G.S. Orton, T.K. Greathouse, J.H. Rogers, Z. Zhang, F.A. Oyafuso, G. Eichstadt, H. Melin, C. Li, S.M. Levin, S. Bolton, M. Janssen, H-J. Mettig, D. Grassi, A. Mura, A. Adriani (2020), *Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR*, JGR-Planets, accepted (https://arxiv.org/abs/2004.00072) (http://dx.doi.org/10.1029/2020JE006399).**
+1. **L.N. Fletcher, G.S. Orton, T.K. Greathouse, J.H. Rogers, Z. Zhang, F.A. Oyafuso, G. Eichstadt, H. Melin, C. Li, S.M. Levin, S. Bolton, M. Janssen, H-J. Mettig, D. Grassi, A. Mura, A. Adriani (2020), *Jupiter's Equatorial Plumes and Hot Spots: Spectral Mapping from Gemini/TEXES and Juno/MWR*, Journal of Geophysical Research: Planets, 125, e2020JE006399 (https://arxiv.org/abs/2004.00072) (http://dx.doi.org/10.1029/2020JE006399).**
 
 1. J. A. Sinclair, G. S. Orton, L. N. Fletcher, M. Roman, I. de Pater, T.
 Encrenaz, H. B. Hammel, R. S. Giles, T. Velusamy, J. I. Moses, P. G.

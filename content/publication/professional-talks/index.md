@@ -46,6 +46,17 @@ url_poster = ""
 
 This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.
 
+1. **Eleventh Moscow Solar System Symposium [11M-S3](https://ms2020.cosmos.ru), October 6th 2020: Invited presentation (virtual) on Jupiter's belt-zone structure.**
+
+1. EuroPlanet Science Congress (EPSC), September 30th 2020, Virtual Meeting, contributed talk on Jupiter's Temperate Belt/Zone Contrasts at Depth Revealed By Juno.  
+<iframe src="https://player.vimeo.com/video/457768427?color=ffffff&title=0&byline=0&portrait=0" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/457768427">605-Jupiter&#039;s Temperate BeltZone Contrasts at Depth Revealed By Juno-Fletcher et al.mp4</a> from <a href="https://vimeo.com/europlanet">Europlanet Society</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+1. EuroPlanet Science Congress (EPSC), September 21st 2020, Virtual Meeting, Science Showcase on Ice Giant Systems.
+<iframe src="https://player.vimeo.com/video/460331007?color=ffffff&title=0&byline=0&portrait=0" width="640" height="328" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/460331007">Session OPS2 showcase</a> from <a href="https://vimeo.com/europlanet">Europlanet Society</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 1.  **ESA's Voyage 2050 Workshop, Madrid, October 29th 2019:  Invited presentation of our white paper on *Ice Giant Systems:  Scientific Potential of Missions to Uranus and Neptune.***  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big Beasts -first up is <a href="https://twitter.com/LeighFletcher?ref_src=twsrc%5Etfw">@LeighFletcher</a> <a href="https://twitter.com/uniofleicester?ref_src=twsrc%5Etfw">@uniofleicester</a> with a mission to explore the Ice Giants Uranus and Neptune <a href="https://twitter.com/hashtag/voyage2050?src=hash&amp;ref_src=twsrc%5Etfw">#voyage2050</a> -“exoplanets in our backyard” <a href="https://t.co/RpTLOS0Usk">pic.twitter.com/RpTLOS0Usk</a></p>&mdash; chris lee (@cpl43uk) <a href="https://twitter.com/cpl43uk/status/1189204586848047104?ref_src=twsrc%5Etfw">October 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
