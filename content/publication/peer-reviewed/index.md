@@ -46,13 +46,15 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 183 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 184 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+1. F. Oyafuso, S. Levin, G. Orton, S. Brown, V. Adumitroaie, M. Janssen, M. H. Wong, L.N. Fletcher, P. Steffes, C. Li, S. Gulkis, S. Atreya, S. Misra, S. Bolton(2020), *Angular Dependence and Spatial Distribution of Jupiter’s Centimeter-Wave Thermal Emission from Juno’s Microwave Radiometer*, Earth and Space Science, accepted (https://doi.org/10.1029/2020EA001254)
 
 1. David E. Trilling, Carey Lisse, Dale P. Cruikshank, Joshua P. Emery, Yanga Fernández, Leigh N. Fletcher, Douglas P. Hamilton, Heidi B. Hammel, Alan W. Harris, Michael Mueller, Glenn S. Orton, Yvonne J. Pendleton, William T. Reach, Naomi Rowe-Gurney, Michael Skrutskie & Anne Verbiscer (2020), *Spitzer’s Solar System studies of asteroids, planets and the zodiacal cloud,* Nature Astronomy 4, 940–946 (2020). (https://doi.org/10.1038/s41550-020-01221-y)
 
