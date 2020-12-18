@@ -77,6 +77,7 @@ This section is divided into two - talks for a general audience, and scroll down
 
 
 ## Astronomy Societies
+* North Lincolnshire Astronomy Society, December 7th 2020 (via Zoom), *Future Exploration of the Ice Giants*:  "Members were still chatting about the talk as I had to leave the Zoom meeting – it was great to see so much interest and the predominant feedback was how such an interesting topic can be presented in such a way that is actually understandable to non-scientists"
 * Nene Valley Astronomical Society (Northamptonshire), September 17th 2018, *Exploring the Weather of the Giant Planets*.
 * British Astronomical Association Weekend, July 7th 2018, University of Warwick, *Exploring the Weather of the Giant Planets via Professional-Amateur Collaboration*
 * Heart of England Astronomical Society, April 26th 2018, *New Views of the Jupiter System* in Furnace End, North Warwickshire.  "Thank you email for a most interesting and fascinating talk which you gave to the society last Thursday.  I found that particular image of Jupiter's detailed cloud formations literally out of this world and just wonder how much more we will learn over the continuing mission, so hope you may be able to come back and give us an update in a few years' time."

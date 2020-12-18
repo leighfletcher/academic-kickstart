@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 184 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 185 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,13 +54,15 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
 
-1. F. Oyafuso, S. Levin, G. Orton, S. Brown, V. Adumitroaie, M. Janssen, M. H. Wong, L.N. Fletcher, P. Steffes, C. Li, S. Gulkis, S. Atreya, S. Misra, S. Bolton(2020), *Angular Dependence and Spatial Distribution of Jupiter’s Centimeter-Wave Thermal Emission from Juno’s Microwave Radiometer*, Earth and Space Science, accepted (https://doi.org/10.1029/2020EA001254)
+1. L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)
+
+1. F. Oyafuso, S. Levin, G. Orton, S. Brown, V. Adumitroaie, M. Janssen, M. H. Wong, L.N. Fletcher, P. Steffes, C. Li, S. Gulkis, S. Atreya, S. Misra, S. Bolton (2020), *Angular Dependence and Spatial Distribution of Jupiter’s Centimeter-Wave Thermal Emission from Juno’s Microwave Radiometer*, Earth and Space Science, accepted (https://doi.org/10.1029/2020EA001254)
 
 1. David E. Trilling, Carey Lisse, Dale P. Cruikshank, Joshua P. Emery, Yanga Fernández, Leigh N. Fletcher, Douglas P. Hamilton, Heidi B. Hammel, Alan W. Harris, Michael Mueller, Glenn S. Orton, Yvonne J. Pendleton, William T. Reach, Naomi Rowe-Gurney, Michael Skrutskie & Anne Verbiscer (2020), *Spitzer’s Solar System studies of asteroids, planets and the zodiacal cloud,* Nature Astronomy 4, 940–946 (2020). (https://doi.org/10.1038/s41550-020-01221-y)
 
-1. R.G. Cosentino, T. Greathouse, A. Simon, R. Giles, R. Morales-Juberias, L.N. Fletcher, G. Orton (2020), *The Effects of Waves on the Meridional Thermal Structure of Jupiter's Stratosphere*, Planetary Science Journal, accepted.
+1. R.G. Cosentino, T. Greathouse, A. Simon, R. Giles, R. Morales-Juberias, L.N. Fletcher, G. Orton (2020), *The Effects of Waves on the Meridional Thermal Structure of Jupiter's Stratosphere*, Planetary Science Journal, Volume 1, Number 3 (https://doi.org/10.3847/PSJ/abbda3)
 
-1. **L.N. Fletcher, A.A. Simon, M.D. Hofstadter, C.S. Arridge, I. Cohen, A. Masters, K. Mandt, A. Coustenis (2020), *Ice Giant System Exploration in the 2020s: An Introduction*, Phil. Trans. R. Soc. A, accepted (https://arxiv.org/abs/2008.12125)**
+1. **L.N. Fletcher, A.A. Simon, M.D. Hofstadter, C.S. Arridge, I. Cohen, A. Masters, K. Mandt, A. Coustenis (2020), *Ice Giant System Exploration in the 2020s: An Introduction*, Phil. Trans. R. Soc. A, 378: 20190473, (https://arxiv.org/abs/2008.12125) (https://doi.org/10.1098/rsta.2019.0473)**
 
 1. Arrate Antunano, Richard G. Cosentino, Leigh N. Fletcher, Amy Simon, Thomas Greathouse, Glenn Orton (2020), *Fluctuations in Jupiter's Equatorial Stratospheric Oscillation*, Nature Astronomy, (https://doi.org/10.1038/s41550-020-1165-5) [Blog Post](https://astronomycommunity.nature.com/posts/monitoring-jupiter-s-atmospheric-heartbeat-over-three-decades)
 
