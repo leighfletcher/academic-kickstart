@@ -49,6 +49,6 @@ date_format = "Jan 2006"
     organization = "Royal Society"
     certificate_url = ""
     date_start = "2013-01-01"
-    date_end = "2020-12-31"
+    date_end = "2022-03-31"
     description = "Research grants from the Royal Society have supported PhD studentships at Oxford and Leicester."
 +++
