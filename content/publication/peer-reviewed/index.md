@@ -46,13 +46,15 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 186 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 187 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+1. Patrick G.J. Irwin, Jack Dobinson, Arjuna James, Daniel Toledo, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Santiago Pérez-Hoyos (2020), *Latitudinal variation of methane mole fraction above clouds in Neptune's atmosphere from VLT/MUSE-NFM: Limb-darkening reanalysis*, Icarus, 114277 (https://doi.org/10.1016/j.icarus.2020.114277).
 
 1. James A. Sinclair, Thomas K. Greathouse, Rohini S. Giles, Arrate Antuñano, Julianne I. Moses, Thierry Fouchet, Bruno Bézard, Chihiro Tao, Javier Martín-Torres, George B. Clark, Denis Grodent, Glenn S. Orton, Vincent Hue, Leigh N. Fletcher and Patrick G. J. Irwin (2020), *Spatial Variations in the Altitude of the CH4 Homopause at Jupiter's Mid-to-high Latitudes, as Constrained from IRTF-TEXES Spectra,* Planetary Science Journal, 1, 85 (https://doi.org/10.3847/PSJ/abc887)
 
