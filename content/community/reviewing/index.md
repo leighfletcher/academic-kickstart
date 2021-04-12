@@ -56,12 +56,13 @@ I have served as a reviewer for a wide range of peer-reviewed publications, prop
 # Panel Member
 * Cambridge University Press Planetary Science Series - Editorial Board.
 * STFC Balance of Programmes Committee (2019)
-* ESO Telescope Allocation Committee (2017, 2018)
+* ESO Telescope Allocation Committee (2017, 2018, 2021).
 * DPS Prize Committee (2019-2020)
 * Royal Astronomical Society Research Fellowships (2014).
 * ESA JUICE Preliminary Requirements Review (2014).
 
 # Proposal Reviews
+* World Scientific Book Proposal Reviews 2021.
 * Minerva Foundation (Max Planck Society) 2020.
 * Isaac Newton Telescope (INT) telescope allocation committee (external).
 * Future Leaders Fellowships Scheme (2018)

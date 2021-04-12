@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 187 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 190 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,11 +54,17 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
 
-1. Patrick G.J. Irwin, Jack Dobinson, Arjuna James, Daniel Toledo, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Santiago Pérez-Hoyos (2020), *Latitudinal variation of methane mole fraction above clouds in Neptune's atmosphere from VLT/MUSE-NFM: Limb-darkening reanalysis*, Icarus, 114277 (https://doi.org/10.1016/j.icarus.2020.114277).
+1. Galanti, E. and Kaspi, Y. and Duer, K. and Fletcher, L. and Ingersoll, A. P. and Li, C. and Orton, G. S. and Guillot, T. and Levin, S. M. and Bolton, S. J. (2021), *Constraints on the latitudinal profile of Jupiter's deep jets*, Geophysical Research Letters, accepted.
+
+1. J.S.D. Blake, L. N. Fletcher, T. K. Greathouse, G. S. Orton, H. Melin, M. T. Roman, A. Antuñano, P. T. Donnelly, N. Rowe-Gurney, O. King (2021), *Refining Saturn's deuterium-hydrogen ratio via IRTF/TEXES spectroscopy*, Astronomy & Astrophysics, in press (https://doi.org/10.1051/0004-6361/202038229).
+
+1. D. Grassi et al. (2021), *On the clouds and ammonia in Jupiter’s upper troposphere from Juno JIRAM reflectivity observations*, Monthly Notices of the Royal Astronomical Society, accepted.
+
+1. Patrick G.J. Irwin, Jack Dobinson, Arjuna James, Daniel Toledo, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Santiago Pérez-Hoyos (2021), *Latitudinal variation of methane mole fraction above clouds in Neptune's atmosphere from VLT/MUSE-NFM: Limb-darkening reanalysis*, Icarus, Volume 357, 114277 (https://doi.org/10.1016/j.icarus.2020.114277) (https://arxiv.org/abs/2101.01063).
 
 1. James A. Sinclair, Thomas K. Greathouse, Rohini S. Giles, Arrate Antuñano, Julianne I. Moses, Thierry Fouchet, Bruno Bézard, Chihiro Tao, Javier Martín-Torres, George B. Clark, Denis Grodent, Glenn S. Orton, Vincent Hue, Leigh N. Fletcher and Patrick G. J. Irwin (2020), *Spatial Variations in the Altitude of the CH4 Homopause at Jupiter's Mid-to-high Latitudes, as Constrained from IRTF-TEXES Spectra,* Planetary Science Journal, 1, 85 (https://doi.org/10.3847/PSJ/abc887)
 
-1. L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)
+1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
 
 1. F. Oyafuso, S. Levin, G. Orton, S. Brown, V. Adumitroaie, M. Janssen, M. H. Wong, L.N. Fletcher, P. Steffes, C. Li, S. Gulkis, S. Atreya, S. Misra, S. Bolton (2020), *Angular Dependence and Spatial Distribution of Jupiter’s Centimeter-Wave Thermal Emission from Juno’s Microwave Radiometer*, Earth and Space Science, accepted (https://doi.org/10.1029/2020EA001254)
 

@@ -60,10 +60,14 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * Kepler/K2 and Herschel/HIFI
 
+## 2021
+
+* IRTF TEXES [2021A034] (PI: Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure via Juno-TEXES Comparisons*, 10.0 hrs.
+* IRTF TEXES [2021A053] (PI: Blake) - *Saturn after the summer solstice: the seasonal progression and inter-annual variability of the northern hemisphere*, 12.0 hrs.
+* Gemini NIRI [GN-2021A-Q-125]() (PI: Orton) - *Near-Infrared Imaging of Jupiter's Cloud and Haze Variations Simultaneous with the Juno Mission*, 4.8hrs.
 
 ## 2020
 
-* Gemini NIRI [GN-2021A-Q-125]() (PI: Orton) - *Near-Infrared Imaging of Jupiter's Cloud and Haze Variations Simultaneous with the Juno Mission*, 4.8hrs.
 * Gemini NIRI [GN-2020B-Q-120]() (PI: Orton) - *Near-Infrared Imaging of Jupiter's Cloud and Haze Variations Simultaneous with the Juno Mission*, 4.8hrs.
 * ESO VLT/VISIR [0105.C-0725](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0725) (PI: Roman) - *Revealing the Structure of Uranus' Emerging North Pole and Atmospheric Circulation*, 15.6hrs, Apr-Sep 2020.
 * ESO VLT/SPHERE [0105.C-0145](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0145) (PI: King) - *Global mapping of Europa and Ganymede with SPHERE: pushing beyond the capabilities of Galileo/NIMS*, 3.9hrs, Apr-Sep 2020.
