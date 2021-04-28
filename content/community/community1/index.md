@@ -45,3 +45,9 @@ categories = []
 * Guest Editor, Philosophical Transactions of the Royal Society A, Ice Giant Systems Special Issue (2020).
 * Associate Editor, Journal of Geophysical Research: Planets, 2019-Present (responsible for giant planet atmospheres papers).
 * Editorial board, Cambridge University Press Planetary Sciences Series, 2019-Present.
+
+## Memberships
+* Fellow of the Royal Astronomical Society.
+* Member of Europlanet.
+* Member of the Division of Planetary Sciences (DPS).
+* Space Science and Exploration Working Group of Space Academic Network (SPAN).

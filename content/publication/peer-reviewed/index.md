@@ -1,6 +1,6 @@
 +++
 title = "Journal Articles"
-date = 2019-02-11T21:04:51Z
+date = 2004-09-30T00:00:00Z
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 190 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 191 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 5 contributions to book chapters, 1 as lead author.
 
@@ -54,11 +54,13 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
 
-1. Galanti, E. and Kaspi, Y. and Duer, K. and Fletcher, L. and Ingersoll, A. P. and Li, C. and Orton, G. S. and Guillot, T. and Levin, S. M. and Bolton, S. J. (2021), *Constraints on the latitudinal profile of Jupiter's deep jets*, Geophysical Research Letters, accepted.
+1. Naomi Rowe-Gurney, Leigh N. Fletcher, Glenn S. Orton, Michael T. Roman, Amy Mainzer, Julianne I. Moses, Imke de Pater, Patrick G. J. Irwin (2021), *Longitudinal Variations in the Stratosphere of Uranus from the Spitzer Infrared Spectrometer*, Icarus, accepted (https://arxiv.org/abs/2104.13113).
+
+1. Galanti, E. and Kaspi, Y. and Duer, K. and Fletcher, L. and Ingersoll, A. P. and Li, C. and Orton, G. S. and Guillot, T. and Levin, S. M. and Bolton, S. J. (2021), *Constraints on the latitudinal profile of Jupiter's deep jets*, Geophysical Research Letters, accepted (https://arxiv.org/abs/2102.10595).
 
 1. J.S.D. Blake, L. N. Fletcher, T. K. Greathouse, G. S. Orton, H. Melin, M. T. Roman, A. Antuñano, P. T. Donnelly, N. Rowe-Gurney, O. King (2021), *Refining Saturn's deuterium-hydrogen ratio via IRTF/TEXES spectroscopy*, Astronomy & Astrophysics, in press (https://doi.org/10.1051/0004-6361/202038229).
 
-1. D. Grassi et al. (2021), *On the clouds and ammonia in Jupiter’s upper troposphere from Juno JIRAM reflectivity observations*, Monthly Notices of the Royal Astronomical Society, accepted.
+1. Davide Grassi, A. Mura, G. Sindoni, A. Adriani, S.K. Atreya, G. Filacchione, L.N. Fletcher, J.I. Lunine, M.L. Moriconi, R. Noschese, G.S. Orton, C. Plainaki, R. Sordini, F. Tosi, D. Turrini, A. Olivieri, G. Eichstädt, C.J. Hansen, H. Melin, F. Altieri, A. Cicchetti, B.M. Dinelli, A. Migliorini, G. Piccioni, S. Stefani, S.J. Bolton (2021), *On the clouds and ammonia in Jupiter’s upper troposphere from Juno JIRAM reflectivity observations*, Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 4, Pages 4892–4907, (https://doi.org/10.1093/mnras/stab740)
 
 1. Patrick G.J. Irwin, Jack Dobinson, Arjuna James, Daniel Toledo, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Santiago Pérez-Hoyos (2021), *Latitudinal variation of methane mole fraction above clouds in Neptune's atmosphere from VLT/MUSE-NFM: Limb-darkening reanalysis*, Icarus, Volume 357, 114277 (https://doi.org/10.1016/j.icarus.2020.114277) (https://arxiv.org/abs/2101.01063).
 
