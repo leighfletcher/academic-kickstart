@@ -1,52 +1,35 @@
 +++
-# Projects widget.
-widget = "projects"  # Do not modify this line!
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Group"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
-
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "group"
-
-# View.
-#   1 = List
-#   3 = Card
-#   5 = Showcase
-view = 3
-
-# Widget layout
-# Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
-
-# For Showcase view, flip alternate rows?
-flip_alt_rows = false
-
-# Filter toolbar.
-
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-  [[filter]]
-    name = "All"
-    tag = "*"
-#
-  [[filter]]
-    name = "Postdocs"
-    tag = "Postdocs"
-#
-  [[filter]]
-    name = "Students"
-    tag = "Students"
+weight = 60
 
 +++
 
+Through research grants from STFC, the Royal Society, and the European Research Council, I have been fortunate to work with a group of talented individuals as part of Leicester's Planetary Atmospheres Team.
+
+### Current Postdoctoral Researchers
+* Dr. Henrik Melin
+* Dr. Michael Roman
+* Dr. James Blake
+
+### Current PhD Students
+* Naomi Rowe-Gurney
+* Oliver King
+
+### Former Postdocs
+* Dr. Arrate Antunano
+* Dr. Jan Vatant d'Ollone
+
+### Former Students
+* Dr. Padraig Donnelly
+* Dr. Rohini Giles (Oxford)
+* Dr. Jaemin Lee (Oxford)

@@ -46,17 +46,24 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 191 articles in peer-reviewed journals & books, 35 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 194 articles in peer-reviewed journals & books, 37 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
-* 5 contributions to book chapters, 1 as lead author.
+* 7 contributions to book chapters, 3 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
 
-1. Naomi Rowe-Gurney, Leigh N. Fletcher, Glenn S. Orton, Michael T. Roman, Amy Mainzer, Julianne I. Moses, Imke de Pater, Patrick G. J. Irwin (2021), *Longitudinal Variations in the Stratosphere of Uranus from the Spitzer Infrared Spectrometer*, Icarus, accepted (https://arxiv.org/abs/2104.13113).
+1. **Leigh N Fletcher, Fabiano A Oyafuso, Michael D Allison, Andrew Ingersoll, Liming Li, Yohai Kaspi, Eli Galanti, Mike H Wong, Glenn S Orton, Keren Duer, Zhimeng Zhang, Cheng Li, Tristan Guillot, Steven M. Levin, Scott J Bolton (2021), *Jupiter's Temperate Belt/Zone Contrasts Revealed at Depth by Juno Microwave Observations*, JGR:Planets, submitted (https://doi.org/10.1002/essoar.10506297.2)**
 
-1. Galanti, E. and Kaspi, Y. and Duer, K. and Fletcher, L. and Ingersoll, A. P. and Li, C. and Orton, G. S. and Guillot, T. and Levin, S. M. and Bolton, S. J. (2021), *Constraints on the latitudinal profile of Jupiter's deep jets*, Geophysical Research Letters, accepted (https://arxiv.org/abs/2102.10595).
+1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, submitted (https://arxiv.org/abs/2105.06377).**
+
+1. **Leigh N. Fletcher, Ravit Helled, Elias Roussos, Geraint Jones, Sébastien Charnoz, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ricardo Hueso, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Oliver Mousis, Nadine Nettleman, Christina Plainaki, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini (2020), *Ice Giant System Exploration within ESA's Voyage 2050*, Experimental Astronomy, accepted (https://doi.org/10.1007/s10686-021-09759-z)**
+
+1. Naomi Rowe-Gurney, Leigh N. Fletcher, Glenn S. Orton, Michael T. Roman, Amy Mainzer, Julianne I. Moses, Imke de Pater, Patrick G. J. Irwin (2021), *Longitudinal Variations in the Stratosphere of Uranus from the Spitzer Infrared Spectrometer*, Icarus, Volume 365, 114506
+ (https://arxiv.org/abs/2104.13113) (https://doi.org/10.1016/j.icarus.2021.114506).
+
+1. Galanti, E., Kaspi, Y., Duer, K., Fletcher, L.N., Ingersoll, A. P., Li, C., Orton, G. S., Guillot, T., Levin, S. M., Bolton, S. J. (2021), *Constraints on the latitudinal profile of Jupiter's deep jets*, Geophysical Research Letters, Volume 48, Issue 9, e2021GL092912 (https://arxiv.org/abs/2102.10595) (http://doi.org/10.1029/2021GL092912).
 
 1. J.S.D. Blake, L. N. Fletcher, T. K. Greathouse, G. S. Orton, H. Melin, M. T. Roman, A. Antuñano, P. T. Donnelly, N. Rowe-Gurney, O. King (2021), *Refining Saturn's deuterium-hydrogen ratio via IRTF/TEXES spectroscopy*, Astronomy & Astrophysics, in press (https://doi.org/10.1051/0004-6361/202038229).
 
@@ -82,8 +89,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Arrate Antunano, Leigh N. Fletcher, Glenn S. Orton, Daniel Toledo, Henrik Melin, Michael T. Roman, James A. Sinclair, Padraig T. Donnelly, Eleanor K. Morton, Peter Selves (2020), *Characterizing Temperature and Aerosol Variability during Jupiter’s 2006-07 Equatorial Zone Disturbance*, JGR Planets, accepted (http://doi.org/10.1029/2020JE006413)
 
-1. M.D. Hofstadter, L.N. Fletcher, A.A. Simon, A. Masters, D. Turrini, C.S. Arridge (2020), *Future Missions to the Giant Planets that Can Advance
-Atmospheric Science Objectives*, Space Science Reviews, 216, Article number: 91 (https://rdcu.be/b5v6q) (https://doi.org/10.1007/s11214-020-00710-w)
+1. M.D. Hofstadter, L.N. Fletcher, A.A. Simon, A. Masters, D. Turrini, C.S. Arridge (2020), *Future Missions to the Giant Planets that Can Advance Atmospheric Science Objectives*, Space Science Reviews, 216, Article number: 91 (https://rdcu.be/b5v6q) (https://doi.org/10.1007/s11214-020-00710-w)
 
 1. J.I. Moses, T. Cavalie, L.N. Fletcher, M.T. Roman (2020), *Atmospheric chemistry on Uranus and Neptune*, Phil. Trans. R. Soc. A, accepted (https://arxiv.org/abs/2006.11367)
 
