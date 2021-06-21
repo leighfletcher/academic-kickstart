@@ -46,6 +46,15 @@ url_poster = ""
 
 This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.
 
+1. Europlanet Ireland-UK Hub Virtual Meeting, *Exploring Jupiter’s Belts and Zones as a Function of Depth and Time*, June 22nd 2021.
+
+1. Juno Atmospheres Working Group Meeting, *Jupiter's Temperate Belt/Zone Contrasts at Depth Revealed By Juno*, June 8th 2021.
+
+1. **Instituto de Astrofísica de Andalucía -CSIC Severo Ochoa School on (Exo)Planetary Systems - Virtual Winter School 2-part invited lecture and Q&A session on *Exploration of the Gas Giants: Jupiter and Saturn*, delivered to approximately ~100 students and early-career researchers in January 2021.**
+
+1. **ESO Future of Thermal Infrared Astronomy Workshop  - Invited lecture on *Giant Planets in the Thermal-IR*, October 12th 2020.**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/IR2020?src=hash&amp;ref_src=twsrc%5Etfw">#IR2020</a> <a href="https://twitter.com/ESO_IR2020?ref_src=twsrc%5Etfw">@ESO_IR2020</a> meeting is taking place this week, discussing the future of mid-infrared astronomy. Here&#39;s the montage of thermal images of the four giant planets from my talk, all from <a href="https://twitter.com/ESO?ref_src=twsrc%5Etfw">@ESO</a> VISIR (Jupiter 5 µm, Saturn 12/17 µm, Uranus+Rings 18 µm, Neptune 8 µm). <a href="https://t.co/LMzPyNnysw">pic.twitter.com/LMzPyNnysw</a></p>&mdash; Leigh Fletcher (@LeighFletcher) <a href="https://twitter.com/LeighFletcher/status/1315663469526614022?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 1. **Eleventh Moscow Solar System Symposium [11M-S3](https://ms2020.cosmos.ru), October 6th 2020: Invited presentation (virtual) on Jupiter's belt-zone structure.**
 
 1. EuroPlanet Science Congress (EPSC), September 30th 2020, Virtual Meeting, contributed talk on Jupiter's Temperate Belt/Zone Contrasts at Depth Revealed By Juno.  

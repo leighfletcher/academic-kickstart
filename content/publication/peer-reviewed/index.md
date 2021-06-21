@@ -278,9 +278,9 @@ Candice J. Hansen, Thomas W. Momary, Andrew P. Ingersoll, Shawn Brueshaber, Mich
 
 1. N.A. Teanby, A.P. Showman, L.N. Fletcher, P.G.J. Irwin, Constraints on Jupiter's HCl abundance and chlorine cycle from Herschel/HIFI, Planetary and Space Science, Volume 103, Pages 250-261 (http://dx.doi.org/10.1016/j.pss.2014.07.015).
 
-1. Orton, G., L. N. Fletcher, J. I. Moses, A. Mainzer, D. Hines, H. Hammel, J. Martin-Torres, M. Burgdorf, C. Merlet, M. R. Line. 2014a. Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean temperature of the upper troposphere and stratosphere.  Icarus 243, p471-493 http://dx.doi.org/10.1016/j.icarus.2014.07.010 [Arxiv]
+1. Orton, G., L. N. Fletcher, J. I. Moses, A. Mainzer, D. Hines, H. Hammel, J. Martin-Torres, M. Burgdorf, C. Merlet, M. R. Line. 2014a. Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean temperature of the upper troposphere and stratosphere.  Icarus 243, p471-493 (http://dx.doi.org/10.1016/j.icarus.2014.07.010) (https://arxiv.org/abs/1407.2120))
 
-1. Orton, G., J. I. Moses, L. N. Fletcher, A. Mainzer, D. Hines, H. Hammel, J. Martin-Torres, M. Burgdorf, C. Merlet, M. R. Line. 2014a. Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean composition of the upper troposphere and stratosphere.  Icarus 243, p494-513. http://dx.doi.org/10.1016/j.icarus.2014.07.012 [Arxiv]
+1. Orton, G., J. I. Moses, L. N. Fletcher, A. Mainzer, D. Hines, H. Hammel, J. Martin-Torres, M. Burgdorf, C. Merlet, M. R. Line. 2014a. Mid-Infrared spectroscopy of Uranus from the Spitzer Infrared Spectrometer: Determination of the mean composition of the upper troposphere and stratosphere.  Icarus 243, p494-513. (http://dx.doi.org/10.1016/j.icarus.2014.07.012) (https://arxiv.org/abs/1407.2118)
 
 1. V. Malathy Devi, D. Chris Benner, Isabelle Kleiner, Robert L. Sams, and Leigh N. Fletcher, (2014), Line shape parameters of PH3 transitions in the Pentad near 4-5 μm: Self-broadened widths, shifts, line mixing and speed dependence, Journal of Molecular Spectroscopy, Volume 302, p. 17-33 (http://dx.doi.org/10.1016/j.jms.2014.06.003)
 
