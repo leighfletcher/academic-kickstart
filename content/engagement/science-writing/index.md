@@ -57,6 +57,8 @@ I regularly provide scientific content for online websites, including the follow
 
 ## Magazine Articles
 
+* *Onwards to the ice giants*, Astronomy & Geophysics, Volume 61, Issue 5, 1 October 2020, Pages 5.22–5.27 (https://doi.org/10.1093/astrogeo/ataa071) [Full Text](https://academic.oup.com/astrogeo/article/61/5/5.22/5906537?guestAccessKey=69511b5c-5e6e-4836-8744-6d7838d5ffac)
+* *Meeting Report: There's Something in the Air,* Astronomy & Geophysics, Volume 61, Issue 3, June 2020, Pages 3.20–3.25, (https://doi.org/10.1093/astrogeo/ataa040)
 * [International Year of the Periodic Table](https://www.lpi.usra.edu/education/IYPT/) (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.  Fletcher L., Shaner A., Webb S., and Portillo K. (2019) Top 5 Elements in the Atmosphere of Uranus. LPI Contribution No. 2205, Lunar and Planetary Institute, Houston.
 * [Society for Popular Astronomy Magazine](https://www.popastro.com/main_spa1/january-february-2019/) (2019), Pro-Am Collaborations and NASA’s Juno Mission.  
 * Astronomy and Geophysics (2018), Pro–am collaborations improve views of Jupiter, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)

@@ -62,6 +62,11 @@ url_poster = ""
 
 ### Sky at Night
 
+* August 2021:  Invited to the National Space Centre to discuss five years of Juno discoveries with Chris Lintott.
+
+* [November 2020:](https://www.bbc.co.uk/programmes/m000p9s7)  Interview with Maggie about ESA's Jupiter Icy Moons Explorer (JUICE) mission, as part of their programme on the consequences of the [Venusian phosphine discovery](https://www.bbc.co.uk/programmes/m000p9s7).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fmf4Sh1qrus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * September 2019:  Invited to participate in the first ever Sky at Night "Question Time", held at the Warwick Arts Centre.  Hosted by Dallas Campbell, with myself, Chris Lintott, Pete Lawrence, Maggie Aderin-Pocock and Farzana Meru answering questions from a live audience.
 
 * <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p07qpg5c/player"></iframe>

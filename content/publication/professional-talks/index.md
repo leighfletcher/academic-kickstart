@@ -46,6 +46,8 @@ url_poster = ""
 
 This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.
 
+1. EuroPlanet Science Congress (EPSC), September 2021, Virtual Meeting, contributed talk on the *James Webb Space Telescope Giant Planet Atmospheres Programme*. 
+
 1. Europlanet Ireland-UK Hub Virtual Meeting, *Exploring Jupiter’s Belts and Zones as a Function of Depth and Time*, June 22nd 2021.
 
 1. Juno Atmospheres Working Group Meeting, *Jupiter's Temperate Belt/Zone Contrasts at Depth Revealed By Juno*, June 8th 2021.
