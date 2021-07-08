@@ -62,6 +62,9 @@ The following list attempts to keep track of awarded observing time each year, b
 
 ## 2021
 
+* IRTF TEXES [2021B010]() (PI: Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure via Juno-TEXES Comparisons*, 10.0 hrs.
+* IRTF TEXES [2021B057]() (PI: Blake) - *The progression of Saturn's seasonal atmosphere since Cassini*, 12.0 hrs.
+* IRTF SpeX [2021B089]() (PI: Orton) - *Near-Infrared Characterization of Evolving Atmospheric Processes in Jupiter during Juno Perijoves 36-39*.
 * Gemini NIRI [GN-2021B-Q-127]() (PI: Orton) - *High-resolution 3-dimensional near-infrared mapping of Jupiter's evolving aerosol structure during the Juno mission PJ36-PJ39*, 7.5hrs.
 * IRTF TEXES [2021A034]() (PI: Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure via Juno-TEXES Comparisons*, 10.0 hrs.
 * IRTF TEXES [2021A053]() (PI: Blake) - *Saturn after the summer solstice: the seasonal progression and inter-annual variability of the northern hemisphere*, 12.0 hrs.

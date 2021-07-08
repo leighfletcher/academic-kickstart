@@ -21,7 +21,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Associate Professor in Planetary Sciences"
-  company = "Department of Physics and Astronomy, University of Leicester"
+  company = "School of Physics and Astronomy, University of Leicester"
   company_url = ""
   location = "Leicester"
   date_start = "2015-08-01"
