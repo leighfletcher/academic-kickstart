@@ -64,6 +64,7 @@ The following lists are seperated into press releases from agencies that I have 
 
 
 ## Press Interviews (Print and Web Stories)
+* Astronomy Magazine (2021):  Conversation about why the four giant planets all appear so different in terms of colour.
 * Quanta magazine interview (2021) with Robin Andrews on [auroral heating of Jupiter and Saturn's upper atmosphere](https://www.quantamagazine.org/cassini-data-solves-jupiter-and-saturns-energy-mystery-20210622/).
 * [Nature news article](https://www.nature.com/articles/d41586-020-00619-y) on our Royal Society meeting on Ice Giant exploration, January 2020.  The story was also picked up by the [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-8074243/NASA-scientists-launch-fresh-bid-probe-Uranus-Neptune.html).
 * [Popular Science interview](https://www.popsci.com/story/science/mushball-hail-sparks-jovian-lightning/) on the theory of mushball precipitation on Jupiter (August 2020).
