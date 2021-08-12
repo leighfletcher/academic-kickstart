@@ -62,6 +62,8 @@ The following list attempts to keep track of awarded observing time each year, b
 
 ## 2021
 
+* ALMA [2021.1.01017.S]() (PI: Molter) - *Thermal Emission from the Uranian Rings* (Cycle 8)
+* VLT CRIRES [107.22UB]() (PI: Roman) - *From Reflected to Emitted Light: Discoveries in Neptune’s NIR to MIR Spectra*. 2.2 hours.
 * IRTF TEXES [2021B010]() (PI: Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure via Juno-TEXES Comparisons*, 10.0 hrs.
 * IRTF TEXES [2021B057]() (PI: Blake) - *The progression of Saturn's seasonal atmosphere since Cassini*, 12.0 hrs.
 * IRTF SpeX [2021B089]() (PI: Orton) - *Near-Infrared Characterization of Evolving Atmospheric Processes in Jupiter during Juno Perijoves 36-39*.

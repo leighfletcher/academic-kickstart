@@ -46,13 +46,15 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 195 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 196 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+1. O. Mousis, D. H. Atkinson, R. Ambrosi, S. Atreya, D. Banfield, S. Barabash, M. Blanc, T. Cavalié, A. Coustenis, M. Deleuil, G. Durry, F. Ferri, L. N. Fletcher, T. Fouchet, T. Guillot, P. Hartogh, R. Hueso, M. Hofstadter, J.-P. Lebreton, K. E. Mandt, H. Rauer, P. Rannou, J.-B. Renard, A. Sánchez-Lavega, K. M. Sayanagi, A. A. Simon, T. Spilker, E. Venkatapathy, J. H. Waite & P. Wurz (2021), *In Situ exploration of the giant planets,* Experimental Astronomy, (https://doi.org/10.1007/s10686-021-09775-z)
 
 1. Rohini S. Giles, Thomas K. Greathouse, Vincent Hue, G. Randall Gladstone, Henrik Melin, Leigh N. Fletcher, Patrick G. J. Irwin, Joshua A. Kammer, Maarten H. Versteeg, Bertrand Bonfond, Denis C. Grodent, Scott J. Bolton, and Steven M. Levin (2021), *Meridional variations of C2H2 in Jupiter's stratosphere from Juno UVS observations*, JGR:Planets, accepted (https://arxiv.org/abs/2107.11295).
 
