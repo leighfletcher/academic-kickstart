@@ -62,7 +62,7 @@ url_poster = ""
 
 ### Sky at Night
 
-* August 2021:  Invited to the National Space Centre to discuss five years of Juno discoveries with Chris Lintott.
+* [August 2021:](https://www.bbc.co.uk/iplayer/episode/m000ypbk/)  Invited to the National Space Centre to discuss five years of Juno discoveries with Chris Lintott, alongside my Leicester colleagues Jon Nichols and Emma Bunce.  
 
 * [November 2020:](https://www.bbc.co.uk/programmes/m000p9s7)  Interview with Maggie about ESA's Jupiter Icy Moons Explorer (JUICE) mission, as part of their programme on the consequences of the [Venusian phosphine discovery](https://www.bbc.co.uk/programmes/m000p9s7).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmf4Sh1qrus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

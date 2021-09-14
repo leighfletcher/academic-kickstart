@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 196 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 197 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -54,9 +54,11 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
 
+1. Abigail M. Rymer, Kirby D. Runyon, Brenda Clyde, Jorge I. Núñez, Romina Nikoukar, Krista M. Soderlund, Kunio Sayanagi, Mark Hofstadter, Lynnae C. Quick, S. Alan Stern, Tracy Becker, Matthew Hedman, Ian Cohen, Frank Crary, Jonathan J. Fortney, Janet Vertesi, Candy Hansen, Imke de Pater, Carol Paty, Thomas Spilker, Tom Stallard, George B. Hospodarsky, H. Todd Smith, Hannah Wakeford, Sarah E. Moran, Andrew Annex, Paul Schenk, Martin Ozimek, Juan Arrieta, Ralph L. McNutt Jr., Adam Masters, Amy A. Simon, Susan Ensor, Clint T. Apland, Jonathan Bruzzi, D. Alex Patthoff, Christopher Scott, Christian Campo, Christopher Krupiarz, Corey J. Cochrane, Curt Gantz, Dan Rodriguez, Dan Gallagher, Dana Hurley, Doug Crowley, Elizabeth Abel, Elena Provornikova, Elizabeth P. Turtle, George Clark, Jacob Wilkes, Jack Hunt, James H. Roberts, Jeremy Rehm, Kelvin Murray, Larry Wolfarth, Leigh N. Fletcher, Linda Spilker, Emily S. Martin, Marzia Parisi, Mike Norkus, Noam Izenberg, Robert Stough, Ron J. Vervack Jr., Kathleen Mandt, Kevin B. Stevenson, Seth Kijewski, Weilun Cheng, Jay D. Feldman, Gary Allen, Dinesh Prabhu, Soumya Dutta, Cindy Young and Joseph Williams (2021), *Neptune Odyssey: A Flagship Concept for the Exploration of the Neptune–Triton System*, Planetary Science Journal, 2 184 (https://doi.org/10.3847/PSJ/abf654).
+
 1. O. Mousis, D. H. Atkinson, R. Ambrosi, S. Atreya, D. Banfield, S. Barabash, M. Blanc, T. Cavalié, A. Coustenis, M. Deleuil, G. Durry, F. Ferri, L. N. Fletcher, T. Fouchet, T. Guillot, P. Hartogh, R. Hueso, M. Hofstadter, J.-P. Lebreton, K. E. Mandt, H. Rauer, P. Rannou, J.-B. Renard, A. Sánchez-Lavega, K. M. Sayanagi, A. A. Simon, T. Spilker, E. Venkatapathy, J. H. Waite & P. Wurz (2021), *In Situ exploration of the giant planets,* Experimental Astronomy, (https://doi.org/10.1007/s10686-021-09775-z)
 
-1. Rohini S. Giles, Thomas K. Greathouse, Vincent Hue, G. Randall Gladstone, Henrik Melin, Leigh N. Fletcher, Patrick G. J. Irwin, Joshua A. Kammer, Maarten H. Versteeg, Bertrand Bonfond, Denis C. Grodent, Scott J. Bolton, and Steven M. Levin (2021), *Meridional variations of C2H2 in Jupiter's stratosphere from Juno UVS observations*, JGR:Planets, accepted (https://arxiv.org/abs/2107.11295).
+1. Rohini S. Giles, Thomas K. Greathouse, Vincent Hue, G. Randall Gladstone, Henrik Melin, Leigh N. Fletcher, Patrick G. J. Irwin, Joshua A. Kammer, Maarten H. Versteeg, Bertrand Bonfond, Denis C. Grodent, Scott J. Bolton, and Steven M. Levin (2021), *Meridional variations of C2H2 in Jupiter's stratosphere from Juno UVS observations*, JGR:Planets, Volume 126, Issue 8, e2021JE006928 (http://dx.doi.org/10.1029/2021JE006928) (https://arxiv.org/abs/2107.11295).
 
 1. **Leigh N Fletcher, Fabiano A Oyafuso, Michael D Allison, Andrew Ingersoll, Liming Li, Yohai Kaspi, Eli Galanti, Mike H Wong, Glenn S Orton, Keren Duer, Zhimeng Zhang, Cheng Li, Tristan Guillot, Steven M. Levin, Scott J Bolton (2021), *Jupiter's Temperate Belt/Zone Contrasts Revealed at Depth by Juno Microwave Observations*, JGR:Planets, accepted (https://doi.org/10.1029/2021JE006858) (https://doi.org/10.1002/essoar.10506297.2)**
 
@@ -69,7 +71,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Galanti, E., Kaspi, Y., Duer, K., Fletcher, L.N., Ingersoll, A. P., Li, C., Orton, G. S., Guillot, T., Levin, S. M., Bolton, S. J. (2021), *Constraints on the latitudinal profile of Jupiter's deep jets*, Geophysical Research Letters, Volume 48, Issue 9, e2021GL092912 (https://arxiv.org/abs/2102.10595) (http://doi.org/10.1029/2021GL092912).
 
-1. J.S.D. Blake, L. N. Fletcher, T. K. Greathouse, G. S. Orton, H. Melin, M. T. Roman, A. Antuñano, P. T. Donnelly, N. Rowe-Gurney, O. King (2021), *Refining Saturn's deuterium-hydrogen ratio via IRTF/TEXES spectroscopy*, Astronomy & Astrophysics, in press (https://doi.org/10.1051/0004-6361/202038229).
+1. J.S.D. Blake, L. N. Fletcher, T. K. Greathouse, G. S. Orton, H. Melin, M. T. Roman, A. Antuñano, P. T. Donnelly, N. Rowe-Gurney, O. King (2021), *Refining Saturn's deuterium-hydrogen ratio via IRTF/TEXES spectroscopy*, Astronomy & Astrophysics, in press (https://doi.org/10.1051/0004-6361/202038229) (https://arxiv.org/abs/2108.09951).
 
 1. Davide Grassi, A. Mura, G. Sindoni, A. Adriani, S.K. Atreya, G. Filacchione, L.N. Fletcher, J.I. Lunine, M.L. Moriconi, R. Noschese, G.S. Orton, C. Plainaki, R. Sordini, F. Tosi, D. Turrini, A. Olivieri, G. Eichstädt, C.J. Hansen, H. Melin, F. Altieri, A. Cicchetti, B.M. Dinelli, A. Migliorini, G. Piccioni, S. Stefani, S.J. Bolton (2021), *On the clouds and ammonia in Jupiter’s upper troposphere from Juno JIRAM reflectivity observations*, Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 4, Pages 4892–4907, (https://doi.org/10.1093/mnras/stab740)
 
