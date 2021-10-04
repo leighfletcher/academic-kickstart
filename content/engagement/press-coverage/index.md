@@ -64,6 +64,7 @@ The following lists are seperated into press releases from agencies that I have 
 
 
 ## Press Interviews (Print and Web Stories)
+* [Physics World](https://physicsworld.com/a/amateur-astronomers-capture-flash-from-asteroid-impacting-jupiter/) (2021):  Interviewed by Will Gater on the September-2021 Jupiter impact event.
 * Astronomy Magazine (2021):  Conversation about why the four giant planets all appear so different in terms of colour.
 * Quanta magazine interview (2021) with Robin Andrews on [auroral heating of Jupiter and Saturn's upper atmosphere](https://www.quantamagazine.org/cassini-data-solves-jupiter-and-saturns-energy-mystery-20210622/).
 * [Nature news article](https://www.nature.com/articles/d41586-020-00619-y) on our Royal Society meeting on Ice Giant exploration, January 2020.  The story was also picked up by the [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-8074243/NASA-scientists-launch-fresh-bid-probe-Uranus-Neptune.html).

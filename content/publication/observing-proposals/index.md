@@ -75,12 +75,12 @@ The following list attempts to keep track of awarded observing time each year, b
 ## 2020
 
 * Gemini NIRI [GN-2020B-Q-120]() (PI: Orton) - *Near-Infrared Imaging of Jupiter's Cloud and Haze Variations Simultaneous with the Juno Mission*, 4.8hrs.
-* ESO VLT/VISIR [0105.C-0725](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0725) (PI: Roman) - *Revealing the Structure of Uranus' Emerging North Pole and Atmospheric Circulation*, 15.6hrs, Apr-Sep 2020.
-* ESO VLT/SPHERE [0105.C-0145](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0145) (PI: King) - *Global mapping of Europa and Ganymede with SPHERE: pushing beyond the capabilities of Galileo/NIMS*, 3.9hrs, Apr-Sep 2020.
-* ESO VLT/VISIR [0105.C-0395](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0395) (PI: Fletcher) - *Exploring Unusual Variability in Jupiter's Equatorial Circulation and Great Red Spot*, 10.9hrs, Apr-Sep 2020.
+* ESO VLT/VISIR [0105.C-0725](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0725) (PI: Roman) - *Revealing the Structure of Uranus' Emerging North Pole and Atmospheric Circulation*, 15.6hrs, Apr-Sep 2020, rescheduled to 2021.
+* ESO VLT/SPHERE [0105.C-0145](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0145) (PI: King) - *Global mapping of Europa and Ganymede with SPHERE: pushing beyond the capabilities of Galileo/NIMS*, 3.9hrs, Apr-Sep 2021.
+* ESO VLT/VISIR [0105.C-0395](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0395) (PI: Fletcher) - *Exploring Unusual Variability in Jupiter's Equatorial Circulation and Great Red Spot*, 10.9hrs, intended for Apr-Sep 2020, terminated by COVID.
 * ESO VLT/VISIR [0105.C-0712](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0105.C-0712) (PI: Blake) - *The seasonal evolution of Saturn's northern hemisphere*, 2.2hrs, Apr-Sep 2020.
 * ESO VLT/VISIR [0104.C-0216](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0216) (PI: Blake) - *Saturn after Summer Solstice: Seasonal progression of the northern hemisphere*, 2.2hrs, Jan-Mar 2020.
-* ESO VLT/VISIR [0104.C-0944](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0944) (PI: Donnelly) - *VISIR Observations of Jupiter's Circulation and Wave Phenomena during a Rare Equatorial Disturbance*, 6.3hrs, Jan-Mar 2020.
+* ESO VLT/VISIR [0104.C-0944](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0944) (PI: Donnelly) - *VISIR Observations of Jupiter's Circulation and Wave Phenomena during a Rare Equatorial Disturbance*, 6.3hrs, intended for Jan-Mar 2020, terminated by COVID.
 * ESO VLT/MUSE [0104.C-0187](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0187) (PI: Irwin) - *Determining the structure and monitoring the evolution of a newly-discovered large dark spot on Neptune*, 2.4hrs.
 * ESO VLT/MUSE [0104.C-0136](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0104.C-0136) (PI: Irwin) - *MUSE Observations of Jupiter's 3-Dimensional Cloud Structure during NASA's Juno Mission*, 2.7hrs.
 * Subaru/COMICS (S20A-035) (PI: Kasaba) - *Spatial and time variations of Jupiter: Last Subaru MIR observation with Juno*, 2 nights.
