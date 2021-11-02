@@ -57,11 +57,13 @@ I regularly provide scientific content for online websites, including the follow
 
 ## Magazine Articles
 
+* *Why we need to return to Uranus and Neptune,* [Sky at Night Magazine](https://www.skyatnightmagazine.com/space-science/spacecraft-mission-uranus-neptune/), October 2021 .
 * *Onwards to the ice giants*, Astronomy & Geophysics, Volume 61, Issue 5, 1 October 2020, Pages 5.22–5.27 (https://doi.org/10.1093/astrogeo/ataa071) [Full Text](https://academic.oup.com/astrogeo/article/61/5/5.22/5906537?guestAccessKey=69511b5c-5e6e-4836-8744-6d7838d5ffac)
 * *Meeting Report: There's Something in the Air,* Astronomy & Geophysics, Volume 61, Issue 3, June 2020, Pages 3.20–3.25, (https://doi.org/10.1093/astrogeo/ataa040)
 * [International Year of the Periodic Table](https://www.lpi.usra.edu/education/IYPT/) (2019) - Invited to be the Featured Scientist for an infographic on the chemical uniqueness of Uranus, working with education specialists at the Lunar and Planetary Institute.  Fletcher L., Shaner A., Webb S., and Portillo K. (2019) Top 5 Elements in the Atmosphere of Uranus. LPI Contribution No. 2205, Lunar and Planetary Institute, Houston.
 * [Society for Popular Astronomy Magazine](https://www.popastro.com/main_spa1/january-february-2019/) (2019), Pro-Am Collaborations and NASA’s Juno Mission.  
 * Astronomy and Geophysics (2018), Pro–am collaborations improve views of Jupiter, Volume 59, Issue 4, 1 August 2018, Pages 4.24–4.31, (https://doi.org/10.1093/astrogeo/aty192)
+* Astronomy Magazine, answering a reader question on how clouds form on Giant Planets, [February 2018 issue.](https://astronomy.com/magazine/ask-astro/2018/01/clouds-on-gas-giants)
 * ROOM.EU Space Journal (September 2017):  An article on the end of the Cassini mission in the room.eu journal, available to subscribers via [this link](https://room.eu.com/article/cassini-observations-open-up-saturns-atmosphere).
 * Planetary Report (September 2017 Issue):  An article on "Saturn:  The Seasonal Giant" in the Equinox issue of the Planetary Report, available for [download here](http://www.planetary.org/explore/the-planetary-report/tpr-2017-3.html).
 * Astronomy and Geophysics (2017), "Saturn's Seasonal Atmosphere", Volume 58, p4.26-4.30 (http://dx.doi.org/10.1093/astrogeo/atx138)

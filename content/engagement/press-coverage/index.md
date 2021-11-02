@@ -44,9 +44,10 @@ url_poster = ""
   focal_point = ""
 +++
 
-The following lists are seperated into press releases from agencies that I have been involved in, and news stories that I've been asked to comment on.
+The following lists are separated into press releases from agencies that I have been involved in, and news stories that I've been asked to comment on.
 
 ## Press Releases
+* NASA Press Conference on Juno's exploration of the deep atmosphere of Jupiter, coinciding with the simultaneous release of papers in Science, JGR: Planets, and GRL.  A one-hour press conference was held on October 21st 2021, and was accompanied by a JPL press release, a Leicester press-release, and my own article for the Conversation.
 * [Leicester press release](https://le.ac.uk/news/2021/may/jwst-time-allocation) on successful Cycle-1 proposals for the James Webb Space Telescope, including my Jupiter and Saturn target-of-opportunity observations (May 2021).
 * [NASA press release](https://www.nasa.gov/feature/goddard/2020/examining-ice-giants-with-nasa-s-webb-telescope/) from NASA Goddard Spaceflight Center about my teams JWST MIRI observations of the Ice Giants (February 2020).
 * [Berkeley press release](https://news.berkeley.edu/2019/08/22/storms-on-jupiter-are-disturbing-the-planets-colorful-belts/) on our combined microwave and infrared observations of Jupiter's storms (August 2019).

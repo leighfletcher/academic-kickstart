@@ -16,13 +16,14 @@ weight = 60
 
 I am a Fellow of the Higher Education Academy (FHEA), and my teaching responsibilities at the University of Leicester (2015-present) include:
 
+* Lecturer and Course Developer for 4th-year Planetary Atmospheres course (2021+).
 * Supervision of graduate (PhD) students.
 * Masters research projects (4th year undergraduates).
 * Supervision of 4th-year literature review projects.
 * 3rd-year BA project supervision and examination.
 * PhD Viva Examiner and Probation Reviewer.
-* Physics Challenge examiner and tutor.
-* Management of Summer Undergraduate Research Experience (SURE) on behalf of the Physics and Astronomy Department.
+* Physics Challenge examiner (2018-2020) and tutor.
+* Management of Summer Undergraduate Research Experience (SURE) on behalf of the Physics and Astronomy Department (2016-today).
 
 My previous experience at the University of Oxford (2004-2015) included:
 

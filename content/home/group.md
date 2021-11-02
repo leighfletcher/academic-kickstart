@@ -20,16 +20,18 @@ Through research grants from STFC, the Royal Society, and the European Research 
 * Dr. Henrik Melin
 * Dr. Michael Roman
 * Dr. James Blake
+* Dr. Deborah Bardet
 
 ### Current PhD Students
-* Naomi Rowe-Gurney
 * Oliver King
+* Jake Harkett
 
 ### Former Postdocs
 * Dr. Arrate Antunano
 * Dr. Jan Vatant d'Ollone
 
 ### Former Students
+* Dr. Naomi Rowe-Gurney
 * Dr. Padraig Donnelly
 * Dr. Rohini Giles (Oxford)
 * Dr. Jaemin Lee (Oxford)

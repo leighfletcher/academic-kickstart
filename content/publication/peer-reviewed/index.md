@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 197 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 200 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -54,13 +54,23 @@ My peer-reviewed journal articles by the numbers:
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
 
+1. Marzia Parisi, Yohai Kaspi, Eli Galanti, Daniele Durante, Scott J. Bolton, Steven M. Levin, Dustin R. Buccino, Leigh N. Fletcher, William M. Folkner, Tristan Guillot, Ravit Helled, Luciano Iess, Cheng Li, Kamal Oudrhiri, Michael H. Wong (2021), *The depth of Jupiter’s Great Red Spot constrained by the Juno gravity overflights,* Science, in press (https://www.science.org/doi/10.1126/science.abf1396)
+
+1. S. J. Bolton, S. Levin, T. Guillot, C. Li, Y. Kaspi, G. Orton, M. H. Wong, F. Oyafuso, M. Allison, J. Arballo, S. Atreya, H. N. Becker, J. Bloxham, S. Brown, L. N. Fletcher, E. Galanti, S. Gulkis, M. Janssen, A. Ingersoll, J. L. Lunine, S. Misra, P. Steffes, D. Stevenson, J. H. Waite, R. K. Yadav, Z. Zhang (2021), *Microwave observations reveal the deep extent and structure of Jupiter's atmospheric vortices,* Science, in press (https://www.science.org/doi/10.1126/science.abf1015)
+
+1. Andrew P. Ingersoll, Sushil Atreya, Scott J. Bolton, Shawn Brueshaber, Leigh N. Fletcher, Steven M. Levin, Cheng Li, Liming Li, Jonathan I. Lunine, Glenn S. Orton, Hunter Waite (2021), *Jupiter’s overturning circulation: Breaking waves take the place of solid boundaries*, Geophysical Research Letters, accepted (https://dx.doi.org/10.1029/2021GL095756).
+
+1. Keren Duer, Nimrod Gavriel, Eli Galanti, Yohai Kaspi, Leigh N. Fletcher, Tristan Guillot, Scott J. Bolton, Steven M. Levin, Sushil K. Atreya, Davide Grassi, Andrew P. Ingersoll, Cheng Li, Liming Li, Jonathan I. Lunine, Glenn S. Orton, Fabiano A. Oyafuso, J. Hunter Waite, Jr. (2021), *Evidence for an array of circulation cells beneath the clouds of Jupiter*, Geophysical Research Letters, accepted (https://dx.doi.org/10.1029/2021GL095651) (https://arxiv.org/abs/2110.07255).
+
+1. I. de Pater, L.N. Fletcher, W.T. Reach, C. Goullaud, G.S. Orton, M.H. Wong, R.D. Gerhz (2021), *SOFIA Observations of Variability in Jupiter's Para-H2 Distribution and Sub-Surface Emission Characteristics of the Galilean Satellites*, Plan. Sci. Journal, accepted ().
+
 1. Abigail M. Rymer, Kirby D. Runyon, Brenda Clyde, Jorge I. Núñez, Romina Nikoukar, Krista M. Soderlund, Kunio Sayanagi, Mark Hofstadter, Lynnae C. Quick, S. Alan Stern, Tracy Becker, Matthew Hedman, Ian Cohen, Frank Crary, Jonathan J. Fortney, Janet Vertesi, Candy Hansen, Imke de Pater, Carol Paty, Thomas Spilker, Tom Stallard, George B. Hospodarsky, H. Todd Smith, Hannah Wakeford, Sarah E. Moran, Andrew Annex, Paul Schenk, Martin Ozimek, Juan Arrieta, Ralph L. McNutt Jr., Adam Masters, Amy A. Simon, Susan Ensor, Clint T. Apland, Jonathan Bruzzi, D. Alex Patthoff, Christopher Scott, Christian Campo, Christopher Krupiarz, Corey J. Cochrane, Curt Gantz, Dan Rodriguez, Dan Gallagher, Dana Hurley, Doug Crowley, Elizabeth Abel, Elena Provornikova, Elizabeth P. Turtle, George Clark, Jacob Wilkes, Jack Hunt, James H. Roberts, Jeremy Rehm, Kelvin Murray, Larry Wolfarth, Leigh N. Fletcher, Linda Spilker, Emily S. Martin, Marzia Parisi, Mike Norkus, Noam Izenberg, Robert Stough, Ron J. Vervack Jr., Kathleen Mandt, Kevin B. Stevenson, Seth Kijewski, Weilun Cheng, Jay D. Feldman, Gary Allen, Dinesh Prabhu, Soumya Dutta, Cindy Young and Joseph Williams (2021), *Neptune Odyssey: A Flagship Concept for the Exploration of the Neptune–Triton System*, Planetary Science Journal, 2 184 (https://doi.org/10.3847/PSJ/abf654).
 
 1. O. Mousis, D. H. Atkinson, R. Ambrosi, S. Atreya, D. Banfield, S. Barabash, M. Blanc, T. Cavalié, A. Coustenis, M. Deleuil, G. Durry, F. Ferri, L. N. Fletcher, T. Fouchet, T. Guillot, P. Hartogh, R. Hueso, M. Hofstadter, J.-P. Lebreton, K. E. Mandt, H. Rauer, P. Rannou, J.-B. Renard, A. Sánchez-Lavega, K. M. Sayanagi, A. A. Simon, T. Spilker, E. Venkatapathy, J. H. Waite & P. Wurz (2021), *In Situ exploration of the giant planets,* Experimental Astronomy, (https://doi.org/10.1007/s10686-021-09775-z)
 
 1. Rohini S. Giles, Thomas K. Greathouse, Vincent Hue, G. Randall Gladstone, Henrik Melin, Leigh N. Fletcher, Patrick G. J. Irwin, Joshua A. Kammer, Maarten H. Versteeg, Bertrand Bonfond, Denis C. Grodent, Scott J. Bolton, and Steven M. Levin (2021), *Meridional variations of C2H2 in Jupiter's stratosphere from Juno UVS observations*, JGR:Planets, Volume 126, Issue 8, e2021JE006928 (http://dx.doi.org/10.1029/2021JE006928) (https://arxiv.org/abs/2107.11295).
 
-1. **Leigh N Fletcher, Fabiano A Oyafuso, Michael D Allison, Andrew Ingersoll, Liming Li, Yohai Kaspi, Eli Galanti, Mike H Wong, Glenn S Orton, Keren Duer, Zhimeng Zhang, Cheng Li, Tristan Guillot, Steven M. Levin, Scott J Bolton (2021), *Jupiter's Temperate Belt/Zone Contrasts Revealed at Depth by Juno Microwave Observations*, JGR:Planets, accepted (https://doi.org/10.1029/2021JE006858) (https://doi.org/10.1002/essoar.10506297.2)**
+1. **Leigh N Fletcher, Fabiano A Oyafuso, Michael D Allison, Andrew Ingersoll, Liming Li, Yohai Kaspi, Eli Galanti, Mike H Wong, Glenn S Orton, Keren Duer, Zhimeng Zhang, Cheng Li, Tristan Guillot, Steven M. Levin, Scott J Bolton (2021), *Jupiter's Temperate Belt/Zone Contrasts Revealed at Depth by Juno Microwave Observations*, JGR:Planets, 126, e2021JE006858 (https://doi.org/10.1029/2021JE006858) (https://arxiv.org/abs/2110.14620)**
 
 1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, submitted (https://arxiv.org/abs/2105.06377).**
 
