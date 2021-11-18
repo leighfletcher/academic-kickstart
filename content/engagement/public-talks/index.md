@@ -47,6 +47,7 @@ url_poster = ""
 This section is divided into two - talks for a general audience, and scroll down for talks to astronomy societies.
 
 ## General Audience
+* National Space Centre #GalaxiesAssemble - coordinator and speaker for two weeks of activities related to the James Webb Space Telescope, throughout the October half-term.  Two public talks were well attended (~200 guests) by all ages.
 * Royal Astronomical Society [Livestream of Uranus observations](https://www.youtube.com/watch?v=bBqYso9RDSs) from NASA's IRTF, broadcast live via Youtube.  I gave a 45-minute lecture on future missions to the Ice Giants.
 * GoSpaceWatch, Virtual Lecture, April 21st 2021:  Public presentation on *The Jovian Explorers: From Juno to JUICE*, delivered via Zoom.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We had a great <a href="https://twitter.com/GoSpaceWatchUK?ref_src=twsrc%5Etfw">@GoSpaceWatchUK</a> lecture meeting tonight with Dr Leigh Fletcher <a href="https://twitter.com/LeighFletcher?ref_src=twsrc%5Etfw">@LeighFletcher</a> of the University of Leicester. The Jovian Explorers: From Juno to JUICE was enjoyed by some 59 participants. A GoSpaceWatch record on Zoom. <a href="https://t.co/278bMk8LUu">pic.twitter.com/278bMk8LUu</a></p>&mdash; GoSpaceWatch (@GoSpaceWatchUK) <a href="https://twitter.com/GoSpaceWatchUK/status/1384973809908846596?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -80,6 +81,7 @@ This section is divided into two - talks for a general audience, and scroll down
 
 
 ## Astronomy Societies
+* Society for Popular Astronomy:  Virtual residential course replacing their annual weekend at Preston Montford.  In 2021, the theme was observing the planets, so I gave a talk on *Observing Giants:  Pro-Am Collaborations*, both via Zoom and livestreamed onto [Youtube](https://youtu.be/Sgah50yZviM).  
 * North Lincolnshire Astronomy Society, December 7th 2020 (via Zoom), *Future Exploration of the Ice Giants*:  "Members were still chatting about the talk as I had to leave the Zoom meeting – it was great to see so much interest and the predominant feedback was how such an interesting topic can be presented in such a way that is actually understandable to non-scientists"
 * Nene Valley Astronomical Society (Northamptonshire), September 17th 2018, *Exploring the Weather of the Giant Planets*.
 * British Astronomical Association Weekend, July 7th 2018, University of Warwick, *Exploring the Weather of the Giant Planets via Professional-Amateur Collaboration*

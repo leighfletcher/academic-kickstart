@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 200 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 202 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -62,7 +62,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Keren Duer, Nimrod Gavriel, Eli Galanti, Yohai Kaspi, Leigh N. Fletcher, Tristan Guillot, Scott J. Bolton, Steven M. Levin, Sushil K. Atreya, Davide Grassi, Andrew P. Ingersoll, Cheng Li, Liming Li, Jonathan I. Lunine, Glenn S. Orton, Fabiano A. Oyafuso, J. Hunter Waite, Jr. (2021), *Evidence for an array of circulation cells beneath the clouds of Jupiter*, Geophysical Research Letters, accepted (https://dx.doi.org/10.1029/2021GL095651) (https://arxiv.org/abs/2110.07255).
 
-1. I. de Pater, L.N. Fletcher, W.T. Reach, C. Goullaud, G.S. Orton, M.H. Wong, R.D. Gerhz (2021), *SOFIA Observations of Variability in Jupiter's Para-H2 Distribution and Sub-Surface Emission Characteristics of the Galilean Satellites*, Plan. Sci. Journal, accepted ().
+1. I. de Pater, L.N. Fletcher, W.T. Reach, C. Goullaud, G.S. Orton, M.H. Wong, R.D. Gerhz (2021), *SOFIA Observations of Variability in Jupiter's Para-H2 Distribution and Sub-Surface Emission Characteristics of the Galilean Satellites*, Plan. Sci. Journal, Volume 2, 226 (https://doi.org/10.3847/PSJ/ac2d24).
 
 1. Abigail M. Rymer, Kirby D. Runyon, Brenda Clyde, Jorge I. Núñez, Romina Nikoukar, Krista M. Soderlund, Kunio Sayanagi, Mark Hofstadter, Lynnae C. Quick, S. Alan Stern, Tracy Becker, Matthew Hedman, Ian Cohen, Frank Crary, Jonathan J. Fortney, Janet Vertesi, Candy Hansen, Imke de Pater, Carol Paty, Thomas Spilker, Tom Stallard, George B. Hospodarsky, H. Todd Smith, Hannah Wakeford, Sarah E. Moran, Andrew Annex, Paul Schenk, Martin Ozimek, Juan Arrieta, Ralph L. McNutt Jr., Adam Masters, Amy A. Simon, Susan Ensor, Clint T. Apland, Jonathan Bruzzi, D. Alex Patthoff, Christopher Scott, Christian Campo, Christopher Krupiarz, Corey J. Cochrane, Curt Gantz, Dan Rodriguez, Dan Gallagher, Dana Hurley, Doug Crowley, Elizabeth Abel, Elena Provornikova, Elizabeth P. Turtle, George Clark, Jacob Wilkes, Jack Hunt, James H. Roberts, Jeremy Rehm, Kelvin Murray, Larry Wolfarth, Leigh N. Fletcher, Linda Spilker, Emily S. Martin, Marzia Parisi, Mike Norkus, Noam Izenberg, Robert Stough, Ron J. Vervack Jr., Kathleen Mandt, Kevin B. Stevenson, Seth Kijewski, Weilun Cheng, Jay D. Feldman, Gary Allen, Dinesh Prabhu, Soumya Dutta, Cindy Young and Joseph Williams (2021), *Neptune Odyssey: A Flagship Concept for the Exploration of the Neptune–Triton System*, Planetary Science Journal, 2 184 (https://doi.org/10.3847/PSJ/abf654).
 
