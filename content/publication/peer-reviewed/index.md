@@ -46,13 +46,23 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 202 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 203 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
 * 1 DPhil/PhD thesis!
 
 Additional information (and metrics) available via [PubLons](https://publons.com/researcher/1747661/leigh-fletcher/), [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=R2EC87cAAAAJ), [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/K5K5yPfHSnyOdqnQi24zyQ), [ORCID](https://orcid.org/0000-0001-5834-9588), [ResearchGate](https://www.researchgate.net/profile/Leigh_Fletcher), and [ArXiv](https://arxiv.org/a/fletcher_l_1.html).
+
+## Submitted
+
+1. Michael T. Roman, Leigh N. Fletcher, Glenn S. Orton, Thomas K. Greathouse, Julianne I. Moses, Naomi Rowe-Gurney, Patrick G. J. Irwin, Arrate Antuñano, James Sinclair, Yasumasa Kasaba, Takuya Fujiyoshi, Imke de Pater, Heidi B. Hammel (2021), *Sub-Seasonal Variation in Neptune's Mid-Infrared Emission*, submitted to Planetary Science Journal (https://arxiv.org/abs/2112.00033)
+
+1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, submitted (https://arxiv.org/abs/2105.06377).**
+
+1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
+
+## Published
 
 1. Marzia Parisi, Yohai Kaspi, Eli Galanti, Daniele Durante, Scott J. Bolton, Steven M. Levin, Dustin R. Buccino, Leigh N. Fletcher, William M. Folkner, Tristan Guillot, Ravit Helled, Luciano Iess, Cheng Li, Kamal Oudrhiri, Michael H. Wong (2021), *The depth of Jupiter’s Great Red Spot constrained by the Juno gravity overflights,* Science, in press (https://www.science.org/doi/10.1126/science.abf1396)
 
@@ -72,8 +82,6 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. **Leigh N Fletcher, Fabiano A Oyafuso, Michael D Allison, Andrew Ingersoll, Liming Li, Yohai Kaspi, Eli Galanti, Mike H Wong, Glenn S Orton, Keren Duer, Zhimeng Zhang, Cheng Li, Tristan Guillot, Steven M. Levin, Scott J Bolton (2021), *Jupiter's Temperate Belt/Zone Contrasts Revealed at Depth by Juno Microwave Observations*, JGR:Planets, 126, e2021JE006858 (https://doi.org/10.1029/2021JE006858) (https://arxiv.org/abs/2110.14620)**
 
-1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, submitted (https://arxiv.org/abs/2105.06377).**
-
 1. **Leigh N. Fletcher, Ravit Helled, Elias Roussos, Geraint Jones, Sébastien Charnoz, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ricardo Hueso, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Oliver Mousis, Nadine Nettleman, Christina Plainaki, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini (2021), *Ice Giant System Exploration within ESA's Voyage 2050*, Experimental Astronomy, (https://doi.org/10.1007/s10686-021-09759-z)**
 
 1. Naomi Rowe-Gurney, Leigh N. Fletcher, Glenn S. Orton, Michael T. Roman, Amy Mainzer, Julianne I. Moses, Imke de Pater, Patrick G. J. Irwin (2021), *Longitudinal Variations in the Stratosphere of Uranus from the Spitzer Infrared Spectrometer*, Icarus, Volume 365, 114506
@@ -88,8 +96,6 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 1. Patrick G.J. Irwin, Jack Dobinson, Arjuna James, Daniel Toledo, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Santiago Pérez-Hoyos (2021), *Latitudinal variation of methane mole fraction above clouds in Neptune's atmosphere from VLT/MUSE-NFM: Limb-darkening reanalysis*, Icarus, Volume 357, 114277 (https://doi.org/10.1016/j.icarus.2020.114277) (https://arxiv.org/abs/2101.01063).
 
 1. James A. Sinclair, Thomas K. Greathouse, Rohini S. Giles, Arrate Antuñano, Julianne I. Moses, Thierry Fouchet, Bruno Bézard, Chihiro Tao, Javier Martín-Torres, George B. Clark, Denis Grodent, Glenn S. Orton, Vincent Hue, Leigh N. Fletcher and Patrick G. J. Irwin (2020), *Spatial Variations in the Altitude of the CH4 Homopause at Jupiter's Mid-to-high Latitudes, as Constrained from IRTF-TEXES Spectra,* Planetary Science Journal, 1, 85 (https://doi.org/10.3847/PSJ/abc887)
-
-1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
 
 1. F. Oyafuso, S. Levin, G. Orton, S. Brown, V. Adumitroaie, M. Janssen, M. H. Wong, L.N. Fletcher, P. Steffes, C. Li, S. Gulkis, S. Atreya, S. Misra, S. Bolton (2020), *Angular Dependence and Spatial Distribution of Jupiter’s Centimeter-Wave Thermal Emission from Juno’s Microwave Radiometer*, Earth and Space Science, Volume 7, Issue 11, e2020EA001254 (https://doi.org/10.1029/2020EA001254)
 

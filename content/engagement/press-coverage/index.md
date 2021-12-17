@@ -65,6 +65,7 @@ The following lists are separated into press releases from agencies that I have 
 
 
 ## Press Interviews (Print and Web Stories)
+* [New Scientist]():  Interviewed by Becca Caddy for a profile piece in the January 2022 issues, talking about our motivations for future missions to the Ice Giants.
 * [Physics World](https://physicsworld.com/a/amateur-astronomers-capture-flash-from-asteroid-impacting-jupiter/) (2021):  Interviewed by Will Gater on the September-2021 Jupiter impact event.
 * Astronomy Magazine (2021):  Conversation about why the four giant planets all appear so different in terms of colour.
 * Quanta magazine interview (2021) with Robin Andrews on [auroral heating of Jupiter and Saturn's upper atmosphere](https://www.quantamagazine.org/cassini-data-solves-jupiter-and-saturns-energy-mystery-20210622/).

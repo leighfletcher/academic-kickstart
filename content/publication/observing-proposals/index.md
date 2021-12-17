@@ -62,6 +62,7 @@ The following list attempts to keep track of awarded observing time each year, b
 
 ## 2021
 
+* XMM-Newton [090199]() (PI: Wibisono) - *Characterising X-rays from Uranus* - three full XMM orbits to detect X-rays from Uranus.
 * ALMA [2021.1.01017.S]() (PI: Molter) - *Thermal Emission from the Uranian Rings* (Cycle 8)
 * VLT CRIRES [107.22UB]() (PI: Roman) - *From Reflected to Emitted Light: Discoveries in Neptune’s NIR to MIR Spectra*. 2.2 hours.
 * IRTF TEXES [2021B010]() (PI: Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure via Juno-TEXES Comparisons*, 10.0 hrs.

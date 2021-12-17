@@ -47,6 +47,7 @@ url_poster = ""
 This section is divided into two - talks for a general audience, and scroll down for talks to astronomy societies.
 
 ## General Audience
+* SpaceBar#49, December 16th 2021, run by @AstroAgency with Suzie Imber and Dallas Campbell as hosts.  Several of us were on-hand for a two-hour conversation about the forthcoming launch of JWST.
 * National Space Centre #GalaxiesAssemble - coordinator and speaker for two weeks of activities related to the James Webb Space Telescope, throughout the October half-term.  Two public talks were well attended (~200 guests) by all ages.
 * Royal Astronomical Society [Livestream of Uranus observations](https://www.youtube.com/watch?v=bBqYso9RDSs) from NASA's IRTF, broadcast live via Youtube.  I gave a 45-minute lecture on future missions to the Ice Giants.
 * GoSpaceWatch, Virtual Lecture, April 21st 2021:  Public presentation on *The Jovian Explorers: From Juno to JUICE*, delivered via Zoom.

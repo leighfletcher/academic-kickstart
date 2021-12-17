@@ -67,6 +67,7 @@ The University of Leicester's [Space School](http://spaceschool.co.uk/) celebrat
 
 ## Secondary schools
 
+* [INAF Interview on JWST](https://www.youtube.com/watch?v=dcw6UO1-UAk):  Interviewed by Claudia Mignone at the National Institute for Astrophysics in Italy, for clips that will be inserted during a live-streamed viewing day of Jupiter and Saturn (December 2021) to coincide with the launch of JWST.
 * [National Space Academy](http://nationalspaceacademy.org) Careers Day Keynote speaker (November 12th 2016):  Half-hour presentation in the planetarium at the National Space Centre to ~80 Year 12 students, discussing what it's like to work on planetary science and where we might be headed in the years to come.
 * Bicester Cooper School, April 17th 2015:  An hour long presentation on exploration of the solar system to approximately 100 Year 12 students (17 years old).  The staff were apparently amazed that this was followed by a long question and answer session, and were pleased enough to invite me back!
 * Lutterworth College (May 2014):  Three classes on the search for habitable environments in our solar system, followed by a Q&A session with the students.  I gave classes for Years 10, 11 and 13, with approximately 30 students per class.
