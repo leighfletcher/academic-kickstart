@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "leigh.fletcher@le.ac.uk"
 phone = "+44(0)116 252 3585"
-address = "Department of Physics and Astronomy, University of Leicester, Leicester, LE1 7RH, United Kingdom."
+address = "School of Physics and Astronomy, University of Leicester, Leicester, LE1 7RH, United Kingdom."
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

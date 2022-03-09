@@ -60,6 +60,13 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * Kepler/K2 and Herschel/HIFI
 
+## 2022
+
+* Hubble Space Telescope [16913]() (PI: Wong) - *The role of stealth superstorms in a planetary-scale transition on Jupiter*, Cycle 29 General Observer time.
+* IRTF TEXES [2022A054]() (PI:Blake) - *Saturn since Cassini: seasonal progression with IRTF and JWST.*
+* IRTF TEXES [2022A022]() (PI:Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure in the era of the Juno mission and the JWST observations*.
+* IRTF MIRSI [2022A035]() (PI: Orton) - *Mid-Infrared Characterization of Evolving Atmospheric Processes in Jupiter During Juno Perijoves 41-43 and Potential JWST Observations*.
+
 ## 2021
 
 * XMM-Newton [090199]() (PI: Wibisono) - *Characterising X-rays from Uranus* - three full XMM orbits to detect X-rays from Uranus.

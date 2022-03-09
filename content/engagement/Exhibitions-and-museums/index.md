@@ -44,6 +44,8 @@ url_poster = ""
   focal_point = ""
 +++
 
+*  The Edge of Forever at Attenborough Arts Centre (Jan-Mar 2022)-  brings together key works from Loz Atkinson’s 'Imagined Nebula’ series, which began in 2015 as an outlet for Loz’s increasing interest in exploring the relationship that human beings have with the universe.  I provided some introductory material for her gallery guide.
+
 * Royal Astronomical Society/British Association of Planetaria workshop on *The Planets 360*, an immersive planetarium show based around Holst's "The Planets." This is freely licensed by National Space Centre (NSC) Creative, for any UK planetarium thanks to the help of the RAS.  I provided a 15-minute presentation on Jupiter exploration for planetarium experts (May 5th 2021), and participated in extended Q&A sessions on the latest news in planetary exploration.
 
 * Leicester City Festival 2019:  During August 19th to 23rd, Jubilee Square in Leicester’s city centre was transformed into a celebration of all things space, with “aliens”, astronaut suits, meteorites and model rockets all housed under a giant dome. Activities were centred around the theme of “Out of this World” to commemorate the 50th anniversary of the Apollo 11 moon landing, with the Department’s staff and students taking part in the “Ask a Space Expert” event.

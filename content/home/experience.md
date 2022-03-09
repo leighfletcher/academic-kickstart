@@ -20,12 +20,27 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Professor of Planetary Science"
+  company = "School of Physics and Astronomy, University of Leicester"
+  company_url = ""
+  location = "Leicester"
+  date_start = "2022-01-01"
+  date_end = ""
+  description = "Research funded by the Royal Society, European Research Council, and Science and Technology Facilities Council (STFC)."
+ # Responsibilities include:
+
+ # * Analysing
+ # * Modelling
+ # * Deploying
+ # "
+
+[[experience]]
   title = "Associate Professor in Planetary Sciences"
   company = "School of Physics and Astronomy, University of Leicester"
   company_url = ""
   location = "Leicester"
   date_start = "2015-08-01"
-  date_end = ""
+  date_end = "2021-12-31"
   description = "Research funded by the Royal Society, European Research Council, and Science and Technology Facilities Council (STFC)."
  # Responsibilities include:
 

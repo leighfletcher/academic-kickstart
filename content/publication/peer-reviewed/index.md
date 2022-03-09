@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 203 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 204 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -56,21 +56,27 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Submitted
 
-1. Michael T. Roman, Leigh N. Fletcher, Glenn S. Orton, Thomas K. Greathouse, Julianne I. Moses, Naomi Rowe-Gurney, Patrick G. J. Irwin, Arrate Antuñano, James Sinclair, Yasumasa Kasaba, Takuya Fujiyoshi, Imke de Pater, Heidi B. Hammel (2021), *Sub-Seasonal Variation in Neptune's Mid-Infrared Emission*, submitted to Planetary Science Journal (https://arxiv.org/abs/2112.00033)
-
-1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, submitted (https://arxiv.org/abs/2105.06377).**
+1. Patrick G.J. Irwin, Nicholas A. Teanby, Leigh N. Fletcher, Daniel Toledo, Glenn S. Orton, Michael H. Wong, Michael T. Roman, Santiago Perez-Hoyos, Arjuna James, Jack Dobinson (2022), *Hazy blue worlds: A holistic aerosol model for Uranus and Neptune, including Dark Spots,* submitted to JGR:Planets (https://arxiv.org/abs/2201.04516)
 
 1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
 
 ## Published
 
-1. Marzia Parisi, Yohai Kaspi, Eli Galanti, Daniele Durante, Scott J. Bolton, Steven M. Levin, Dustin R. Buccino, Leigh N. Fletcher, William M. Folkner, Tristan Guillot, Ravit Helled, Luciano Iess, Cheng Li, Kamal Oudrhiri, Michael H. Wong (2021), *The depth of Jupiter’s Great Red Spot constrained by the Juno gravity overflights,* Science, in press (https://www.science.org/doi/10.1126/science.abf1396)
+1. Oliver King, Leigh N. Fletcher, Nicolas Ligier (2022), *Compositional Mapping of Europa using MCMC Modelling of Near-IR VLT/SPHERE and Galileo/NIMS Observations*, Planetary Science Journal, accepted (https://arxiv.org/abs/2203.02367)
 
-1. S. J. Bolton, S. Levin, T. Guillot, C. Li, Y. Kaspi, G. Orton, M. H. Wong, F. Oyafuso, M. Allison, J. Arballo, S. Atreya, H. N. Becker, J. Bloxham, S. Brown, L. N. Fletcher, E. Galanti, S. Gulkis, M. Janssen, A. Ingersoll, J. L. Lunine, S. Misra, P. Steffes, D. Stevenson, J. H. Waite, R. K. Yadav, Z. Zhang (2021), *Microwave observations reveal the deep extent and structure of Jupiter's atmospheric vortices,* Science, in press (https://www.science.org/doi/10.1126/science.abf1015)
+1. Michael T. Roman, Leigh N. Fletcher, Glenn S. Orton, Thomas K. Greathouse, Julianne I. Moses, Naomi Rowe-Gurney, Patrick G. J. Irwin, Arrate Antuñano, James Sinclair, Yasumasa Kasaba, Takuya Fujiyoshi, Imke de Pater, Heidi B. Hammel (2022), *Sub-Seasonal Variation in Neptune's Mid-Infrared Emission*, Planetary Science Journal, accepted (https://arxiv.org/abs/2112.00033)
 
-1. Andrew P. Ingersoll, Sushil Atreya, Scott J. Bolton, Shawn Brueshaber, Leigh N. Fletcher, Steven M. Levin, Cheng Li, Liming Li, Jonathan I. Lunine, Glenn S. Orton, Hunter Waite (2021), *Jupiter’s overturning circulation: Breaking waves take the place of solid boundaries*, Geophysical Research Letters, accepted (https://dx.doi.org/10.1029/2021GL095756).
+1. Ian J. Cohen, Chloe Beddingfield, Robert Chancia, Gina DiBraccio, Matthew Hedman, Shannon MacKenzie, Barry Mauk, Kunio M. Sayanagi, Krista M. Soderlund, Elizabeth Turtle, Caitlin Ahrens, Christopher S. Arridge, Shawn M. Brooks, Emma Bunce, Sebastien Charnoz, Athena Coustenis, Robert A. Dillman, Soumyo Dutta, Leigh N. Fletcher, Rebecca Harbison, Ravit Helled, Richard Holme, Lauren Jozwiak, Yasumasa Kasaba, Peter Kollmann, Statia Luszcz-Cook, Kathleen Mandt, Olivier Mousis, Alessandro Mura, Go Murakami, Marzia Parisi, Abigail Rymer, Sabine Stanley, Katrin Stephan, Ronald J. Vervack, Jr., Michael H. Wong, and Peter Wurz (2022), *The case for a New Frontiers-class Uranus Orbiter: System science at an underexplored and unique world with a mid-scale mission*, Planetary Science Journals, Volume 3, 58 (14pp), (https://doi.org/10.3847/PSJ/ac5113).
 
-1. Keren Duer, Nimrod Gavriel, Eli Galanti, Yohai Kaspi, Leigh N. Fletcher, Tristan Guillot, Scott J. Bolton, Steven M. Levin, Sushil K. Atreya, Davide Grassi, Andrew P. Ingersoll, Cheng Li, Liming Li, Jonathan I. Lunine, Glenn S. Orton, Fabiano A. Oyafuso, J. Hunter Waite, Jr. (2021), *Evidence for an array of circulation cells beneath the clouds of Jupiter*, Geophysical Research Letters, accepted (https://dx.doi.org/10.1029/2021GL095651) (https://arxiv.org/abs/2110.07255).
+1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, accepted (https://arxiv.org/abs/2105.06377).**
+
+1. Marzia Parisi, Yohai Kaspi, Eli Galanti, Daniele Durante, Scott J. Bolton, Steven M. Levin, Dustin R. Buccino, Leigh N. Fletcher, William M. Folkner, Tristan Guillot, Ravit Helled, Luciano Iess, Cheng Li, Kamal Oudrhiri, Michael H. Wong (2021), *The depth of Jupiter’s Great Red Spot constrained by the Juno gravity overflights,* Science, Vol 374, Issue 6570, pp. 964-968 (https://www.science.org/doi/10.1126/science.abf1396)
+
+1. S. J. Bolton, S. Levin, T. Guillot, C. Li, Y. Kaspi, G. Orton, M. H. Wong, F. Oyafuso, M. Allison, J. Arballo, S. Atreya, H. N. Becker, J. Bloxham, S. Brown, L. N. Fletcher, E. Galanti, S. Gulkis, M. Janssen, A. Ingersoll, J. L. Lunine, S. Misra, P. Steffes, D. Stevenson, J. H. Waite, R. K. Yadav, Z. Zhang (2021), *Microwave observations reveal the deep extent and structure of Jupiter's atmospheric vortices,* Science, Vol 374, Issue 6570, pp. 968-972 (https://www.science.org/doi/10.1126/science.abf1015)
+
+1. Andrew P. Ingersoll, Sushil Atreya, Scott J. Bolton, Shawn Brueshaber, Leigh N. Fletcher, Steven M. Levin, Cheng Li, Liming Li, Jonathan I. Lunine, Glenn S. Orton, Hunter Waite (2021), *Jupiter’s overturning circulation: Breaking waves take the place of solid boundaries*, Geophysical Research Letters, Volume 48, Issue 23, e2021GL095756 (https://dx.doi.org/10.1029/2021GL095756).
+
+1. Keren Duer, Nimrod Gavriel, Eli Galanti, Yohai Kaspi, Leigh N. Fletcher, Tristan Guillot, Scott J. Bolton, Steven M. Levin, Sushil K. Atreya, Davide Grassi, Andrew P. Ingersoll, Cheng Li, Liming Li, Jonathan I. Lunine, Glenn S. Orton, Fabiano A. Oyafuso, J. Hunter Waite, Jr. (2021), *Evidence for an array of circulation cells beneath the clouds of Jupiter*, Geophysical Research Letters, Volume 48, Issue 23, e2021GL095651 (https://dx.doi.org/10.1029/2021GL095651) (https://arxiv.org/abs/2110.07255).
 
 1. I. de Pater, L.N. Fletcher, W.T. Reach, C. Goullaud, G.S. Orton, M.H. Wong, R.D. Gerhz (2021), *SOFIA Observations of Variability in Jupiter's Para-H2 Distribution and Sub-Surface Emission Characteristics of the Galilean Satellites*, Plan. Sci. Journal, Volume 2, 226 (https://doi.org/10.3847/PSJ/ac2d24).
 
@@ -89,7 +95,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Galanti, E., Kaspi, Y., Duer, K., Fletcher, L.N., Ingersoll, A. P., Li, C., Orton, G. S., Guillot, T., Levin, S. M., Bolton, S. J. (2021), *Constraints on the latitudinal profile of Jupiter's deep jets*, Geophysical Research Letters, Volume 48, Issue 9, e2021GL092912 (https://arxiv.org/abs/2102.10595) (http://doi.org/10.1029/2021GL092912).
 
-1. J.S.D. Blake, L. N. Fletcher, T. K. Greathouse, G. S. Orton, H. Melin, M. T. Roman, A. Antuñano, P. T. Donnelly, N. Rowe-Gurney, O. King (2021), *Refining Saturn's deuterium-hydrogen ratio via IRTF/TEXES spectroscopy*, Astronomy & Astrophysics, in press (https://doi.org/10.1051/0004-6361/202038229) (https://arxiv.org/abs/2108.09951).
+1. J.S.D. Blake, L. N. Fletcher, T. K. Greathouse, G. S. Orton, H. Melin, M. T. Roman, A. Antuñano, P. T. Donnelly, N. Rowe-Gurney, O. King (2021), *Refining Saturn's deuterium-hydrogen ratio via IRTF/TEXES spectroscopy*, Astronomy & Astrophysics, Volume 653, id.A66, 8 pp. (https://doi.org/10.1051/0004-6361/202038229) (https://arxiv.org/abs/2108.09951).
 
 1. Davide Grassi, A. Mura, G. Sindoni, A. Adriani, S.K. Atreya, G. Filacchione, L.N. Fletcher, J.I. Lunine, M.L. Moriconi, R. Noschese, G.S. Orton, C. Plainaki, R. Sordini, F. Tosi, D. Turrini, A. Olivieri, G. Eichstädt, C.J. Hansen, H. Melin, F. Altieri, A. Cicchetti, B.M. Dinelli, A. Migliorini, G. Piccioni, S. Stefani, S.J. Bolton (2021), *On the clouds and ammonia in Jupiter’s upper troposphere from Juno JIRAM reflectivity observations*, Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 4, Pages 4892–4907, (https://doi.org/10.1093/mnras/stab740)
 
