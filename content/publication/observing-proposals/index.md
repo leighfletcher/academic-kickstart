@@ -66,9 +66,14 @@ The following list attempts to keep track of awarded observing time each year, b
 * IRTF TEXES [2022A054]() (PI:Blake) - *Saturn since Cassini: seasonal progression with IRTF and JWST.*
 * IRTF TEXES [2022A022]() (PI:Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure in the era of the Juno mission and the JWST observations*.
 * IRTF MIRSI [2022A035]() (PI: Orton) - *Mid-Infrared Characterization of Evolving Atmospheric Processes in Jupiter During Juno Perijoves 41-43 and Potential JWST Observations*.
+* VLT VISIR [109.C_0716](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=109.C_0716) (PI: Roman) - *Weather or not? Understanding Dramatic Changes on Neptune with VLT-VISIR*, 6.0 hours awarded.
+* VLT SPHERE [109.22WC]() (PI: King) *Global mapping of Callisto with SPHERE: pushing beyond the capabilities of Galileo/NIMS*, awarded.
+* VLT VISIR [109.2360](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=109.C_0716) (PI: Blake) - *Cassini: seasonal progression with VLT and JWST*
 
 ## 2021
 
+* VLT VISIR [108.C_0778](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=108.C_0778) (PI: Roman) - *Investigating Recent and Dramatic Changes in Neptune's Stratosphere*, 10.0 hours awarded, carried over into P109 (2022).
+* VLT VISIR [108.223F](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=108.223F) (PI: Fletcher) - *Jupiter's Tropospheric Circulation and Meteorology during Juno's Extended Mission*, 7.1 hours awarded, approximately 75% completed in November 2021.
 * XMM-Newton [090199]() (PI: Wibisono) - *Characterising X-rays from Uranus* - three full XMM orbits to detect X-rays from Uranus.
 * ALMA [2021.1.01017.S]() (PI: Molter) - *Thermal Emission from the Uranian Rings* (Cycle 8)
 * VLT CRIRES [107.22UB]() (PI: Roman) - *From Reflected to Emitted Light: Discoveries in Neptune’s NIR to MIR Spectra*. 2.2 hours.
@@ -79,6 +84,7 @@ The following list attempts to keep track of awarded observing time each year, b
 * IRTF TEXES [2021A034]() (PI: Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure via Juno-TEXES Comparisons*, 10.0 hrs.
 * IRTF TEXES [2021A053]() (PI: Blake) - *Saturn after the summer solstice: the seasonal progression and inter-annual variability of the northern hemisphere*, 12.0 hrs.
 * Gemini NIRI [GN-2021A-Q-125]() (PI: Orton) - *Near-Infrared Imaging of Jupiter's Cloud and Haze Variations Simultaneous with the Juno Mission*, 4.8hrs.
+* VLT VISIR [0106.C-0795](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=0106.C-0795) (PI: Roman) - *Revealing the Structure of Uranus' Emerging North Pole and Atmospheric Circulation*, carried over into P109 (2022).
 
 ## 2020
 
