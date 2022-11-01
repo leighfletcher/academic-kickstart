@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 205 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 207 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -56,17 +56,19 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Submitted
 
+1. James S.D. Blake, L.N. Fletcher, G.S. Orton, A. Antunano, M.T. Roman, Y. Kasaba, T. Fujiyoshi, H. Melin, D. Bardet, J.A. Sinclair (2022), *Saturn’s Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations,* Icarus, submitted.
+
 1. Guillot, Tristan; Fletcher, Leigh N.; Helled, Ravit; Ikoma, Masahiro; Line, Michael R.; Parmentier, Vivien (2022), *Giant Planets from the Inside-Out*, Review chapter submitted to Protostars and Planets VII (https://arxiv.org/abs/2205.04100)
-
-
 
 1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
 
 ## Published
 
-1. Patrick G.J. Irwin, Nicholas A. Teanby, Leigh N. Fletcher, Daniel Toledo, Glenn S. Orton, Michael H. Wong, Michael T. Roman, Santiago Perez-Hoyos, Arjuna James, Jack Dobinson (2022), *Hazy blue worlds: A holistic aerosol model for Uranus and Neptune, including Dark Spots,* JGR:Planets, accepted (https://arxiv.org/abs/2201.04516)
+1. Oliver King and Leigh N. Fletcher (2022), *Global Modelling of Ganymede's Surface Composition: Near-IR Mapping from VLT/SPHERE*, JGR:planets, accepted (https://doi.org/10.1029/2022JE007323) (https://arxiv.org/abs/2209.01976)
 
-1. Pranika Gupta, Sushil K. Atreya, Paul G. Steffes, Leigh N. Fletcher, Tristan Guillot, Michael D. Allison, Scott J. Bolton, Ravit Helled, Steven Levin, Cheng Li, Jonathan I. Lunine, Yamila Miguel, Glenn S. Orton, J. Hunter Waite, and Paul Withers (2022), *Jupiter’s Temperature Structure: A Reassessment of the Voyager Radio Occultation Measurements*, Planetary Science Journal, accepted.
+1. Patrick G.J. Irwin, Nicholas A. Teanby, Leigh N. Fletcher, Daniel Toledo, Glenn S. Orton, Michael H. Wong, Michael T. Roman, Santiago Perez-Hoyos, Arjuna James, Jack Dobinson (2022), *Hazy blue worlds: A holistic aerosol model for Uranus and Neptune, including Dark Spots,* JGR:Planets, accepted (https://doi.org/10.1029/2022JE007189) (https://arxiv.org/abs/2201.04516)
+
+1. Pranika Gupta, Sushil K. Atreya, Paul G. Steffes, Leigh N. Fletcher, Tristan Guillot, Michael D. Allison, Scott J. Bolton, Ravit Helled, Steven Levin, Cheng Li, Jonathan I. Lunine, Yamila Miguel, Glenn S. Orton, J. Hunter Waite, and Paul Withers (2022), *Jupiter’s Temperature Structure: A Reassessment of the Voyager Radio Occultation Measurements*, Planetary Science Journal, accepted (https://arxiv.org/abs/2205.12926).
 
 1. Oliver King, Leigh N. Fletcher, Nicolas Ligier (2022), *Compositional Mapping of Europa using MCMC Modelling of Near-IR VLT/SPHERE and Galileo/NIMS Observations*, Planetary Science Journal 3, 72 (https://doi.org/10.3847/PSJ/ac596d) (https://arxiv.org/abs/2203.02367)
 
@@ -74,7 +76,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Ian J. Cohen, Chloe Beddingfield, Robert Chancia, Gina DiBraccio, Matthew Hedman, Shannon MacKenzie, Barry Mauk, Kunio M. Sayanagi, Krista M. Soderlund, Elizabeth Turtle, Caitlin Ahrens, Christopher S. Arridge, Shawn M. Brooks, Emma Bunce, Sebastien Charnoz, Athena Coustenis, Robert A. Dillman, Soumyo Dutta, Leigh N. Fletcher, Rebecca Harbison, Ravit Helled, Richard Holme, Lauren Jozwiak, Yasumasa Kasaba, Peter Kollmann, Statia Luszcz-Cook, Kathleen Mandt, Olivier Mousis, Alessandro Mura, Go Murakami, Marzia Parisi, Abigail Rymer, Sabine Stanley, Katrin Stephan, Ronald J. Vervack, Jr., Michael H. Wong, and Peter Wurz (2022), *The case for a New Frontiers-class Uranus Orbiter: System science at an underexplored and unique world with a mid-scale mission*, Planetary Science Journals, Volume 3, 58 (14pp), (https://doi.org/10.3847/PSJ/ac5113).
 
-1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, accepted (https://arxiv.org/abs/2105.06377).**
+1. **Leigh N. Fletcher (2021), *The Atmosphere of Uranus*, Oxford Research Encyclopedia of Planetary Science, (https://doi.org/10.1093/acrefore/9780190647926.013.240) (https://arxiv.org/abs/2105.06377).**
 
 1. Marzia Parisi, Yohai Kaspi, Eli Galanti, Daniele Durante, Scott J. Bolton, Steven M. Levin, Dustin R. Buccino, Leigh N. Fletcher, William M. Folkner, Tristan Guillot, Ravit Helled, Luciano Iess, Cheng Li, Kamal Oudrhiri, Michael H. Wong (2021), *The depth of Jupiter’s Great Red Spot constrained by the Juno gravity overflights,* Science, Vol 374, Issue 6570, pp. 964-968 (https://www.science.org/doi/10.1126/science.abf1396)
 

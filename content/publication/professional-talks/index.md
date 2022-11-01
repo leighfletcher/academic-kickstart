@@ -46,7 +46,9 @@ url_poster = ""
 
 This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.
 
-1. Astronomical Observatory of the University of Warsaw, May 2022 Seminar, Invited talk on *Giant Planet Atmospheres: From Juno, to JWST, to the Ice Giants,* available to watch on [Youtube](https://www.youtube.com/watch?v=JnD632ygakU). 
+1. British Planetary Science Congress, June 2022, Open University:  Invited Keynote talk on *Flagship Mission to Uranus:  Exploring our Closest Ice Giant.*
+
+1. Astronomical Observatory of the University of Warsaw, May 2022 Seminar, Invited talk on *Giant Planet Atmospheres: From Juno, to JWST, to the Ice Giants,* available to watch on [Youtube](https://www.youtube.com/watch?v=JnD632ygakU).
 
 1. Europlanet Telescope Network, February 2022 virtual meeting, Invited talk on *Giant Planet Observations in 2022-23:  Support for JWST*, available to watch on [Youtube](https://www.youtube.com/watch?v=ZjtzgfYpqnw).
 

@@ -62,6 +62,9 @@ The following list attempts to keep track of awarded observing time each year, b
 
 ## 2022
 
+* ALMA Cycle 9 [2022.1.00125.S]() (PI: de Pater) - *ALMA continuum and PH3 maps of Jupiter*
+* Hubble Space Telescope [17187]() (PI: Rowe-Gurney) - *Observing the Ice Giants with Hubble WFC3 to Enhance Cycle 1 James Webb Space Telescope Data*, Cycle 30 General Observer , 12 orbits.
+* Hubble Space Telescope [17214]() (PI: Lamy) - *Unravelling the auroral diversity and magnetospheric dynamics of Uranus while approaching solstice*, Cycle 30 General Observer , 12 orbits.
 * Hubble Space Telescope [16913]() (PI: Wong) - *The role of stealth superstorms in a planetary-scale transition on Jupiter*, Cycle 29 General Observer time.
 * IRTF TEXES [2022A054]() (PI:Blake) - *Saturn since Cassini: seasonal progression with IRTF and JWST.*
 * IRTF TEXES [2022A022]() (PI:Antunano) - *Characterizing Jupiter's Deep Belt/Zone Structure in the era of the Juno mission and the JWST observations*.
