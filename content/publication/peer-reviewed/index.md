@@ -56,13 +56,15 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Submitted
 
-1. James S.D. Blake, L.N. Fletcher, G.S. Orton, A. Antunano, M.T. Roman, Y. Kasaba, T. Fujiyoshi, H. Melin, D. Bardet, J.A. Sinclair (2022), *Saturn’s Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations,* Icarus, submitted.
-
 1. Guillot, Tristan; Fletcher, Leigh N.; Helled, Ravit; Ikoma, Masahiro; Line, Michael R.; Parmentier, Vivien (2022), *Giant Planets from the Inside-Out*, Review chapter submitted to Protostars and Planets VII (https://arxiv.org/abs/2205.04100)
 
 1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
 
 ## Published
+
+1. Glenn S. Orton, Arrate Antunano, Leigh N. Fletcher, James A. Sinclair, Thomas W. Momary, Takuya Fujiyoshi, Padma Yanamandra-Fisher, Padraig T. Donnelly, Jennifer J. Greco, Anna V. Payne, Kimberly A. Boydstun, Laura E. Wakefield (2022), *Unexpected Long-Term Variability in Jupiter's Tropospheric Temperatures,* Nature Astronomy, accepted (https://arxiv.org/abs/2211.04398)
+
+1. James S.D. Blake, L.N. Fletcher, G.S. Orton, A. Antunano, M.T. Roman, Y. Kasaba, T. Fujiyoshi, H. Melin, D. Bardet, J.A. Sinclair (2022), *Saturn’s Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations,* Icarus, accepted.
 
 1. Oliver King and Leigh N. Fletcher (2022), *Global Modelling of Ganymede's Surface Composition: Near-IR Mapping from VLT/SPHERE*, JGR:planets, accepted (https://doi.org/10.1029/2022JE007323) (https://arxiv.org/abs/2209.01976)
 
