@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 209 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 211 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -62,9 +62,13 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Published
 
+1. Dehant V., Blanc M., Mackwell S., Soderlund K.M., Beck P., Bunce E., Charnoz S., Foing B., Filice V., Fletcher L.N., Forget F., Griton L., Hammel H., Höning D., Imamura T., Jackman C., Kaspi Y., Korablev O., Leconte J., Lellouch E., Marty B., Mangold N., Schmidt J., Sterken V.J., Tosi N., Vandaele A.C., Vernazza P., Vazan A., Westall F., 2022, “From science questions to Solar System exploration,” Chapter 3, *Planetary Exploration Horizon 2061 – Report ‘Planetary Exploration Horizon 2061, A Long-Term Perspective for Planetary Exploration* pages 65-175, (https://arxiv.org/abs/2211.04474) (http://dx.doi.org/10.1016/B978-0-323-90226-7.00006-4)
+
 1. Glenn S. Orton, Arrate Antunano, Leigh N. Fletcher, James A. Sinclair, Thomas W. Momary, Takuya Fujiyoshi, Padma Yanamandra-Fisher, Padraig T. Donnelly, Jennifer J. Greco, Anna V. Payne, Kimberly A. Boydstun, Laura E. Wakefield (2022), *Unexpected Long-Term Variability in Jupiter's Tropospheric Temperatures,* Nature Astronomy, accepted (https://arxiv.org/abs/2211.04398)
 
-1. James S.D. Blake, L.N. Fletcher, G.S. Orton, A. Antunano, M.T. Roman, Y. Kasaba, T. Fujiyoshi, H. Melin, D. Bardet, J.A. Sinclair (2022), *Saturn’s Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations,* Icarus, accepted.
+1. James S.D. Blake, L.N. Fletcher, G.S. Orton, A. Antunano, M.T. Roman, Y. Kasaba, T. Fujiyoshi, H. Melin, D. Bardet, J.A. Sinclair (2022), *Saturn’s Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations,* Icarus, accepted (https://arxiv.org/abs/2211.07486).
+
+1. Julianne I. Moses, Zarah L. Brown, Tommi T. Koskinen, Leigh N. Fletcher, Joseph Serigano, Sandrine Guerlet, Luke Moore, J. Hunter Waite Jr., Lotfi Ben-Jaffel, Marina Galand, Joshua M. Chadney, Sarah M. Hörst, James A. Sinclair, Veronique Vuitton, Ingo Müller-Wodarg (2022), *Saturn's atmospheric response to the large influx of ring material inferred from Cassini INMS measurements,* Icarus, Volume 391, 115328 (https://doi.org/10.1016/j.icarus.2022.115328) (https://arxiv.org/abs/2211.05253)
 
 1. Oliver King and Leigh N. Fletcher (2022), *Global Modelling of Ganymede's Surface Composition: Near-IR Mapping from VLT/SPHERE*, JGR:planets, accepted (https://doi.org/10.1029/2022JE007323) (https://arxiv.org/abs/2209.01976)
 
