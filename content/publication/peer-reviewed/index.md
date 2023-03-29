@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 212 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 213 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -62,25 +62,27 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Published
 
-1. J. A. Sinclair,, C. M. Lisse, G. S. Orton, M. Krishnamoorthy, L. N. Fletcher, J. Hora, C. Palotai, T. Hayward *A retrospective analysis of mid-infrared observations of the Comet D/Shoemaker-Levy 9 and Wesley impacts on Jupiter*, Icarus, accepted.
+1. J. A. Sinclair,, C. M. Lisse, G. S. Orton, M. Krishnamoorthy, L. N. Fletcher, J. Hora, C. Palotai, T. Hayward (2023), *A retrospective analysis of mid-infrared observations of the Comet D/Shoemaker-Levy 9 and Wesley impacts on Jupiter*, Icarus, Volume 394, article id. 115404, (https://doi.org/10.1016/j.icarus.2022.115404) (https://arxiv.org/abs/2301.01347).
 
 1. Dehant V., Blanc M., Mackwell S., Soderlund K.M., Beck P., Bunce E., Charnoz S., Foing B., Filice V., Fletcher L.N., Forget F., Griton L., Hammel H., Höning D., Imamura T., Jackman C., Kaspi Y., Korablev O., Leconte J., Lellouch E., Marty B., Mangold N., Schmidt J., Sterken V.J., Tosi N., Vandaele A.C., Vernazza P., Vazan A., Westall F., 2022, “From science questions to Solar System exploration,” Chapter 3, *Planetary Exploration Horizon 2061 – Report ‘Planetary Exploration Horizon 2061, A Long-Term Perspective for Planetary Exploration* pages 65-175, (https://arxiv.org/abs/2211.04474) (http://dx.doi.org/10.1016/B978-0-323-90226-7.00006-4)
 
-1. Glenn S. Orton, Arrate Antunano, Leigh N. Fletcher, James A. Sinclair, Thomas W. Momary, Takuya Fujiyoshi, Padma Yanamandra-Fisher, Padraig T. Donnelly, Jennifer J. Greco, Anna V. Payne, Kimberly A. Boydstun, Laura E. Wakefield (2022), *Unexpected Long-Term Variability in Jupiter's Tropospheric Temperatures,* Nature Astronomy, accepted (https://arxiv.org/abs/2211.04398) (https://dx.d.oi.org/10.1038/s41550-022-01839-0)
+1. Glenn S. Orton, Arrate Antunano, Leigh N. Fletcher, James A. Sinclair, Thomas W. Momary, Takuya Fujiyoshi, Padma Yanamandra-Fisher, Padraig T. Donnelly, Jennifer J. Greco, Anna V. Payne, Kimberly A. Boydstun, Laura E. Wakefield (2022), *Unexpected Long-Term Variability in Jupiter's Tropospheric Temperatures,* Nature Astronomy, accepted (https://arxiv.org/abs/2211.04398) (https://doi.org/10.1038/s41550-022-01839-0)
 
 1. James S.D. Blake, L.N. Fletcher, G.S. Orton, A. Antunano, M.T. Roman, Y. Kasaba, T. Fujiyoshi, H. Melin, D. Bardet, J.A. Sinclair, M. Es-Sayeh (2022), *Saturn’s Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations,* Icarus 392, 115347 (https://arxiv.org/abs/2211.07486) (https://doi.org/10.1016/j.icarus.2022.115347).
 
 1. Julianne I. Moses, Zarah L. Brown, Tommi T. Koskinen, Leigh N. Fletcher, Joseph Serigano, Sandrine Guerlet, Luke Moore, J. Hunter Waite Jr., Lotfi Ben-Jaffel, Marina Galand, Joshua M. Chadney, Sarah M. Hörst, James A. Sinclair, Veronique Vuitton, Ingo Müller-Wodarg (2022), *Saturn's atmospheric response to the large influx of ring material inferred from Cassini INMS measurements,* Icarus, Volume 391, 115328 (https://doi.org/10.1016/j.icarus.2022.115328) (https://arxiv.org/abs/2211.05253)
 
-1. Oliver King and Leigh N. Fletcher (2022), *Global Modelling of Ganymede's Surface Composition: Near-IR Mapping from VLT/SPHERE*, JGR:planets, accepted (https://doi.org/10.1029/2022JE007323) (https://arxiv.org/abs/2209.01976)
+1. Oliver King and Leigh N. Fletcher (2022), *Global Modelling of Ganymede's Surface Composition: Near-IR Mapping from VLT/SPHERE*, JGR:planets, Volume 127, Issue 12, e2022JE007323 (https://doi.org/10.1029/2022JE007323) (https://arxiv.org/abs/2209.01976)
 
-1. Patrick G.J. Irwin, Nicholas A. Teanby, Leigh N. Fletcher, Daniel Toledo, Glenn S. Orton, Michael H. Wong, Michael T. Roman, Santiago Perez-Hoyos, Arjuna James, Jack Dobinson (2022), *Hazy blue worlds: A holistic aerosol model for Uranus and Neptune, including Dark Spots,* JGR:Planets, accepted (https://doi.org/10.1029/2022JE007189) (https://arxiv.org/abs/2201.04516)
+1. Patrick G.J. Irwin, Nicholas A. Teanby, Leigh N. Fletcher, Daniel Toledo, Glenn S. Orton, Michael H. Wong, Michael T. Roman, Santiago Perez-Hoyos, Arjuna James, Jack Dobinson (2022), *Hazy blue worlds: A holistic aerosol model for Uranus and Neptune, including Dark Spots,* JGR:Planets, Volume 127, Issue 6, e2022JE007189 (https://doi.org/10.1029/2022JE007189) (https://arxiv.org/abs/2201.04516)
 
-1. Pranika Gupta, Sushil K. Atreya, Paul G. Steffes, Leigh N. Fletcher, Tristan Guillot, Michael D. Allison, Scott J. Bolton, Ravit Helled, Steven Levin, Cheng Li, Jonathan I. Lunine, Yamila Miguel, Glenn S. Orton, J. Hunter Waite, and Paul Withers (2022), *Jupiter’s Temperature Structure: A Reassessment of the Voyager Radio Occultation Measurements*, Planetary Science Journal, accepted (https://arxiv.org/abs/2205.12926).
+1. Pranika Gupta, Sushil K. Atreya, Paul G. Steffes, Leigh N. Fletcher, Tristan Guillot, Michael D. Allison, Scott J. Bolton, Ravit Helled, Steven Levin, Cheng Li, Jonathan I. Lunine, Yamila Miguel, Glenn S. Orton, J. Hunter Waite, and Paul Withers (2022), *Jupiter’s Temperature Structure: A Reassessment of the Voyager Radio Occultation Measurements*, Planetary Science Journal, Volume 3, 159 (http://dx.doi.org/10.3847/PSJ/ac6956) (https://arxiv.org/abs/2205.12926).
 
 1. Oliver King, Leigh N. Fletcher, Nicolas Ligier (2022), *Compositional Mapping of Europa using MCMC Modelling of Near-IR VLT/SPHERE and Galileo/NIMS Observations*, Planetary Science Journal 3, 72 (https://doi.org/10.3847/PSJ/ac596d) (https://arxiv.org/abs/2203.02367)
 
-1. Michael T. Roman, Leigh N. Fletcher, Glenn S. Orton, Thomas K. Greathouse, Julianne I. Moses, Naomi Rowe-Gurney, Patrick G. J. Irwin, Arrate Antuñano, James Sinclair, Yasumasa Kasaba, Takuya Fujiyoshi, Imke de Pater, Heidi B. Hammel (2022), *Sub-Seasonal Variation in Neptune's Mid-Infrared Emission*, Planetary Science Journal 3, 78 (https://doi.org/10.3847/PSJ/ac5aa4) (https://arxiv.org/abs/2112.00033)
+1. Michael T. Roman, Leigh N. Fletcher, Glenn S. Orton, Thomas K. Greathouse, Julianne I. Moses, Naomi Rowe-Gurney, Patrick G. J. Irwin, Arrate Antuñano, James Sinclair, Yasumasa Kasaba, Takuya Fujiyoshi, Imke de Pater, Heidi B. Hammel (2022), *Sub-Seasonal Variation in Neptune's Mid-Infrared Emission*, Planetary Science Journal 3, 78 (https://doi.org/10.3847/PSJ/ac5aa4) (https://arxiv.org/abs/2112.00033) - *PSJ's top paper of 2022.*
+
+1. Simon, Amy A.; Wong, Michael H.; Sromovsky, Lawrence A.; Fletcher, Leigh N.; Fry, Patrick M. (2022), *Giant Planet Atmospheres: Dynamics and Variability from UV to Near-IR Hubble and Adaptive Optics Imaging*, Remote Sensing, vol. 14, issue 6, p. 1518 (https://doi.org/10.3390/rs14061518)
 
 1. Ian J. Cohen, Chloe Beddingfield, Robert Chancia, Gina DiBraccio, Matthew Hedman, Shannon MacKenzie, Barry Mauk, Kunio M. Sayanagi, Krista M. Soderlund, Elizabeth Turtle, Caitlin Ahrens, Christopher S. Arridge, Shawn M. Brooks, Emma Bunce, Sebastien Charnoz, Athena Coustenis, Robert A. Dillman, Soumyo Dutta, Leigh N. Fletcher, Rebecca Harbison, Ravit Helled, Richard Holme, Lauren Jozwiak, Yasumasa Kasaba, Peter Kollmann, Statia Luszcz-Cook, Kathleen Mandt, Olivier Mousis, Alessandro Mura, Go Murakami, Marzia Parisi, Abigail Rymer, Sabine Stanley, Katrin Stephan, Ronald J. Vervack, Jr., Michael H. Wong, and Peter Wurz (2022), *The case for a New Frontiers-class Uranus Orbiter: System science at an underexplored and unique world with a mid-scale mission*, Planetary Science Journals, Volume 3, 58 (14pp), (https://doi.org/10.3847/PSJ/ac5113).
 

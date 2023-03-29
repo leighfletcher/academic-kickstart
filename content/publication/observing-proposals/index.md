@@ -60,8 +60,15 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * Kepler/K2 and Herschel/HIFI
 
+## 2023
+
+* VLT VISIR [111.253D.002](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.253D.002) (PI: Bardet) - *Saturn's northern summer hemisphere through the eyes of VLT and JWST*, 2.0 hours awarded.
+* VLT VISIR [111.255R](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.255R) (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR*, 8 hours awarded.
+
 ## 2022
 
+* VLT VISIR [110.23VW.002](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=110.23VW.002) (PI: Fletcher) - *All Eyes on Jupiter: VLT, Juno, and JWST*, 5.2 hours awarded.
+* ALMA DDT [2022.A.00012.S]() (PI: Cavalié) - *Magnetosphere-atmosphere coupling revealed by Jupiter South Polar Region chemistry from combined ALMA-JWST observations*
 * ALMA Cycle 9 [2022.1.00125.S]() (PI: de Pater) - *ALMA continuum and PH3 maps of Jupiter*
 * Hubble Space Telescope [17187]() (PI: Rowe-Gurney) - *Observing the Ice Giants with Hubble WFC3 to Enhance Cycle 1 James Webb Space Telescope Data*, Cycle 30 General Observer , 12 orbits.
 * Hubble Space Telescope [17214]() (PI: Lamy) - *Unravelling the auroral diversity and magnetospheric dynamics of Uranus while approaching solstice*, Cycle 30 General Observer , 12 orbits.

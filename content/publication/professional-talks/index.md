@@ -46,6 +46,16 @@ url_poster = ""
 
 This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.
 
+1. Invited Lecture to the Les Houches Winter School, Cloud Academy 2, on *Challenges of Solar System Clouds and Hazes,* delivered via Zoom.
+
+1. Invited Colloquium for the Institut fuer Weltraumforschung, IWF, in Graz, March 23rd 2023, entitled *Exploring the Realm of the Giants* (delivered via Zoom).
+
+1. Presentation to the JUICE Science Working Group Meeting in Toulouse (Virtual, December 7th 2022), on *JWST:  Exploring Giant Planet Systems from L2.*
+
+1. Invited Review of Jupiter Science at the JWST Early Release Science Meeting, Observatoire de Paris, Meudon, October 25th 2022. *Jupiter:  Atmospheric Science Questions before JWST*
+
+1. EuroPlanet Science Congress (EPSC), September 2022, contributed talk on *Juno Characterisation of Cyclonic Folded Filamentary Regions within Jupiter's Polar Domain*
+
 1. British Planetary Science Congress, June 2022, Open University:  Invited Keynote talk on *Flagship Mission to Uranus:  Exploring our Closest Ice Giant.*
 
 1. Astronomical Observatory of the University of Warsaw, May 2022 Seminar, Invited talk on *Giant Planet Atmospheres: From Juno, to JWST, to the Ice Giants,* available to watch on [Youtube](https://www.youtube.com/watch?v=JnD632ygakU).
