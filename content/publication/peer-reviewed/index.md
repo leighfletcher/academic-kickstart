@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 213 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 214 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -58,15 +58,20 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Guillot, Tristan; Fletcher, Leigh N.; Helled, Ravit; Ikoma, Masahiro; Line, Michael R.; Parmentier, Vivien (2022), *Giant Planets from the Inside-Out*, Review chapter submitted to Protostars and Planets VII (https://arxiv.org/abs/2205.04100)
 
-1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter submitted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
+1. **Leigh N. Fletcher, Thibault Cavalié, Davide Grassi, Ricardo Hueso, Luisa M. Lara, Yohai Kaspi, Eli Galanti, Thomas K. Greathouse, Philippa M. Molyneux, Marina Galand, Claire Vallat, Olivier Witasse, Rosario Lorente, Paul Hartogh, François Poulet, Yves Langevin, Pasquale Palumbo, G. Randall Gladstone, Kurt D. Retherford, Michele K. Dougherty, Jan-Erik Wahlund, Stas Barabash, Luciano Iess, Lorenzo Bruzonne, Hauke Hussmann, Leonid I. Gurvits, Ondřej Santolik, Ivana Kolmasova, Georg Fischer, Ingo Müller-Wodarg, Giuseppe Piccioni, Thierry Fouchet, Jean-Claude Gérard, Agustin Sánchez-Lavega, Patrick G. J. Irwin, Denis Grodent, Francesca Altieri, Alessandro Mura, Pierre Drossart, Josh Kammer, Rohini Giles, Stéphanie Cazaux, Geraint Jones, Maria Smirnova, Emmanuel Lellouch, Alexander S. Medvedev, Raphael Moreno, Ladislav Rezac, Athena Coustenis, Marc Costa (2023), *Jupiter Science Enabled by ESA's Jupiter Icy Moons Explorer*, submitted to Space Science Reviews (https://arxiv.org/abs/2304.10229).**
 
 ## Published
 
-1. J. A. Sinclair,, C. M. Lisse, G. S. Orton, M. Krishnamoorthy, L. N. Fletcher, J. Hora, C. Palotai, T. Hayward (2023), *A retrospective analysis of mid-infrared observations of the Comet D/Shoemaker-Levy 9 and Wesley impacts on Jupiter*, Icarus, Volume 394, article id. 115404, (https://doi.org/10.1016/j.icarus.2022.115404) (https://arxiv.org/abs/2301.01347).
 
-1. Dehant V., Blanc M., Mackwell S., Soderlund K.M., Beck P., Bunce E., Charnoz S., Foing B., Filice V., Fletcher L.N., Forget F., Griton L., Hammel H., Höning D., Imamura T., Jackman C., Kaspi Y., Korablev O., Leconte J., Lellouch E., Marty B., Mangold N., Schmidt J., Sterken V.J., Tosi N., Vandaele A.C., Vernazza P., Vazan A., Westall F., 2022, “From science questions to Solar System exploration,” Chapter 3, *Planetary Exploration Horizon 2061 – Report ‘Planetary Exploration Horizon 2061, A Long-Term Perspective for Planetary Exploration* pages 65-175, (https://arxiv.org/abs/2211.04474) (http://dx.doi.org/10.1016/B978-0-323-90226-7.00006-4)
+1. Kumiko Hori, Chris A. Jones, Arrate Antuñano, Leigh N. Fletcher & Steven M. Tobias (2023), *Jupiter’s cloud-level variability triggered by torsional oscillations in the interior,* Nature Astronomy, in press (https://doi.org/10.1038/s41550-023-01967-1) (https://rdcu.be/dcrTh) (https://arxiv.org/abs/2304.04460) [Nature Portfolio Blog](https://astronomycommunity.nature.com/posts/jupiter-s-multi-year-cycles-of-variability-could-be-explained-by-magnetic-oscillations-in-the-deep-interior)
 
-1. Glenn S. Orton, Arrate Antunano, Leigh N. Fletcher, James A. Sinclair, Thomas W. Momary, Takuya Fujiyoshi, Padma Yanamandra-Fisher, Padraig T. Donnelly, Jennifer J. Greco, Anna V. Payne, Kimberly A. Boydstun, Laura E. Wakefield (2022), *Unexpected Long-Term Variability in Jupiter's Tropospheric Temperatures,* Nature Astronomy, accepted (https://arxiv.org/abs/2211.04398) (https://doi.org/10.1038/s41550-022-01839-0)
+1. James A Sinclair, Thomas K Greathouse, Rohini S Giles, John Lacy, Julianne Moses, Vincent Hue, Denis Grodent, Bertrand Bonfond, Chihiro Tao, Thibault Cavalié, Emma K Dahl, Glenn S Orton, Leigh N Fletcher, Patrick G J Irwin (2023), *A high spatial and spectral resolution study of Jupiter's mid-infrared auroral emissions and their response to a solar wind compression,* Planetary Science Journal, Vol 4 76 (https://arxiv.org/abs/2304.08390) (https://doi.org/10.3847/PSJ/accb95)
+
+1. J. A. Sinclair, C. M. Lisse, G. S. Orton, M. Krishnamoorthy, L. N. Fletcher, J. Hora, C. Palotai, T. Hayward (2023), *A retrospective analysis of mid-infrared observations of the Comet D/Shoemaker-Levy 9 and Wesley impacts on Jupiter*, Icarus, Volume 394, article id. 115404, (https://doi.org/10.1016/j.icarus.2022.115404) (https://arxiv.org/abs/2301.01347).
+
+1. Dehant V., Blanc M., Mackwell S., Soderlund K.M., Beck P., Bunce E., Charnoz S., Foing B., Filice V., Fletcher L.N., Forget F., Griton L., Hammel H., Höning D., Imamura T., Jackman C., Kaspi Y., Korablev O., Leconte J., Lellouch E., Marty B., Mangold N., Schmidt J., Sterken V.J., Tosi N., Vandaele A.C., Vernazza P., Vazan A., Westall F., (2022), “From science questions to Solar System exploration,” Chapter 3, *Planetary Exploration Horizon 2061 – Report ‘Planetary Exploration Horizon 2061, A Long-Term Perspective for Planetary Exploration* pages 65-175, (https://arxiv.org/abs/2211.04474) (http://dx.doi.org/10.1016/B978-0-323-90226-7.00006-4)
+
+1. Glenn S. Orton, Arrate Antunano, Leigh N. Fletcher, James A. Sinclair, Thomas W. Momary, Takuya Fujiyoshi, Padma Yanamandra-Fisher, Padraig T. Donnelly, Jennifer J. Greco, Anna V. Payne, Kimberly A. Boydstun, Laura E. Wakefield (2022), *Unexpected Long-Term Variability in Jupiter's Tropospheric Temperatures,* Nature Astronomy, 7, pages 190–197 (https://arxiv.org/abs/2211.04398) (https://doi.org/10.1038/s41550-022-01839-0)
 
 1. James S.D. Blake, L.N. Fletcher, G.S. Orton, A. Antunano, M.T. Roman, Y. Kasaba, T. Fujiyoshi, H. Melin, D. Bardet, J.A. Sinclair, M. Es-Sayeh (2022), *Saturn’s Seasonal Variability from Four Decades of Ground-Based Mid-Infrared Observations,* Icarus 392, 115347 (https://arxiv.org/abs/2211.07486) (https://doi.org/10.1016/j.icarus.2022.115347).
 
@@ -118,6 +123,8 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 1. Davide Grassi, A. Mura, G. Sindoni, A. Adriani, S.K. Atreya, G. Filacchione, L.N. Fletcher, J.I. Lunine, M.L. Moriconi, R. Noschese, G.S. Orton, C. Plainaki, R. Sordini, F. Tosi, D. Turrini, A. Olivieri, G. Eichstädt, C.J. Hansen, H. Melin, F. Altieri, A. Cicchetti, B.M. Dinelli, A. Migliorini, G. Piccioni, S. Stefani, S.J. Bolton (2021), *On the clouds and ammonia in Jupiter’s upper troposphere from Juno JIRAM reflectivity observations*, Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 4, Pages 4892–4907, (https://doi.org/10.1093/mnras/stab740)
 
 1. Patrick G.J. Irwin, Jack Dobinson, Arjuna James, Daniel Toledo, Nicholas A. Teanby, Leigh N. Fletcher, Glenn S. Orton, Santiago Pérez-Hoyos (2021), *Latitudinal variation of methane mole fraction above clouds in Neptune's atmosphere from VLT/MUSE-NFM: Limb-darkening reanalysis*, Icarus, Volume 357, 114277 (https://doi.org/10.1016/j.icarus.2020.114277) (https://arxiv.org/abs/2101.01063).
+
+1. **L.N. Fletcher, L. Sromovsky, V. Hue, J.I. Moses, S. Guerlet, R.A. West, T. Koskinen (2020), *Saturn's Seasonal Atmosphere at Northern Summer Solstice*, Chapter accepted for publication in "Cassini at Saturn: The Grand Finale." (https://arxiv.org/abs/2012.09288)**
 
 1. James A. Sinclair, Thomas K. Greathouse, Rohini S. Giles, Arrate Antuñano, Julianne I. Moses, Thierry Fouchet, Bruno Bézard, Chihiro Tao, Javier Martín-Torres, George B. Clark, Denis Grodent, Glenn S. Orton, Vincent Hue, Leigh N. Fletcher and Patrick G. J. Irwin (2020), *Spatial Variations in the Altitude of the CH4 Homopause at Jupiter's Mid-to-high Latitudes, as Constrained from IRTF-TEXES Spectra,* Planetary Science Journal, 1, 85 (https://doi.org/10.3847/PSJ/abc887)
 

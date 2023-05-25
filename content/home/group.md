@@ -19,7 +19,6 @@ Through research grants from STFC, the Royal Society, and the European Research 
 ### Current Postdoctoral Researchers
 * Dr. Michael Roman
 * Dr. Oliver King
-* Dr. Deborah Bardet
 
 ### Current PhD Students
 * Jake Harkett
@@ -29,6 +28,7 @@ Through research grants from STFC, the Royal Society, and the European Research 
 * Dr. James Blake
 * Dr. Arrate Antuñano
 * Dr. Jan Vatant d'Ollone
+* Dr. Deborah Bardet
 
 ### Former Students
 * Dr. Oliver King
