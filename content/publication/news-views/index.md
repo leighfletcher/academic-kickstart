@@ -46,6 +46,8 @@ url_poster = ""
 
 This page lists my contributions to News & Views, Book Reviews, and Popular Science Articles, both in print and online.
 
+1. John Bridges, Leigh Fletcher, Chrysa Avdellidou (2024), *British Planetary Science Conference 2024,* Astronomy & Geophysics, Volume 65, Issue 5, October 2024, Pages 5.38–5.39, (https://doi.org/10.1093/astrogeo/atae058)
+
 1. Fletcher, L.N. (2022), *JWST: New Infrared Eye on the Solar System*, [Europlanet Magazine](https://www.europlanet-society.org/europlanet-magazine/issue-3/jwst-solar-system/) Issue 3.
 
 1. Fletcher, L.N. (2020), *Onwards to the ice giants*, Astronomy & Geophysics, Volume 61, Issue 5, 1 October 2020, Pages 5.22–5.27 (https://doi.org/10.1093/astrogeo/ataa071) [Full Text](https://academic.oup.com/astrogeo/article/61/5/5.22/5906537?guestAccessKey=69511b5c-5e6e-4836-8744-6d7838d5ffac)

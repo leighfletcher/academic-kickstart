@@ -47,6 +47,8 @@ url_poster = ""
 ## Television
 
 ### General
+* Launching NASA's new streaming service, NASA+, with an overview of JWST exploration of the Solar System, called [Other Worlds](https://plus.nasa.gov/video/other-worlds-2/).  Part of this was filmed in January 2023, as we received the first data from the JWST observations of Uranus.
+* [BBC In Our Time: Jupiter](https://www.bbc.co.uk/sounds/play/m001n8mv):  Recorded a BBC Radio 4 Episode with Melvyn Bragg (June 2023) discussing our latest insights into Jupiter, and our hopes for the ESA JUICE mission.  
 * ESA TV:  [The Making of JUICE (2023)](https://www.youtube.com/watch?v=GZid09gsDHo):  Introduced a 15-minute segment on remote sensing from JUICE for ESA Youtube and TV channels, produced by Maarten Roos of Lightcurve Films.  
 *  Christmas Eve BBC News (December 24th 2019):  interviewed on Christmas Eve on BBC News Channel discussing research by University of Leicester physics students, which calculated that a home would need to be decorated with 2638 Christmas lights in order to be seen from space. The story was also featured on BBC Radio 4, BBC Radio 6, and US radio program ["The World,"](https://www.pri.org/file/2019-12-25/christmas-lights-visible-space) and was syndicated across local BBC radio stations across the UK. The Sunday Telegraph ran the story on page 2 on 22nd December. Reach figures are estimated in excess of 112 million.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Strangest achievement of the decade unlocked: appearing live on BBC News on Christmas Eve with <a href="https://twitter.com/Geetagurumurthy?ref_src=twsrc%5Etfw">@GeetaGurumurthy</a> to talk about Santa Claus and his ability to see Christmas Lights from the International Space Station. <a href="https://t.co/0SkMQWKr6N">https://t.co/0SkMQWKr6N</a> <a href="https://t.co/yN33DIbcf7">pic.twitter.com/yN33DIbcf7</a></p>&mdash; Leigh Fletcher (@LeighFletcher) <a href="https://twitter.com/LeighFletcher/status/1209423198682537984?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -62,6 +64,10 @@ url_poster = ""
 
 
 ### Sky at Night
+
+* [October 2023:](https://www.bbc.co.uk/programmes/m001sfvc) Filming at the Oadby Observatory in Leicester, alongside members of the University's Astro Society and Leicester's Astronomical Society.  I was interviewed by Pete Lawrence on amateur contributions to NASA's Juno mission, and this marked my 15th appearance on the Sky at Night.
+
+* [August 2022:](https://www.bbc.co.uk/programmes/m001b6m6) The JWST Road Trip for the Sky at Night, Chris Lintott visited me at Leicester to discuss the story so far for JWST observations of Solar System objects, including an honourable mention in the Radio Times [letters page](https://twitter.com/LeighFletcher/status/1564609173366734854?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1564609173366734854%7Ctwgr%5E81bf54205d5de80546e020859678ffa0e8890ad4%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fstaffblogs.le.ac.uk%2Fphysicsastronomy%2F2022%2F08%2F23%2Fshowcasing-the-first-jwst-observations-of-jupiter%2F).
 
 * [August 2021:](https://www.bbc.co.uk/iplayer/episode/m000ypbk/)  Invited to the National Space Centre to discuss five years of Juno discoveries with Chris Lintott, alongside my Leicester colleagues Jon Nichols and Emma Bunce.  
 
@@ -95,6 +101,7 @@ url_poster = ""
 * September 2010:  [Events on Jupiter.](http://www.bbc.co.uk/programmes/b00tnwks)  My first appearance on the BBC show alongside John Rogers, and my first opportunity to meet Sir Patrick Moore.
 
 ## Radio
+* BBC World Service (October 14th 2024):  Interviewed by the World Service to discuss the launch of Europa Clipper.
 * BBC Radio Cardiff Science Cafe (September 3rd 2020):  Recorded a short interview on planetary weather and Jupiter for BBC Radio Wales.
 * Juno's GRS Encounter (July 11th 2017):  Radio Interviews with BBC Radio Kent (Drivetime, 17:30) and BBC Radio Scotland (Good Morning Scotland, 06:05).
 * [Austria's Radio 4](http://fm4.orf.at/):  Reality Check:  A 10-minute radio interview about why we should be returning to the ice giants, to be aired in September 2014.  The interview can be found [here.](http://fm4.orf.at/stories/1746343)
@@ -102,6 +109,7 @@ url_poster = ""
 
 ## Podcasts
 
+* Supermassive Black Hole Podcast - September 29th 2023, a 20-minute interview with Izzie Clarke all about our future exploration of Uranus.
 * [Sky at Night Podcast](https://www.skyatnightmagazine.com/podcasts/james-webb-space-telescope-planets-solar-system/) (October 14th 2022): Interview at the International Astronomy Show, Warwick.
 * Pythagoras' Trousers (May 1st 2020):  Podcast for [Pythagoras Trousers](https://blogs.cardiff.ac.uk/physicsoutreach/2020/05/01/pythagorean-astronomy-hubble-at-30/) on the legacy of the Hubble Space Telescope.
 * ITN Podcast on Exoplanets (commissioned by audible.com) - recorded in Leicester on October 10th 2019.

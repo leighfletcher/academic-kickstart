@@ -60,8 +60,16 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * Kepler/K2 and Herschel/HIFI
 
-## 2023
+## 2024 
+* IRTF TEXES [2024A015]() (PI: J. Harkett) - *Characterising the coupling between distinct layers of the Jovian atmosphere via Juno-TEXES Comparisons*, two blocks of observations awarded in February and July 2024.
+* IRTF SpeX [2024A066]() (PI:  Dahl) - *Analyzing Jupiter's Colorful and Dynamic Atmosphere During Juno's Extended Mission*
+* VLT VISIR [113.267Y]() (PI: Fletcher) - *Jupiter's Stormy Skies: Exploring Short and Long-Term Meteorological Variability,* 6hrs awarded to support Juno PJ63-65.
+* VLT VISIR [113.26EB]() (PI: Orton) - *Tracking Saturn’s Atmospheric Dynamics in Late Northern Summer: Extending Cassini and Supporting JWST Observations,* 2hrs awarded.
+* VLT VISIR [113.26BV]() (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR*, 10hrs awarded.
 
+## 2023
+s
+* ALMA Cycle 10 [2023.1.00019.S]() (PI: de Pater) - *ALMA continuum (NH3) and PH3 maps of Jupiter*
 * VLT VISIR [111.253D.002](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.253D.002) (PI: Bardet) - *Saturn's northern summer hemisphere through the eyes of VLT and JWST*, 2.0 hours awarded.
 * VLT VISIR [111.255R](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.255R) (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR*, 8 hours awarded.
 

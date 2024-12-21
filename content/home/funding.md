@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   organization = "European Research Council"
   certificate_url = ""
   date_start = "2017-04-01"
-  date_end = "2023-03-31"
-  description = "Leicester's Planetary Atmospheres team is  supported by a European Research Council Consolidator Grant (GIANTCLIMES), awarded under the European Union’s Horizon 2020 research and innovation programme, grant agreement No. 723890."
+  date_end = "2024-03-31"
+  description = "Leicester's Planetary Atmospheres team was  supported by a European Research Council Consolidator Grant (GIANTCLIMES), awarded under the European Union’s Horizon 2020 research and innovation programme, grant agreement No. 723890."
 
 [[item]]
   title = "Royal Society University Research Fellowship"

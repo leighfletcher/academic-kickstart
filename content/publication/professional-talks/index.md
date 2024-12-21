@@ -46,6 +46,20 @@ url_poster = ""
 
 This is a list of my professional talks at national and international conferences, workshops, colloquia and other meetings.  Invited talks are highlighted in bold, all others are contributed talks.
 
+1. Invited Webinar for the Europlanet Society, May 21st 2024, *JWST as the New Voyager*
+
+1. Keynote Speaker for the Celebration of Science event at Lancaster University, April 17th 2024, *JWST as the New Voyager.*
+
+1. Invited Seminar on *JWST Exploration of the Solar System* presented to the Dublin Institute for Advanced Studies (DIAS), February 13th 2024.
+
+1. Contributed Talk on *Saturn's Northern Summer Revealed by JWST,* Division of Planetary Sciences in San Antonio, Texas, October 5th 2023.
+
+1. Invited Plenary Lecture for the Division of Planetary Sciences in San Antonio, Texas *JWST in 2022-23:  New Views of the Giant Planets,* October 4th 2023.
+
+1. Invited Lecture for NASA's Exoplanet Assessment Group on *Uranus:  Exemplar of the Ice Giant Class?* in San Antonio, Texas (October 1st 2023).
+
+1. Invited Talk at Juno Ground-Based Support Workshop, *Supporting Juno in the Mid-IR from JWST and Ground-Based Observatories,* October 1st 2023, San Antonio, Texas.
+
 1. Invited Lecture to the Les Houches Winter School, Cloud Academy 2, on *Challenges of Solar System Clouds and Hazes,* delivered via Zoom.
 
 1. Invited Colloquium for the Institut fuer Weltraumforschung, IWF, in Graz, March 23rd 2023, entitled *Exploring the Realm of the Giants* (delivered via Zoom).

@@ -48,6 +48,10 @@ This section is divided into two - talks for a general audience, and scroll down
 
 ## General Audience
 
+* National Space Centre "Mission Europa:"  Two public talks on the live space stage explaining the science behind the recently-launched Europa Clipper mission, with an general audience of children and adults.  November 1st 2024.
+
+* Ravensbourne College:  Presentation to Graphical Design students on the subject of planetary explorers, hoping to inspire innovative ways of showcasing planetary information to a broader audience via infographics, October 13th 2023.
+
 * Science Museum Patrons Event, March 14th 2023:  *"ESA's Mission to Explore the Icy Moons of Jupiter"*, a 60-minute lecture to the patrons of the Science Museum in London, followed by a Q&A session hosted by one of the museum curators.
 
 * UKSEDS London Cluster Meeting, February 4th 2023, virtually via Google Meet, *JUICE: Exploring Jupiter's Icy Worlds*
@@ -100,6 +104,8 @@ This section is divided into two - talks for a general audience, and scroll down
 
 
 ## Astronomy Societies
+* Open University Space Society (October 8th 2024):  *JWST:  A New Voyager for the Outer Solar System*, a 90-minute lecture done virtually.
+* British Astronomical Association (September 2023):  *"ESA's Mission to Explore the Icy Moons of Jupiter"*, a 60-minute lecture to members of the BAA, followed by a Q&A session.
 * Society for Popular Astronomy:  Virtual residential course replacing their annual weekend at Preston Montford.  In 2021, the theme was observing the planets, so I gave a talk on *Observing Giants:  Pro-Am Collaborations*, both via Zoom and livestreamed onto [Youtube](https://youtu.be/Sgah50yZviM).  
 * North Lincolnshire Astronomy Society, December 7th 2020 (via Zoom), *Future Exploration of the Ice Giants*:  "Members were still chatting about the talk as I had to leave the Zoom meeting – it was great to see so much interest and the predominant feedback was how such an interesting topic can be presented in such a way that is actually understandable to non-scientists"
 * Nene Valley Astronomical Society (Northamptonshire), September 17th 2018, *Exploring the Weather of the Giant Planets*.

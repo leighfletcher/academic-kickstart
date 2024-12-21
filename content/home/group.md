@@ -22,6 +22,7 @@ Through research grants from STFC, the Royal Society, and the European Research 
 
 ### Current PhD Students
 * Jake Harkett
+* Simon Toogood
 
 ### Former Postdocs
 * Dr. Henrik Melin
