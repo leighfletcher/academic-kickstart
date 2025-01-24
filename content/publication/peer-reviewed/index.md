@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 248 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 249 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -57,6 +57,8 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 ## Submitted
 
 ## Published
+
+1. Shawn R. Brueshaber, Zhimeng Zhang, Glenn S. Orton, Fabiano Oyafuso, Shannon Brown, Steven Levin, Davide Grassi, Alessandro Mura, Gerald Eichstädt, Candice J. Hansen, Leigh N. Fletcher, Shinji Mizumoto, John H. Rogers, Michael H. Wong, Ramanakumar Sankar and Scott Bolton (2025), *Multi-Instrument Sounding of a Jovian Thunderstorm from Juno during Perijove 38,* Icarus, accepted.
 
 1. Xinyue Wang, Liming Li, Larry Guan, Xun Jiang, Patrick M. Fry, Ulyana A. Dyudina, Leigh N. Fletcher, Enrique García-Melendo, Ricardo Hueso, Raúl Morales-Juberías, Agustin Sánchez-Lavega, Amy A. Simon (2025), *Spatiotemporal Variability of Saturn's Zonal Winds Observed by Cassini,* JGR:Planets, accepted (https://dx.doi.org/10.1029/2024JE008515)
 
