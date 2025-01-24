@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 249 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 250 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -63,6 +63,8 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 1. Xinyue Wang, Liming Li, Larry Guan, Xun Jiang, Patrick M. Fry, Ulyana A. Dyudina, Leigh N. Fletcher, Enrique García-Melendo, Ricardo Hueso, Raúl Morales-Juberías, Agustin Sánchez-Lavega, Amy A. Simon (2025), *Spatiotemporal Variability of Saturn's Zonal Winds Observed by Cassini,* JGR:Planets, accepted (https://dx.doi.org/10.1029/2024JE008515)
 
 1. Patrick G. J. Irwin, Steven M. Hill, Leigh N. Fletcher, Charlotte Alexander, John H. Rogers (2025), *Clouds and Ammonia in the Atmospheres of Jupiter and Saturn Determined From a Band-Depth Analysis of VLT/MUSE Observations,* JGR: Planets, Volume 130, e2024JE008622 (https://doi.org/10.1029/2024JE008622)
+
+1. James A. Sinclair, Thomas K. Greathouse, Rohini S. Giles, Matthew Richter, Maisie Rashman, Curtis de Witt, Julianne Moses, Vincent Hue, Pablo Rodríguez-Ovalle, Thierry Fouchet, Ananyo Bhattacharya, Bilal Benmahi, Glenn S. Orton, Leigh N. Fletcher and Patrick G. J. Irwin (2025), *Improved Constraints on the Vertical Profile of CH4 at Jupiter's Mid- to High Latitudes, Using IRTF-TEXES and SOFIA-EXES Spectroscopy,* Planetary Science Journal, 6, 15 (https://dx.doi.org/10.3847/PSJ/ad9d42)
 
 1. E. P. Turtle, A. S. McEwen, G. W. Patterson, C. M. Ernst, C. M. Elder, K. A. Slack, S. E. Hawkins, J. McDermott, H. Meyer, R. DeMajistre, R. Espiritu, H. Seifert, J. Niewola, M. Bland, M. Becker, J. Centurelli, G. C. Collins, P. Corlies, H. Darlington, I. J. Daubar, C. Derr, C. Detelich, E. Donald, W. Edens, L.N. Fletcher, C. Gardner, F. Graham, C. J. Hansen, C. Haslebacher, A. G. Hayes, D. Humm, T. A. Hurford, R. L. Kirk, N. Kutsop, W. J. Lees, D. Lewis, S. London, A. Magner, M. Mills, A. C. Barr Mlinar, F. Morgan, F. Nimmo, A. Ocasio Milanes, S. Osterman, C. B. Phillips, A. Pommerol, L. Prockter, L. C. Quick, G. Robbins, J. M. Soderblom, B. Stewart, A. Stickle, S. S. Sutton, N. Thomas, I. Torres, O. J. Tucker, R. B. Van Auken & K. A. Wilk  (2024), *The Europa Imaging System (EIS) Investigation,* Space Science Reviews 220, 91. (https://doi.org/10.1007/s11214-024-01115-9)
 
