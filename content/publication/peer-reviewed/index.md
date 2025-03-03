@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 250 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 252 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -58,7 +58,11 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Published
 
-1. Shawn R. Brueshaber, Zhimeng Zhang, Glenn S. Orton, Fabiano Oyafuso, Shannon Brown, Steven Levin, Davide Grassi, Alessandro Mura, Gerald Eichstädt, Candice J. Hansen, Leigh N. Fletcher, Shinji Mizumoto, John H. Rogers, Michael H. Wong, Ramanakumar Sankar and Scott Bolton (2025), *Multi-Instrument Sounding of a Jovian Thunderstorm from Juno during Perijove 38,* Icarus, accepted.
+1. F. Biagiotti, D. Grassi, G. Liuzzi, G. Villanueva, G. Piccioni, T. Guillot, L. N. Fletcher, S. K. Atreya, A. Mura, F. Oliva, F. Tosi, E. D'Aversa, C. Castagnoli, A. Adriani, G. Sindoni, C. Plainaki, R. Sordini, R. Noschese, A. Cicchetti, G. Eichstädt, S. Brueshaber, C. J. Hansen, G. Orton, S. Levin, C. Li, S. Bolton (2025), *Evidence of pure ammonia clouds in Jupiter's Northern Temperate domain from Juno/JIRAM infrared spectral data*, MNRAS, accepted.
+
+1. Oliver King, Leigh N. Fletcher, Fraser Clarke, Andrea Hidalgo (2025), *Spatially resolved visible wavelength spectroscopy of the Galilean moons with VLT/MUSE*, JGR: Planets, accepted.
+
+1. Shawn R. Brueshaber, Zhimeng Zhang, Glenn S. Orton, Fabiano Oyafuso, Shannon Brown, Steven Levin, Davide Grassi, Alessandro Mura, Gerald Eichstädt, Candice J. Hansen, Leigh N. Fletcher, Shinji Mizumoto, John H. Rogers, Michael H. Wong, Ramanakumar Sankar and Scott Bolton (2025), *Multi-Instrument Sounding of a Jovian Thunderstorm from Juno during Perijove 38,* Icarus, Volume 432, 116465 (https://doi.org/10.1016/j.icarus.2025.116465) 
 
 1. Xinyue Wang, Liming Li, Larry Guan, Xun Jiang, Patrick M. Fry, Ulyana A. Dyudina, Leigh N. Fletcher, Enrique García-Melendo, Ricardo Hueso, Raúl Morales-Juberías, Agustin Sánchez-Lavega, Amy A. Simon (2025), *Spatiotemporal Variability of Saturn's Zonal Winds Observed by Cassini,* JGR:Planets, accepted (https://dx.doi.org/10.1029/2024JE008515)
 
