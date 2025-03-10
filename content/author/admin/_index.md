@@ -54,7 +54,7 @@ interests = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/LeighFletcher"
+  link = "https://bsky.app/profile/leighfletcher.bsky.social"
 
 [[social]]
   icon = "google-scholar"
