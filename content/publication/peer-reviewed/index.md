@@ -58,7 +58,11 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Published
 
-1. F. Biagiotti, D. Grassi, G. Liuzzi, G. Villanueva, G. Piccioni, T. Guillot, L. N. Fletcher, S. K. Atreya, A. Mura, F. Oliva, F. Tosi, E. D'Aversa, C. Castagnoli, A. Adriani, G. Sindoni, C. Plainaki, R. Sordini, R. Noschese, A. Cicchetti, G. Eichstädt, S. Brueshaber, C. J. Hansen, G. Orton, S. Levin, C. Li, S. Bolton (2025), *Evidence of pure ammonia clouds in Jupiter's Northern Temperate domain from Juno/JIRAM infrared spectral data*, MNRAS, accepted.
+1. Jonathan Nichols, Oliver King, John Clarke, Imke de Pater, Leigh Fletcher, Henrik Melin, Luke Moore, Chihiro Tao, and Timothy Yeoman (2025), *Dynamic infrared aurora on Jupiter,* Nature Communications, accepted.
+
+1. Henrik Melin, Luke Moore, Leigh N. Fletcher, Heidi B. Hammel, James O’Donoghue, Tom S. Stallard, Stephanie N. Milam, Michael Roman, Oliver R. T. King, Naomi Rowe-Gurney, Emma E. Thomas, Ruoyan Wang, Paola I. Tiranti, Jake Harkett & Katie L. Knowles (2025), *Discovery of H3+ and infrared aurorae at Neptune with JWST,* Nature Astronomy (https://doi.org/10.1038/s41550-025-02507-9)
+
+1. F. Biagiotti, D. Grassi, G. Liuzzi, G. Villanueva, G. Piccioni, T. Guillot, L. N. Fletcher, S. K. Atreya, A. Mura, F. Oliva, F. Tosi, E. D'Aversa, C. Castagnoli, A. Adriani, G. Sindoni, C. Plainaki, R. Sordini, R. Noschese, A. Cicchetti, G. Eichstädt, S. Brueshaber, C. J. Hansen, G. Orton, S. Levin, C. Li, S. Bolton (2025), *Evidence of pure ammonia clouds in Jupiter's Northern Temperate domain from Juno/JIRAM infrared spectral data*, Monthly Notices of the Royal Astronomical Society, Volume 538, Issue 3, April 2025, Pages 1535–1564, (https://doi.org/10.1093/mnras/staf381)
 
 1. Oliver King, Leigh N. Fletcher, Fraser Clarke, Andrea Hidalgo (2025), *Spatially resolved visible wavelength spectroscopy of the Galilean moons with VLT/MUSE*, Journal of Geophysical Research: Planets, 130, e2024JE008511 (http://dx.doi.org/10.1029/2024JE008511)
 
