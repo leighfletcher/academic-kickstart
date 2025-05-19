@@ -47,6 +47,7 @@ url_poster = ""
 ## Television
 
 ### General
+* Featured on NASA's "Ask a NASA Expert" Youtube Shorts channel, explaining [Have we ever been to Uranus?](https://youtu.be/tzNAWw9EerQ?feature=shared) - produced by Scott Bednar, Pedro Cota, Jessie Wilde, and launched in April 2024.
 * Launching NASA's new streaming service, NASA+, with an overview of JWST exploration of the Solar System, called [Other Worlds](https://plus.nasa.gov/video/other-worlds-2/).  Part of this was filmed in January 2023, as we received the first data from the JWST observations of Uranus.
 * [BBC In Our Time: Jupiter](https://www.bbc.co.uk/sounds/play/m001n8mv):  Recorded a BBC Radio 4 Episode with Melvyn Bragg (June 2023) discussing our latest insights into Jupiter, and our hopes for the ESA JUICE mission.  
 * ESA TV:  [The Making of JUICE (2023)](https://www.youtube.com/watch?v=GZid09gsDHo):  Introduced a 15-minute segment on remote sensing from JUICE for ESA Youtube and TV channels, produced by Maarten Roos of Lightcurve Films.  
@@ -101,6 +102,7 @@ url_poster = ""
 * September 2010:  [Events on Jupiter.](http://www.bbc.co.uk/programmes/b00tnwks)  My first appearance on the BBC show alongside John Rogers, and my first opportunity to meet Sir Patrick Moore.
 
 ## Radio
+* BBC Radio Leicester (February 26th 2025): Invited onto the Breakfast Show to discuss a 'planetary parade', the last time seven planets can be seen simultaneously so well until 2040.  I spoke to BBC Leicester's Ady Dayman over two mornings, the clip may still be available [here](https://www.bbc.co.uk/programmes/p0ktpxlc).
 * BBC World Service (October 14th 2024):  Interviewed by the World Service to discuss the launch of Europa Clipper.
 * BBC Radio Cardiff Science Cafe (September 3rd 2020):  Recorded a short interview on planetary weather and Jupiter for BBC Radio Wales.
 * Juno's GRS Encounter (July 11th 2017):  Radio Interviews with BBC Radio Kent (Drivetime, 17:30) and BBC Radio Scotland (Good Morning Scotland, 06:05).
@@ -111,6 +113,7 @@ url_poster = ""
 
 * Supermassive Black Hole Podcast - September 29th 2023, a 20-minute interview with Izzie Clarke all about our future exploration of Uranus.
 * [Sky at Night Podcast](https://www.skyatnightmagazine.com/podcasts/james-webb-space-telescope-planets-solar-system/) (October 14th 2022): Interview at the International Astronomy Show, Warwick.
+* [INAF Interview on JWST](https://www.youtube.com/watch?v=dcw6UO1-UAk):  Interviewed by Claudia Mignone at the National Institute for Astrophysics in Italy, for clips that will be inserted during a live-streamed viewing day of Jupiter and Saturn (December 2021) to coincide with the launch of JWST.
 * Pythagoras' Trousers (May 1st 2020):  Podcast for [Pythagoras Trousers](https://blogs.cardiff.ac.uk/physicsoutreach/2020/05/01/pythagorean-astronomy-hubble-at-30/) on the legacy of the Hubble Space Telescope.
 * ITN Podcast on Exoplanets (commissioned by audible.com) - recorded in Leicester on October 10th 2019.
 * Space Boffins:  recorded a discussion of future missions to the Ice Giants at the UK Space Conference, September 25th 2019.
@@ -122,6 +125,7 @@ url_poster = ""
 * Pythagoras Trousers Radio Show for Radio Cardiff:  A ten-minute interview on planetary exploration with Dr. Chris North.  May 1st 2012
 
 ## Miscellany
+
 
 * National Space Centre Gas Giants week during the 2020 COVID-19 lockdown, recording videos on Leicester's exploration of Jupiter and Saturn:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2B4zPGIrjyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

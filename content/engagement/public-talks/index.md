@@ -48,7 +48,9 @@ This section is divided into two - talks for a general audience, and scroll down
 
 ## General Audience
 
-* National Space Centre "Mission Europa:"  Two public talks on the live space stage explaining the science behind the recently-launched Europa Clipper mission, with an general audience of children and adults.  November 1st 2024.
+* National Space Centre "Hubble 35th Birthday:"  Public talk in the Live Space gallery about galaxies as observed in the Hubble Deep Field, building on my work in 2003 on the Hubble IMAX film "Galaxies Across Space and Time."  April 24th 2025.
+
+* National Space Centre "Mission Europa:"  Two public talks on the live space stage explaining the science behind the recently-launched Europa Clipper mission, with a general audience of children and adults.  November 1st 2024.
 
 * Ravensbourne College:  Presentation to Graphical Design students on the subject of planetary explorers, hoping to inspire innovative ways of showcasing planetary information to a broader audience via infographics, October 13th 2023.
 

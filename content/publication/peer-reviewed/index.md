@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 254 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 257 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -58,7 +58,13 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Published
 
-1. Jonathan Nichols, Oliver King, John Clarke, Imke de Pater, Leigh Fletcher, Henrik Melin, Luke Moore, Chihiro Tao, and Timothy Yeoman (2025), *Dynamic infrared aurora on Jupiter,* Nature Communications, accepted.
+1. Conor A. Nixon, Bruno Bézard, Thomas Cornet, Brandon Park Coy, Imke de Pater, Maël Es-Sayeh, Heidi B. Hammel, Emmanuel Lellouch, Nicholas A. Lombardo, Manuel López-Puertas, Juan M. Lora, Pascal Rannou, Sébastien Rodriguez, Nicholas A. Teanby,Elizabeth P. Turtle, Richard K. Achterberg, Carlos Alvarez, Ashley G. Davies, Katherine de Kleer, Greg Doppmann, Leigh N. Fletcher, Alexander G. Hayes, Bryan J. Holler, Patrick G. J. Irwin, Carolyn Jordan, Oliver R. T. King, Nicholas W. Kutsop, Theresa Marlin, Henrik Melin, Stefanie N. Milam, Edward M. Molter, Luke Moore, Yaniss Nyffenegger-Péré, James O’Donoghue, John O’Meara, Scot C. R. Rafkin, Michael T. Roman, Arina Rostopchina, Naomi Rowe-Gurney, Carl Schmidt, Judy Schmidt, Christophe Sotin, Tom S. Stallard, John A. Stansberry & Robert A. West (2025), *The atmosphere of Titan in late northern summer from JWST and Keck observations*, Nature Astronomy,  (https://doi.org/10.1038/s41550-025-02537-3) (https://arxiv.org/abs/2505.10655)
+
+1. C. Lefour, T. Cavalié, H. Feuchtgruber, R. Moreno, L. N. Fletcher, T. Fouchet, E. Lellouch, E. Barth, and P. Hartogh (2025), *Observations of the temporal evolution of Saturn’s stratosphere following the Great Storm of 2010-2011, I. Temporal evolution of the water abundance in Saturn’s hot vortex of 2011-2013*, A&A, accepted (https://arxiv.org/abs/2505.02595)
+
+1. Jonathan Nichols, Oliver King, John Clarke, Imke de Pater, Leigh Fletcher, Henrik Melin, Luke Moore, Chihiro Tao, and Timothy Yeoman (2025), *Dynamic infrared aurora on Jupiter,* Nature Communications, Volume 16, Issue 1, id.3907 (https://doi.org/10.1038/s41467-025-58984-z)
+
+1. Pablo Rodríguez-Ovalle, Thierry Fouchet, Thibault Cavalié, Emmanuel Lellouch, Leigh N. Fletcher, Jake Harkett, Vincent Hue, Bilal Benmahi and Imke de Pater (2025), *JWST observations of exogenic species on Jupiter: HCN, H2O, and CO2,* Astronomy & Astrophysics, Volume 696, A173 (https://doi.org/10.1051/0004-6361/202453575)
 
 1. Henrik Melin, Luke Moore, Leigh N. Fletcher, Heidi B. Hammel, James O’Donoghue, Tom S. Stallard, Stephanie N. Milam, Michael Roman, Oliver R. T. King, Naomi Rowe-Gurney, Emma E. Thomas, Ruoyan Wang, Paola I. Tiranti, Jake Harkett & Katie L. Knowles (2025), *Discovery of H3+ and infrared aurorae at Neptune with JWST,* Nature Astronomy (https://doi.org/10.1038/s41550-025-02507-9)
 
@@ -118,7 +124,7 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 1. Arjuna James, Patrick G. J. Irwin, Jack Dobinson, Michael H. Wong, Troy K. Tsubota, Amy A. Simon, Leigh N. Fletcher, Michael T. Roman, Nick A. Teanby, Daniel Toledo, Glenn S. Orton (2023), *The Temporal Brightening of Uranus' Northern Polar Hood From HST/WFC3 and HST/STIS Observations,* JGR:Planets, Volume 128, e2023JE007904 (http://doi.org/10.1029/2023JE007904)
 
-1. **Leigh N. Fletcher, Oliver R.T. King, Jake Harkett, Heidi B. Hammel, Michael T. Roman, Henrik Melin, Matthew M. Hedman, Julianne I. Moses, Sandrine Guerlet, Stefanie N. Milam, Matthew S. Tiscareno (2023), *Saturn's Atmosphere in Northern Summer Revealed by JWST/MIRI*, JGR: Planets, Volume 128, e2023JE007924 (https://arxiv.org/abs/2309.06052) (https://dx.doi.org/10.1029/2023JE007924)**
+1. **Leigh N. Fletcher, Oliver R.T. King, Jake Harkett, Heidi B. Hammel, Michael T. Roman, Henrik Melin, Matthew M. Hedman, Julianne I. Moses, Sandrine Guerlet, Stefanie N. Milam, Matthew S. Tiscareno (2023), *Saturn's Atmosphere in Northern Summer Revealed by JWST/MIRI*, JGR: Planets, Volume 128, e2023JE007924 (https://arxiv.org/abs/2309.06052) (https://dx.doi.org/10.1029/2023JE007924) [Ranked within the top 10% of most-viewed papers published by the journal in 2023]**
 
 1. Patrick G. J. Irwin, Jack Dobinson, Arjuna James, Michael H. Wong, Leigh N. Fletcher, Michael T. Roman, Nicholas A. Teanby, Daniel Toledo, Glenn S. Orton, Santiago Pérez-Hoyos, Agustin Sánchez-Lavega, Lawrence Sromovsky, Amy A. Simon, Raúl Morales-Juberías, Imke de Pater & Statia L. Cook (2023), *Spectral determination of the colour and vertical structure of dark spots in Neptune’s atmosphere,* Nature Astronomy 7, 1198–1207 (http://doi.org/10.1038/s41550-023-02047-0) (https://arxiv.org/abs/2308.12889)
 

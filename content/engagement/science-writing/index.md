@@ -48,7 +48,7 @@ url_poster = ""
 
 I regularly provide scientific content for online websites, including the following:
 
-* [Planetary Wanderings](https://planetaryweather.blogspot.com) - personal blog maintained since 2007.
+* [Planetary Wanderings](https://leighfletcher.substack.com/) - personal blog maintained since 2007, originally on Blogger and then moved to Substack.
 * [Leicester to Jupiter](https://staffblogs.le.ac.uk/leicester-to-jupiter/) - creator of a blog at the University of Leicester to celebrate UK involvement in the Juno mission.
 * [The Conversation](https://theconversation.com/profiles/leigh-fletcher-154294) - including several articles on the Juno mission to Jupiter and the future exploration of Europa.
 * [Planetary Society](http://www.planetary.org/connect/our-experts/profiles/leigh-fletcher.html) - including Saturn's hexagon, Jupiter's meteorology, and Europa's plumes.
