@@ -58,9 +58,15 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Published
 
+1. Glenn S. Orton, Magnus Gustafsson, Leigh N. Fletcher, Michael T. Roman, James A. Sinclair (2025), *Improved H2-He and H2-H2 Collision-Induced Absorption Models and Application to Outer-Planet Atmospheres,* Journal of Quantitative Spectroscopy and Radiative Transfer, accepted (https://doi.org/10.1016/j.jqsrt.2025.109634) (https://arxiv.org/abs/2506.09257)
+
+1. Tom S. Stallard, Luke Moore, Henrik Melin, Omakshi Agiwal, M. Nahid Chowdhury, Rosie E. Johnson, Katie L. Knowles, Emma M. Thomas, Paola I. Tiranti, James O’Donoghue, Khalid Mohamed, Ingo Mueller-Wodarg, Leigh N. Fletcher, Imke de Pater, Thierry Fouchet (2025), *JWST/NIRSpec detection of complex structures in Saturn's sub-auroral ionosphere and stratosphere,* Geophysical Research Letters, in press (https://dx.doi.org/10.1029/2025GL116491)
+
+1. Hedman, M. M.; de Pater, I.; Cartwright, R.; El Moutamid, M.; DeColibus, R.; Showlater, M.; Tiscareno, M. S.; Rowe-Gurney, N.; Roman, M. T.; Fletcher, L.N.; Hammel, H. B. (2025), *Spectral trends across the rings and inner moons of Uranus and Neptune from JWST NIRCam images,* Planetary Science Journal, accepted (https://arxiv.org/abs/2506.18650)
+
 1. Conor A. Nixon, Bruno Bézard, Thomas Cornet, Brandon Park Coy, Imke de Pater, Maël Es-Sayeh, Heidi B. Hammel, Emmanuel Lellouch, Nicholas A. Lombardo, Manuel López-Puertas, Juan M. Lora, Pascal Rannou, Sébastien Rodriguez, Nicholas A. Teanby,Elizabeth P. Turtle, Richard K. Achterberg, Carlos Alvarez, Ashley G. Davies, Katherine de Kleer, Greg Doppmann, Leigh N. Fletcher, Alexander G. Hayes, Bryan J. Holler, Patrick G. J. Irwin, Carolyn Jordan, Oliver R. T. King, Nicholas W. Kutsop, Theresa Marlin, Henrik Melin, Stefanie N. Milam, Edward M. Molter, Luke Moore, Yaniss Nyffenegger-Péré, James O’Donoghue, John O’Meara, Scot C. R. Rafkin, Michael T. Roman, Arina Rostopchina, Naomi Rowe-Gurney, Carl Schmidt, Judy Schmidt, Christophe Sotin, Tom S. Stallard, John A. Stansberry & Robert A. West (2025), *The atmosphere of Titan in late northern summer from JWST and Keck observations*, Nature Astronomy,  (https://doi.org/10.1038/s41550-025-02537-3) (https://arxiv.org/abs/2505.10655)
 
-1. C. Lefour, T. Cavalié, H. Feuchtgruber, R. Moreno, L. N. Fletcher, T. Fouchet, E. Lellouch, E. Barth, and P. Hartogh (2025), *Observations of the temporal evolution of Saturn’s stratosphere following the Great Storm of 2010-2011, I. Temporal evolution of the water abundance in Saturn’s hot vortex of 2011-2013*, A&A, accepted (https://arxiv.org/abs/2505.02595)
+1. C. Lefour, T. Cavalié, H. Feuchtgruber, R. Moreno, L. N. Fletcher, T. Fouchet, E. Lellouch, E. Barth, and P. Hartogh (2025), *Observations of the temporal evolution of Saturn’s stratosphere following the Great Storm of 2010-2011, I. Temporal evolution of the water abundance in Saturn’s hot vortex of 2011-2013*, A&A, Volume 698, A66 (https://arxiv.org/abs/2505.02595) (https://doi.org/10.1051/0004-6361/202453029)
 
 1. Jonathan Nichols, Oliver King, John Clarke, Imke de Pater, Leigh Fletcher, Henrik Melin, Luke Moore, Chihiro Tao, and Timothy Yeoman (2025), *Dynamic infrared aurora on Jupiter,* Nature Communications, Volume 16, Issue 1, id.3907 (https://doi.org/10.1038/s41467-025-58984-z)
 

@@ -46,9 +46,13 @@ url_poster = ""
 
 The following list attempts to keep track of awarded observing time each year, both as PI and as a Co-I.  Links are provided to archive locations for the raw data.  In the list below, you'll find awarded time from the following facilities (just search for any of the key acronyms):
 
+* Space Telescopes:  Hubble, JWST, Kepler/K2 and Herschel/HIFI
+
 * ESO - VLT (VISIR, MUSE, SINFONI, SPHERE, MUSE, CRIRES, NEAR, ISAAC) and ALMA.
 
 * Subaru - COMICS
+
+* Very Large Array (VLA)
 
 * IRTF - MIRSI, TEXES, NSFCAM2, SpeX
 
@@ -58,9 +62,34 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * SOFIA - FORCAST, EXES
 
-* Kepler/K2 and Herschel/HIFI
+## 2025
+* Hubble & JWST [9317](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D9317%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) (PI: A. Simon) - *Investigating Saturn's Equatorial Winds at Equinox,* 12 HST orbits in Cycle 33 and 10.6 JWST hours.
+
+* Hubble & JWST [9351](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D9351%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) (PI: J. Nichols) - *Unveiling the energy flow from Jupiter's magnetosphere to aurora,* 18 HST orbits in Cycle 33 and 7.5 JWST hours.
+
+* JWST [8173](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D8173%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) (PI: Rodriguez-Ovalle) - *The evolution of comet-impact products in Jupiter's atmosphere: a benchmark for auroral chemistry in giant (exo)planets*
+
+* JWST [7570](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D7570%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) (PI: Stallard) - *Exploring the magnetic environments of Uranus and Neptune with JWST*
+
+* JWST [6865](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D6865%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) (PI: Fletcher) - *Jupiter's Stripes: Testing the Canonical View of Banded Circulation Patterns on Giant Planets*
+
+* JWST [6840](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D6840%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Wong) - *Jupiter's Oval BA: Trends in Space and Time*
+
+* VLT/VISIR [116.28N4]() - (PI: Fletcher) - *Dynamics of Jupiter's Polar Stratosphere from a Combination of VISIR Imaging and Juno Radio Occultations*, 6hrs awarded 2025/26.
+* VLT/VISIR [116.290Y]() - (PI: Roman) - *The Thermal Radiance of Uranus: A Last Look with VISIR to Evaluate JWST Observations and Seasonal Progression*
+* VLT/VISIR [116.29DD]() - (PI: Roman) - *Tracking Saturn’s Atmospheric Dynamics at Autumn Equinox: Extending Cassini and Supporting JWST Observations*, 2hrs awarded 2025/26.
+* VLT/VISIR [116.291A]() - (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR, One Last Time*, 11hrs awarded 2025/26.
+* VLT/MUSE [116.28MX]() - (PI: Roman) - *Understanding Changes in the Polar Hood of Uranus*, 2hrs award 2025/26.
+* VLT/MUSE [116.28MW]() - (PI: Roman) - *Understanding Neptune's Dark Features*, 1.5hrs award 2025/26.
+* IRTF MIRSI [2025B019]() (PI: G. Orton) - *A Joint Study of Jupiter's Atmosphere by MIRSI with Juno Microwave and Radio-Occultation Soundings*, several blocks of observations awarded for August 2025 to January 2026.
+* IRTF SpeX [2025B020]() (PI: G. Orton) - **, several blocks of observations awarded for August 2025 to January 2026.
+* VLT/VISIR [115.27VE]() - (PI: Fletcher) - *DJupiter's Polar Stratosphere: Joint Study of VISIR Imaging and Juno Radio Occultations*, 4hrs awarded 2025.
+* VLT/VISIR [115.283U]() - (PI: Orton) - *Tracking Saturn’s Atmospheric Dynamics at Autumn Equinox: Extending Cassini and Supporting JWST Observations*, 2hrs awarded 2025.
+* VLT/VISIR [115.287B]() - (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR*, 11hrs awarded 2025.
 
 ## 2024 
+* VLT VISIR [114.277Q]() (PI: Fletcher) - *Jupiter's Stratospheric Dynamics: Joint Study of VISIR Imaging and Juno Radio Occultations,* 6hrs awarded.
+* JWST [5073](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D5073%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) (PI: Melin) - *What drives the aurora of Uranus?*
 * IRTF TEXES [2024A015]() (PI: J. Harkett) - *Characterising the coupling between distinct layers of the Jovian atmosphere via Juno-TEXES Comparisons*, two blocks of observations awarded in February and July 2024.
 * IRTF SpeX [2024A066]() (PI:  Dahl) - *Analyzing Jupiter's Colorful and Dynamic Atmosphere During Juno's Extended Mission*
 * VLT VISIR [113.267Y]() (PI: Fletcher) - *Jupiter's Stormy Skies: Exploring Short and Long-Term Meteorological Variability,* 6hrs awarded to support Juno PJ63-65.
@@ -68,13 +97,18 @@ The following list attempts to keep track of awarded observing time each year, b
 * VLT VISIR [113.26BV]() (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR*, 10hrs awarded.
 
 ## 2023
-s
+
+* JWST [3665](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D3665%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Melin) - *Unveiling Jupiter’s upper atmosphere and constraining atmospheric loss from Giant Planets*
+* JWST [3399](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D3399%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Rigby) - *An Empirical Calibration of the NIRSpec IFU Point Spread Function to Enable High Contrast Imaging Spectroscopy*
+* JWST [2768](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D2768%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Rowe-Gurney) - *Uranus high spatial resolution global map from NIRCam*
 * ALMA Cycle 10 [2023.1.00019.S]() (PI: de Pater) - *ALMA continuum (NH3) and PH3 maps of Jupiter*
 * VLT VISIR [111.253D.002](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.253D.002) (PI: Bardet) - *Saturn's northern summer hemisphere through the eyes of VLT and JWST*, 2.0 hours awarded.
 * VLT VISIR [111.255R](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=111.255R) (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR*, 8 hours awarded.
 
 ## 2022
 
+* JWST [1604](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D1604%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Orton) - *Dynamics and Temporal Variability in the Atmosphere of Neptune*
+* JWST [1424](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D1424%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Fletcher) - *Extreme Events on Gas Giants: Impacts and Storm Eruptions*
 * VLT VISIR [110.23VW.002](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=110.23VW.002) (PI: Fletcher) - *All Eyes on Jupiter: VLT, Juno, and JWST*, 5.2 hours awarded.
 * ALMA DDT [2022.A.00012.S]() (PI: Cavalié) - *Magnetosphere-atmosphere coupling revealed by Jupiter South Polar Region chemistry from combined ALMA-JWST observations*
 * ALMA Cycle 9 [2022.1.00125.S]() (PI: de Pater) - *ALMA continuum and PH3 maps of Jupiter*
@@ -90,6 +124,11 @@ s
 
 ## 2021
 
+* JWST [1249](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D1249%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Fletcher) - *Neptune from MIRI/MRS*
+* JWST [1248](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D1248%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Fletcher) - *Uranus from MIRI/MRS*
+* JWST [1247](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D1247%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Fletcher) - *Saturn System Science from JWST*
+* JWST [1246](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D1246%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PI: Fletcher) - *Jupiter's Great Red Spot from JWST*
+* JWST [1373](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D1373%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) - (PIs: de Pater & Fouchet) - *ERS observations of the Jovian System as a demonstration of JWST capabilities for Solar System science*
 * VLT VISIR [108.C_0778](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=108.C_0778) (PI: Roman) - *Investigating Recent and Dramatic Changes in Neptune's Stratosphere*, 10.0 hours awarded, carried over into P109 (2022).
 * VLT VISIR [108.223F](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/query?progid=108.223F) (PI: Fletcher) - *Jupiter's Tropospheric Circulation and Meteorology during Juno's Extended Mission*, 7.1 hours awarded, approximately 75% completed in November 2021.
 * XMM-Newton [090199]() (PI: Wibisono) - *Characterising X-rays from Uranus* - three full XMM orbits to detect X-rays from Uranus.
