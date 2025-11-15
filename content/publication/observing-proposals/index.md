@@ -77,13 +77,13 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * VLT/VISIR [116.28N4]() - (PI: Fletcher) - *Dynamics of Jupiter's Polar Stratosphere from a Combination of VISIR Imaging and Juno Radio Occultations*, 6hrs awarded 2025/26.
 * VLT/VISIR [116.290Y]() - (PI: Roman) - *The Thermal Radiance of Uranus: A Last Look with VISIR to Evaluate JWST Observations and Seasonal Progression*
-* VLT/VISIR [116.29DD]() - (PI: Roman) - *Tracking Saturn’s Atmospheric Dynamics at Autumn Equinox: Extending Cassini and Supporting JWST Observations*, 2hrs awarded 2025/26.
-* VLT/VISIR [116.291A]() - (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR, One Last Time*, 11hrs awarded 2025/26.
-* VLT/MUSE [116.28MX]() - (PI: Roman) - *Understanding Changes in the Polar Hood of Uranus*, 2hrs award 2025/26.
+* VLT/VISIR [116.29DD]() - (PI: Roman) - *Tracking Saturn’s Atmospheric Dynamics at Autumn Equinox: Extending Cassini and Supporting JWST Observations*, 2hrs awarded 2025-26.
+* VLT/VISIR [116.291A]() - (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR, One Last Time*, 11hrs awarded 2025-26.
+* VLT/MUSE [116.28MX]() - (PI: Roman) - *Understanding Changes in the Polar Hood of Uranus*, 2hrs award 2025-26.
 * VLT/MUSE [116.28MW]() - (PI: Roman) - *Understanding Neptune's Dark Features*, 1.5hrs award 2025/26.
 * IRTF MIRSI [2025B019]() (PI: G. Orton) - *A Joint Study of Jupiter's Atmosphere by MIRSI with Juno Microwave and Radio-Occultation Soundings*, several blocks of observations awarded for August 2025 to January 2026.
-* IRTF SpeX [2025B020]() (PI: G. Orton) - **, several blocks of observations awarded for August 2025 to January 2026.
-* VLT/VISIR [115.27VE]() - (PI: Fletcher) - *DJupiter's Polar Stratosphere: Joint Study of VISIR Imaging and Juno Radio Occultations*, 4hrs awarded 2025.
+* IRTF SpeX [2025B020]() (PI: G. Orton) - several blocks of observations awarded for August 2025 to January 2026.
+* VLT/VISIR [115.27VE]() - (PI: Fletcher) - *Jupiter's Polar Stratosphere: Joint Study of VISIR Imaging and Juno Radio Occultations*, 4hrs awarded 2025.
 * VLT/VISIR [115.283U]() - (PI: Orton) - *Tracking Saturn’s Atmospheric Dynamics at Autumn Equinox: Extending Cassini and Supporting JWST Observations*, 2hrs awarded 2025.
 * VLT/VISIR [115.287B]() - (PI: Roman) - *Weather or Not? Understanding Neptune's Surprising Atmospheric Variability with VLT-VISIR*, 11hrs awarded 2025.
 
