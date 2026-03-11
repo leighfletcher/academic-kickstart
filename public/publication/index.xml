@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/publication/</link>
+    <description>Recent content in Publications on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 21:19:57 +0100</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks</title>
+      <link>https://leighfletcher.github.io/publication/professional-talks/</link>
+      <pubDate>Thu, 16 May 2019 21:19:57 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/professional-talks/</guid>
+      <description>Invited and contributed talks at national and international meetings.</description>
+    </item>
+    
+    <item>
+      <title>News &amp; Views Articles</title>
+      <link>https://leighfletcher.github.io/publication/news-views/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/news-views/</guid>
+      <description>News &amp;amp; Views, Book Reviews, and Popular Science Articles.</description>
+    </item>
+    
+    <item>
+      <title>Observing Proposals</title>
+      <link>https://leighfletcher.github.io/publication/observing-proposals/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/observing-proposals/</guid>
+      <description>Observing proposals.</description>
+    </item>
+    
+    <item>
+      <title>Technical Papers</title>
+      <link>https://leighfletcher.github.io/publication/technical-publications/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/technical-publications/</guid>
+      <description>Technical publications, white papers, and mission proposals.</description>
+    </item>
+    
+    <item>
+      <title>Journal Articles</title>
+      <link>https://leighfletcher.github.io/publication/peer-reviewed/</link>
+      <pubDate>Thu, 30 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/publication/peer-reviewed/</guid>
+      <description>Peer-reviewed journal articles.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/project/</link>
+    <description>Recent content in Projects on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Feb 2019 21:04:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Europlanet: RAS-Juno Meeting 2018</title>
+      <link>https://leighfletcher.github.io/project/rasjuno/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/project/rasjuno/</guid>
+      <description>EuroPlanet 2020 Workshop in London, 10-11 May 2018: ‘New Views of Jupiter: Pro-Am Collaborations during and beyond the NASA Juno Mission’</description>
+    </item>
+    
+    <item>
+      <title>Ice Giants</title>
+      <link>https://leighfletcher.github.io/project/ice-giants/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/project/ice-giants/</guid>
+      <description>Ice giant atmospheres from ground-based telescopes and JWST.</description>
+    </item>
+    
+    <item>
+      <title>Jupiter&#39;s Climate Variability</title>
+      <link>https://leighfletcher.github.io/project/jupiter-climate-variability/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/project/jupiter-climate-variability/</guid>
+      <description>Jupiter&amp;rsquo;s long-term atmospheric cycles from ground-based telescopes.</description>
+    </item>
+    
+    <item>
+      <title>Saturn&#39;s Seasonal Atmosphere</title>
+      <link>https://leighfletcher.github.io/project/saturn-seasonal/</link>
+      <pubDate>Mon, 11 Feb 2019 21:04:51 +0000</pubDate>
+      
+      <guid>https://leighfletcher.github.io/project/saturn-seasonal/</guid>
+      <description>Exploring Saturn&amp;rsquo;s seasons from Cassini and ground-based telescopes.</description>
+    </item>
+    
+  </channel>
+</rss>

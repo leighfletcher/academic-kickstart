@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communities on Leigh Fletcher</title>
+    <link>https://leighfletcher.github.io/community/</link>
+    <description>Recent content in Communities on Leigh Fletcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2019 09:14:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://leighfletcher.github.io/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference Organising</title>
+      <link>https://leighfletcher.github.io/community/conferences/</link>
+      <pubDate>Thu, 11 Jul 2019 09:14:18 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/community/conferences/</guid>
+      <description>Conference and workshop organisation</description>
+    </item>
+    
+    <item>
+      <title>Leadership Positions</title>
+      <link>https://leighfletcher.github.io/community/community1/</link>
+      <pubDate>Thu, 11 Jul 2019 09:14:18 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/community/community1/</guid>
+      <description>Editorial Boards and Leadership roles.</description>
+    </item>
+    
+    <item>
+      <title>Reviewing</title>
+      <link>https://leighfletcher.github.io/community/reviewing/</link>
+      <pubDate>Thu, 11 Jul 2019 09:14:18 +0100</pubDate>
+      
+      <guid>https://leighfletcher.github.io/community/reviewing/</guid>
+      <description>Reviewing &amp;amp; Panel Membership activities.</description>
+    </item>
+    
+  </channel>
+</rss>
