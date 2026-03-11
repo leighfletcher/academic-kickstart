@@ -62,6 +62,10 @@ The following list attempts to keep track of awarded observing time each year, b
 
 * SOFIA - FORCAST, EXES
 
+## 2026
+* IRTF TEXES [2026A044]() (PI: S. Toogood) - A Coordinated TEXES, JWST, and Juno Campaign to Probe Jupiter’s Atmosphere in 2026, two runs awarded for February and July 2026.
+* IRTF MIRSI [2026A034]() (PI: G. Orton) - A Joint Study of Jupiter’s Atmosphere by MIRSI, Juno, and JWST, several blocks of observations awarded for February and August 2026.
+
 ## 2025
 * Hubble & JWST [9317](https://www.stsci.edu/jwst/science-execution/program-information.html?targetUrl=%2Fjwst-program-info%2Fprogram%2F%3Fprogram%3D9317%26pi%3D1%26referrer%3Dhttps%3A%2F%2Fwww.stsci.edu) (PI: A. Simon) - *Investigating Saturn's Equatorial Winds at Equinox,* 12 HST orbits in Cycle 33 and 10.6 JWST hours.
 

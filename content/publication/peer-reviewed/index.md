@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 260 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 269 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -58,9 +58,19 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 
 ## Published
 
+1. Maria Smirnova, Eli Galanti, Leigh N. Fletcher, Dustin R. Buccino, Glenn S. Orton, Andrea Caruso, Matteo Fonsetti, Paolo Tortora, Paul G. Steffes, Scott J. Bolton and Yohai Kaspi (2026), *Juno radio occultations reveal the structure of Jupiter’s cold northern polar vortex,* Astronomy & Astrophysics, 706, A109 (https://doi.org/10.1051/0004-6361/2025568196)
+
+1. T. Cavalié, R. Moreno, C. Lefour, B. Benmahi, T. Fouchet, E. Lellouch, É. Ducreux, M. Gurwell, F. Gueth, L. N. Fletcher, and D. Bardet (2026), *Observations of the temporal evolution of Saturn’s stratosphere following the Great Storm of 2010-2011 - II. Latitudinal distribution of CO and stratospheric winds,* Astronomy and Astrophysics, in press (https://doi.org/10.1051/0004-6361/202557032) (https://arxiv.org/abs/2601.20359)
+
+1. **L.N. Fletcher, Z. Zhang, S. Brown, F.A. Oyafuso, J.H. Rogers, M.H. Wong, A. Mura, G. Eichstadt, G.S. Orton S. Brueshaber, R. Sankar, C. Li, S.M. Levin, F. Biagiotti, T. Guillot, A. P. Ingersoll, D. Grassi, C.J. Hansen, S. Bolton, J.H. Waite (2025), *Structure of Jupiter’s High-Latitude Storms: Folded Filamentary Regions Revealed by Juno,* JGR: Planets, Volume 131, e2025JE009315 (https://arxiv.org/abs/2512.15696 (https://doi.org/10.1029/2025JE009315).**
+
+1. **L.N. Fletcher, A. Simon, M.H. Wong, J.D. Nichols, N.A. Teanby, C.A. Nixon, M. Galand (2025), *Exploring Solar System Giant Planets with Habitable Worlds Observatory,* accepted to the Astronomical Society of the Pacific (https://arxiv.org/abs/2510.17926)**
+
+1. Henrik Melin, L. N. Fletcher, H. B. Hammel, S. N. Milam, L. Moore, T. S. Stallard, J. O’Donoghue, P. I. Tiranti, E. M. Thomas, K. L. Knowles, M. Roman, L. Lamy, O. R. T. King, J. Harkett (2025), *The Ionosphere of Uranus as Revealed by JWST, Geophysical Research Letters,* Volume 52, e2025GL118301 (https://doi.org/10.1029/2025GL118301)
+
 1. Maria Smirnova, Eli Galanti, Andrea Caruso, Leigh N. Fletcher, Dustin R. Buccino, Luis Gomez Casajus, William B. Hubbard, Glenn S. Orton, Marzia Parisi, Ryan S. Park, Marco Zannoni, Paul G. Steffes, Steven M. Levin, Scott J. Bolton, Paolo Tortora, Yohai Kaspi (2025), *Probing Jupiter's Atmosphere through Juno Radio Occultations: Analysis of the Atmospheric Thermal Structure,* Geophysical Research Letters, Volume 52, e2025GL116804 (https://dx.doi.org/10.1029/2025GL116804)
 
-1. Imke de Pater, Darrell F. Strobel, Ashley G. Davies, Joachim Saur, Lorenz Roth, Katherine de Kleer, Emmanuel Lellouch, Zachariah Milby, Carl A. Schmidt, Thierry Fouchet, Michael H. Wong, Leigh N. Fletcher, Jake Harkett, Michael T. Roman, Richard J. Cartwright, Jason E. Perry, Julie Renaud-Kim, Carolyn Jordan, Stephan Schlegel, David A. Williams, David M. Nelson (2025), First Detection of [S I] in Near-IR JWST Observations of Io in Eclipse, and Comparison with SO Emissions, Evolving Volcanic Eruptions, and prior UV HST-STIS [S I] emissions, JGR: Planets, Volume 130, e2024JE008850 (https://doi.org/10.1029/2024JE008850). 
+1. Imke de Pater, Darrell F. Strobel, Ashley G. Davies, Joachim Saur, Lorenz Roth, Katherine de Kleer, Emmanuel Lellouch, Zachariah Milby, Carl A. Schmidt, Thierry Fouchet, Michael H. Wong, Leigh N. Fletcher, Jake Harkett, Michael T. Roman, Richard J. Cartwright, Jason E. Perry, Julie Renaud-Kim, Carolyn Jordan, Stephan Schlegel, David A. Williams, David M. Nelson (2025), *First Detection of [S I] in Near-IR JWST Observations of Io in Eclipse, and Comparison with SO Emissions, Evolving Volcanic Eruptions, and prior UV HST-STIS [S I] emissions,* JGR: Planets, Volume 130, e2024JE008850 (https://doi.org/10.1029/2024JE008850). 
 
 1. F. Biagiotti, L. N. Fletcher, D. Grassi, M. T. Roman, G. Piccioni, A. Mura, I. de Pater, T. Fouchet, M. H. Wong, R. Hueso, O. King, H. Melin, J. Harkett, S. Toogood, P. G. J. Irwin, F. Tosi, A. Adriani, G. Sindoni, C. Plainaki, R. Sordini, R. Noschese, A. Cicchetti, G. Orton, P. Rodriguez-Ovalle, G. L. Bjoraker, S. Levin, C. Li and S. Bolton (2025), *Machine learning spectral clustering techniques: Application to Jovian clouds from Juno/JIRAM and JWST/NIRSpec,* Astronomy and Astrophysics, Volume 701, A247 (https://doi.org/10.1051/0004-6361/202554552)
 

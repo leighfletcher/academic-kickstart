@@ -46,6 +46,10 @@ url_poster = ""
 
 This page lists my contributions to White Papers, Technical Reports, and Mission Proposals that are not published in peer-reviewed journals.
 
+1. Ricardo Hueso, Leigh N. Fletcher, Damya Souami, Thierry Fouchet, Tristan Guillot, Olivier Mousis, Patrick G. J. Irwin, Michael Roman, Arrate Antuñano, Athena Coustenis, Julia de León, Sonia Fornasier, Emmanuel Lellouch, Alice Lucchetti, Noemí Pinilla-Alonso, Don Pollacco, Agustín Sánchez-Lavega, Daniel Toledo (2025), Why the Northern Hemisphere Needs a 30-40 m Telescope and the Science at Stake: Key Targets of Opportunity on Gas and Ice Giants and their satellites, White Paper submitted to “ESO Expanding Horizons: Transforming Astronomy in the 2040s” (https://arxiv.org/abs/2512.14791)
+
+1. Leigh N. Fletcher et al. (2025), UK Leadership in the Exploration of Uranus and Neptune, White Paper submitted to UKSA Frontiers 2035 Decadal Survey.
+
 1. Olivier Mousis, David H. Atkinson, Richard Ambrosi, Sushil Atreya, Don Banfield, Stas Barabash, Michel Blanc, Thibault Cavalié, Athena Coustenis, Magali Deleuil, Georges Durry, Francesca Ferri, Leigh Fletcher, Thierry Fouchet, Tristan Guillot, Paul Hartogh, Ricardo Hueso, Mark Hofstadter, Jean-Pierre Lebreton, Kathleen E. Mandt, Heike Rauer, Pascal Rannou, Jean-Baptiste Renard, Agustin Sanchez-Lávega, Kunio Sayanagi, Amy Simon, Thomas Spilker, Ethiraj Venkatapathy, J. Hunter Waite, Peter Wurz (2019), In situ Exploration of the Giant Planets, ESA Voyage 2050 White Paper (https://arxiv.org/abs/1908.00917)
 
 1. Leigh N. Fletcher, Nicolas André, David Andrews, Michele Bannister, Emma Bunce, Thibault Cavalié, Sébastien Charnoz, Francesca Ferri, Jonathan Fortney, Davide Grassi, Léa Griton, Paul Hartogh, Ravit Helled, Ricardo Hueso, Geraint Jones, Yohai Kaspi, Laurent Lamy, Adam Masters, Henrik Melin, Julianne Moses, Olivier Mousis, Nadine Nettleman, Christina Plainaki, Elias Roussos, Jürgen Schmidt, Amy Simon, Gabriel Tobie, Paolo Tortora, Federico Tosi, Diego Turrini (2019), Ice Giant Systems: The Scientific Potential of Missions to the Uranus and Neptune Systems (ESA Voyage 2050 White Paper), (https://arxiv.org/abs/1907.02963)

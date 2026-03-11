@@ -20,6 +20,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+    title = "NASA Group Achievement Award:  Juno Occultation Team"
+    organization = "NASA"
+    certificate_url = ""
+    date_start = "2025-12-01"
+    date_end = ""
+    description = ""
+
+[[item]]
   title = "Harold C. Urey Prize"
   organization = "Division of Planetary Sciences"
   certificate_url = ""

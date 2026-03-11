@@ -17,14 +17,13 @@ weight = 60
 Through research grants from STFC, the Royal Society, and the European Research Council, I have been fortunate to work with a group of talented individuals as part of Leicester's Planetary Atmospheres Team.
 
 ### Current Postdoctoral Researchers
-* Dr. Michael Roman
 * Dr. Oliver King
 
 ### Current PhD Students
-* Jake Harkett
 * Simon Toogood
 
 ### Former Postdocs
+* Dr. Michael Roman
 * Dr. Henrik Melin
 * Dr. James Blake
 * Dr. Arrate Antuñano
@@ -32,6 +31,7 @@ Through research grants from STFC, the Royal Society, and the European Research 
 * Dr. Deborah Bardet
 
 ### Former Students
+* Dr. Jake Harkett
 * Dr. Oliver King
 * Dr. Naomi Rowe-Gurney
 * Dr. Padraig Donnelly
