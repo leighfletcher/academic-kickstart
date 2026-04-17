@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = "Royal Society URF (5 years) and URF Extension (3 years) to support giant planet research at the Universities of Oxford and Leicester."
 
 [[item]]
-  title = "STFC Consolidated Grant"
+  title = "STFC Grants"
   organization = "Science and Technology Facilities Council"
   certificate_url = ""
   date_start = "2016-04-01"

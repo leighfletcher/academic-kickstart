@@ -46,7 +46,7 @@ url_poster = ""
 
 My peer-reviewed journal articles by the numbers:
 
-* 269 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
+* 271 articles in peer-reviewed journals & books, 40 as lead author (Science, Nature, Nature Astro, Nature Comms, GRL, Icarus, A&A, ApJ, AJ, MNRAS, Annual Reviews, Space Science Reviews, JGR-Planets, Planetary Science Journal, Phil. Trans., Planetary and Space Science, Earth and Space Science, etc.)
 
 * 7 contributions to book chapters, 3 as lead author.
 
@@ -57,6 +57,13 @@ Additional information (and metrics) available via [PubLons](https://publons.com
 ## Submitted
 
 ## Published
+
+1. Imke de Pater, Mark R. Showalter, Matt M. Hedman, Heidi B. Hammel, Mike Roman, Leigh N. Fletcher, Maryame El Moutamid, Damya Souami (2026), *Characterization of the Outer Uranian Rings in the Visual and Near-IR Using Keck, JWST, and HST Observations*, JGR: Planets, 
+Volume 131, e2025JE009404 (https://doi.org/10.1029/2025JE009404)
+
+1. Joseph Penn, Patrick G. J. Irwin, Jack Dobinson, Leigh N. Fletcher, Nicholas A. Teanby, and Michael T. Roman (2026), *Reconciling Near-Infrared and Microwave Analyses of Neptune’s Hydrogen Sulphide Distribution,* Monthly Notices of the Royal Astronomical Society, stag688, (https://doi.org/10.1093/mnras/stag688)
+
+1. François Poulet, Giuseppe Piccioni, Yves Langevin, Cydalise Dumesnil, Vincent Carlier, Benoit Seignovert, Marc Dexet, Leigh N. Fletcher, Cédric Leyrat, Francesca Altieri, John Carter, Emiliano D'Aversa, Maria De Sanctis, Davide Grassi, Sandrine Guerlet, Stéphane Le Mouélic, Alessandra Migliorini, Fabrizio Oliva, Clément Royer, Sébastien Rodriguez, Katrin Stephan, Federico Tosi, Francesca Zambon, Alberto Adriani, Gabriele Arnold, Jean-Pierre Bibring, Dominique Bockelée, Rosario Brunetto, Fabrizio Capaccioni, Cristian Carli, Thibault Cavalié, Miriam Cisneros González, Mauro Ciarnello, Simone De Angelis, Pierre Drossart, Gianrico Filacchione, Thierry Fouchet, Jean-Claude Gérard, Denis Grodent, Patrick Irwin, Sophie Jacquinod, Ozgur Karatekin, Emmanuel Lellouch, Nicolas Ligier, Nicolas Mangold, Magali Mebsout, Frédéric Merlin, Alessandro Morbidelli, Alessandro Mura, Andreas Nathues, Maria E. Palumbo, Cédric Pilorget, Olivier Poch, Eric Quirico, Andrea Raponi, Séverine Robert, Elias Roussos, Agustin Sanchez-Lavega, Bernard Schmitt, Giuseppe Sindoni, Marcel Snels, Roberto Sordini, Stefania Stefani, Giovanni Strazzulla, Tim Trent, Gabriel Tobie, Diego Turrini, Ann-Carine Vandaele, Mathieu Vincendon, Olivier Witasse, Claire Vallat, and Alessandro Moraino (2026), *ESA/JUICE encounters Earth/Moon in 2024: overview of the Moons And Jupiter Imaging Spectrometer (MAJIS) observations,* Annales Geophysicae 44, 163–193 (https://doi.org/10.5194/angeo-44-163-2026)
 
 1. Maria Smirnova, Eli Galanti, Leigh N. Fletcher, Dustin R. Buccino, Glenn S. Orton, Andrea Caruso, Matteo Fonsetti, Paolo Tortora, Paul G. Steffes, Scott J. Bolton and Yohai Kaspi (2026), *Juno radio occultations reveal the structure of Jupiter’s cold northern polar vortex,* Astronomy & Astrophysics, 706, A109 (https://doi.org/10.1051/0004-6361/2025568196)
 
